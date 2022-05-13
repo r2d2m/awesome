@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [C#](#c)
+*   [ShaderLab](#shaderlab)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [PHP](#php)
 *   [Go](#go)
 *   [generic](#generic)
-*   [ShaderLab](#shaderlab)
 *   [HLSL](#hlsl)
 *   [Mathematica](#mathematica)
 *   [GDScript](#gdscript)
@@ -68,6 +68,7 @@
 
 ## C#
 
+*   [Gibibit/LootDropTables](https://github.com/Gibibit/LootDropTables) - Implementation of Loot Drop Tables in .NET as described by Daniel Cook
 *   [ricarrrdoaraujo/MetroidvaniaTools](https://github.com/ricarrrdoaraujo/MetroidvaniaTools) - The basic features of a metroidvania game
 *   [PurplefinNeptuna/MV](https://github.com/PurplefinNeptuna/MV) - A Metroidvania framework for Unity 2019.1
 *   [ArnonGuttel/metroid-nes-remake](https://github.com/ArnonGuttel/metroid-nes-remake) - Fan remake of the 1986 origin Metroid, Using Unity & C#
@@ -3456,7 +3457,188 @@
 *   [uclagamelab/MeshCreator](https://github.com/uclagamelab/MeshCreator) - A set of Unity3d scripts to enable simple mesh creation from 2d textures in the editor.
 *   [MrJoy/UnitySVG](https://github.com/MrJoy/UnitySVG) - SVG renderer for Unity3D.
 *   [obviousjim/Programming3dWorlds](https://github.com/obviousjim/Programming3dWorlds) - Course Material for Programming 3D Worlds, Unity3d for Creative Coding ITP Spring 2012
-*   [paynechu/jsonfx-for-unity3d](https://github.com/paynechu/jsonfx-for-unity3d) - fork from bitbucket's jsonfx-for-unity3d
+
+## ShaderLab
+
+*   [Xibanya/ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!
+*   [Delt06/ui-scaling-toolkit](https://github.com/Delt06/ui-scaling-toolkit) - A collection of components to ensure proper UI scaling for mobile devices.
+*   [hardikpnsp/circuit-simulator](https://github.com/hardikpnsp/circuit-simulator) - A simple circuit-simulator made with unity
+*   [slashrawr/unity-crack-shader](https://github.com/slashrawr/unity-crack-shader) - A simple shader that mimics a crack, crevice or hole in a an otherwise solid mesh.
+*   [MostafaH-01/Robin-Hood-Third-Person-Shooter](https://github.com/MostafaH-01/Robin-Hood-Third-Person-Shooter) - 3D Unity game that revolves around a character shooting targets with a bow and arrow with custom string draw, sheathing, and unsheathing animations. The aim is to hit five targets in a certain amount of time. Statistics are saved after each game.
+*   [CCappsDevelopment/sample-rpg-battle-scene](https://github.com/CCappsDevelopment/sample-rpg-battle-scene) - 2D Unity project that creates a turn-based battle sequence.
+*   [llamacademy/bullet-impacts](https://github.com/llamacademy/bullet-impacts) - In this tutorial you will learn how to create a basic RigidBody Bullet that on impact, will have a particle system play at the impact location based on the material of the object the bullet collides with.
+*   [chenjd/Unity-Flip-Book-With-Shader](https://github.com/chenjd/Unity-Flip-Book-With-Shader) - Unity Flip Book With Shader.利用shader实现翻页的效果。
+*   [medranSolus/SoundEater](https://github.com/medranSolus/SoundEater) - Inverse horror game with Dolby Atmos.
+*   [IRCSS/MatrixVFX](https://github.com/IRCSS/MatrixVFX) - A realtime Matrix VFX Shader in Unity 3D
+*   [NekoMale/Unity_BrainfuckInterpreter](https://github.com/NekoMale/Unity_BrainfuckInterpreter) -
+*   [EricBatlle/UnityNeuralNetwork](https://github.com/EricBatlle/UnityNeuralNetwork) - 🧠🤖Unity Neural Network (Genetic, Unsupervised)
+*   [nikitabm/card-sorting](https://github.com/nikitabm/card-sorting) - Card sorting study developed in Unity
+*   [zeroregard/CircularColorPickerUnity](https://github.com/zeroregard/CircularColorPickerUnity) - Just a shader and a script for a circular color picker
+*   [AlexanderKYoung/AutoChessCardGame](https://github.com/AlexanderKYoung/AutoChessCardGame) - A Unity developed auto-chess game inspired by TCGs.
+*   [JamesDante/Dota2-Shader-For-Unity](https://github.com/JamesDante/Dota2-Shader-For-Unity) - Dota2 Shader for Unity Engine
+*   [paloisool/tf2-shaders](https://github.com/paloisool/tf2-shaders) - this is tf2 shaders for unity its close not like origian free to use
+*   [chenjd/Unity_UI_Gamma](https://github.com/chenjd/Unity_UI_Gamma) - A project that solves the the UI rendering issue in the linear space.
+*   [Konadu-Akwasi-Akuoko/Easy-Camera-Shake-Effect-In-Unity](https://github.com/Konadu-Akwasi-Akuoko/Easy-Camera-Shake-Effect-In-Unity) - Learn how to select a random point inside a circle, this can help you to create a cameras shake effect in unity, assign assign NPC's to random points in games. Have Fun!!!
+*   [AldeRoberge/Keyboard](https://github.com/AldeRoberge/Keyboard) - Simple Unity Visual Keyboard
+*   [luigg11/ArcadeVehiclesPhysics](https://github.com/luigg11/ArcadeVehiclesPhysics) - Custom vehicle physics for arcade-style games, made for Unity
+*   [benmcinnes/ArcadeVehiclePhysics](https://github.com/benmcinnes/ArcadeVehiclePhysics) - A framework for creating an arcade inspired physics system for vehicles in Unity
+*   [owo/retroreflective_shader](https://github.com/owo/retroreflective_shader) - A Unity shader for retroreflective / high-visibility materials such as road signs.
+*   [ozanbariscem/lua-developer-console-for-Unity](https://github.com/ozanbariscem/lua-developer-console-for-Unity) -
+*   [llcheesell/LEDScreenShader](https://github.com/llcheesell/LEDScreenShader) - Realistic LED Shader for Unity
+*   [PanMig/Unity-RTS-Camera](https://github.com/PanMig/Unity-RTS-Camera) - A unity (c#) script that implements a RTS Camera for real-time strategy games.
+*   [chrisloop/HDRPEdges](https://github.com/chrisloop/HDRPEdges) -
+*   [chrisloop/HDRP_TOON\_2021](https://github.com/chrisloop/HDRP_TOON\_2021) -
+*   [ToughNutToCrack/FortniteBattleBus](https://github.com/ToughNutToCrack/FortniteBattleBus) - Fortnite Buttle Bus and Jump - Made with Unity 2019.3.9f1
+*   [Robert-K/light2D](https://github.com/Robert-K/light2D) - Realtime 2D Raytracing in Unity using Signed Distance Fields
+*   [llamacademy/smooth-look-at](https://github.com/llamacademy/smooth-look-at) - A simple project created for the video: https://youtu.be/2XEiHf1N_EY to smoothly turn an object to look at another target.
+*   [judah4/HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) - HSV color picker for Unity UI
+*   [naelstrof/UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
+*   [kitepro/FogOfWar](https://github.com/kitepro/FogOfWar) - A plugin for Unity3D to add Fog of War to a game.
+*   [inolalala/GhostCharge](https://github.com/inolalala/GhostCharge) - Realize Ruiner's dash effect in Unity
+*   [Azhar564/DashEffectUnity](https://github.com/Azhar564/DashEffectUnity) - Simple Dash Effect Unity
+*   [JonLevin25/UnityGameConnector](https://github.com/JonLevin25/UnityGameConnector) - A framework for game jams -  joining separate games and letting them pass abstract payloads to one another
+*   [wodud1378/Unity-Addressable-Assets-Patch-System](https://github.com/wodud1378/Unity-Addressable-Assets-Patch-System) - Unity Addressable Assets Patch System.
+*   [AustinsOffice/Floating-Damage-Text-in-Unity](https://github.com/AustinsOffice/Floating-Damage-Text-in-Unity) - Source files from the video Creating Floating Damage Text in Unity 5.
+*   [AlexanderOcias/UnityPixelArtCamera](https://github.com/AlexanderOcias/UnityPixelArtCamera) - Easy pixel art camera rendering in Unity
+*   [Nox7atra/Unity-Figma-Gradients](https://github.com/Nox7atra/Unity-Figma-Gradients) -
+*   [sniffle6/Scriptable-Object-Inventory](https://github.com/sniffle6/Scriptable-Object-Inventory) - A scriptable object based inventory system for Unity3D
+*   [cafungo/Recreating-Life-bar-of-League-of-Legends](https://github.com/cafungo/Recreating-Life-bar-of-League-of-Legends) - Health bar like League of legends in Unity
+*   [Daniel-Griffiths/nier-hacking-minigame](https://github.com/Daniel-Griffiths/nier-hacking-minigame) - A clone of the NieR hacking minigame made in Unity
+*   [josemorval/Fire-2D-in-Unity](https://github.com/josemorval/Fire-2D-in-Unity) -
+*   [Tirarex/Unity-WatchDogsRadar](https://github.com/Tirarex/Unity-WatchDogsRadar) -
+*   [inoook/DepthViewShader](https://github.com/inoook/DepthViewShader) - DepthView and Radar shader. unity.
+*   [merpheus-dev/RadarShader](https://github.com/merpheus-dev/RadarShader) - Simple Radar Shader with object display support by default using Arrays
+*   [agerarg/UnitySkillTree](https://github.com/agerarg/UnitySkillTree) -
+*   [Feeziks/Enter_The_Gungeon_Breakdown](https://github.com/Feeziks/Enter_The_Gungeon_Breakdown) -
+*   [ssell/UnitySobelOutline](https://github.com/ssell/UnitySobelOutline) - Example implementation of a Sobel Outline Post-Processing effect
+*   [kwnetzwelt/PointCloudMeshRendering](https://github.com/kwnetzwelt/PointCloudMeshRendering) - Renders any mesh as a point cloud in unity
+*   [9D-Tony/UnitySmoothPixelFiltering](https://github.com/9D-Tony/UnitySmoothPixelFiltering) - A unity shader for smooth pixel filtering, based on CptPotato's smooth filtering
+*   [DYGuiton/Unity-Board-Game](https://github.com/DYGuiton/Unity-Board-Game) - A Unity 3D Engine board game prototype utilizing personal assets created in the Blender modelling suite and programmed in a C# environment.
+*   [houby-studio/shake-dice-up](https://github.com/houby-studio/shake-dice-up) - Unity mobile game, which allows you to shake your phone to shake dice inside dice shaking cup.
+*   [Hurtares/slay-the-bad-north](https://github.com/Hurtares/slay-the-bad-north) - Game made in Unity for Masters Degree class
+*   [ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader) - Unity unlit screen space decal shader for URP. Just create a new material using this shader, then assign it to a new unity cube GameObject = DONE, now you have unlit decal working in URP
+*   [selewi/quake-skybox-shader-unity](https://github.com/selewi/quake-skybox-shader-unity) - A shader for Unity that replicates the fake Quake 1 skybox
+*   [Azradian/Hearthstone-Fan-Card-Creator](https://github.com/Azradian/Hearthstone-Fan-Card-Creator) - Personal tool for creating fan-made Hearthstone cards.
+*   [DapperDino/Unity-Multiplayer-Tutorials](https://github.com/DapperDino/Unity-Multiplayer-Tutorials) - Repo for my Unity Multiplayer Tutorials
+*   [hecomi/UnityWaterSurface](https://github.com/hecomi/UnityWaterSurface) - Water Surface Simulation using CutomRenderTexture in Unity 2017.1
+*   [maajor/Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) - Reimplement Sea of Thieves's Cloud in Unity
+*   [ToughNutToCrack/Watercolors-effect](https://github.com/ToughNutToCrack/Watercolors-effect) - Watercolor effect in Unity 2019.2.11f1
+*   [starikcetin/Eflatun.WebView](https://github.com/starikcetin/Eflatun.WebView) - WebView for Unity.
+*   [sidsayshmm/Weapon-System-Unity](https://github.com/sidsayshmm/Weapon-System-Unity) - Scalable Weapons system implementation in Unity based off popular FPS games.
+*   [RinenProductions/unity-sprite-smear-shader](https://github.com/RinenProductions/unity-sprite-smear-shader) -
+*   [ogxd/grid-shader-unity](https://github.com/ogxd/grid-shader-unity) - A grid shader for Unity 🌐
+*   [UnityTechnologies/InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors) - Example Project for the new Unity Input System
+*   [TripleEh/StylisedWater_SurfaceShader](https://github.com/TripleEh/StylisedWater_SurfaceShader) - Simple water shader in the style of Zelda: Wind Waker
+*   [tugbacetin/Icon-Studio](https://github.com/tugbacetin/Icon-Studio) - PNG thumbnail creator from 3D prefabs with custom or transparent backgroung using UNITY3D
+*   [GibsS/unity-mask-lighting](https://github.com/GibsS/unity-mask-lighting) - 2D library that enables mask like lighting (similar to games like Nuclear Throne)
+*   [coty-crg/SeeThroughEffect](https://github.com/coty-crg/SeeThroughEffect) - Simple see through effect for Unity. Does an extra pass in the Standard shader that draws if ztest fails, basically. Also does an optional stencil check against xray blocking objects.
+*   [x753/True-Shaders-for-Unity](https://github.com/x753/True-Shaders-for-Unity) - A pack including several experimental Unity shaders that allow you to see objects through walls and more
+*   [DapperDino/Mirror-Multiplayer-Tutorials](https://github.com/DapperDino/Mirror-Multiplayer-Tutorials) - Repo for my Mirror Multiplayer Tutorials
+*   [DapperDino/Unity-Localisation](https://github.com/DapperDino/Unity-Localisation) - Repo for my Unity Localisation tutorials
+*   [SiiMeR/VHS-Shader](https://github.com/SiiMeR/VHS-Shader) - A shader aiming to reproduce the VHS effect. Based on https://github.com/staffantan/unity-vhsglitch with improvements by me.
+*   [Fewes/VolumetricTracer](https://github.com/Fewes/VolumetricTracer) - A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
+*   [Tunied/CERuntimeNodeGraphEditor](https://github.com/Tunied/CERuntimeNodeGraphEditor) - yet another unity runtime node graph editor :(
+*   [IRCSS/Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) - A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
+*   [IRCSS/Geometry-Grass-Shader](https://github.com/IRCSS/Geometry-Grass-Shader) - Geometry grass shader for Unity engine
+*   [dyfer08/UnityTools](https://github.com/dyfer08/UnityTools) - A series of useful Unity tools
+*   [lifangjie/BayerDistanceDither](https://github.com/lifangjie/BayerDistanceDither) - dither fade out, unity example
+*   [bodhid/UnityDitheredShadows](https://github.com/bodhid/UnityDitheredShadows) - Unity Shadow Dithering, filter for hiding low resolution shadow maps
+*   [jmickle66666666/PSX-Dither-Shader](https://github.com/jmickle66666666/PSX-Dither-Shader) - PSX-style dither shader for Unity
+*   [benTenure/AutoBattler](https://github.com/benTenure/AutoBattler) -
+*   [GabMeloche/Chameleon](https://github.com/GabMeloche/Chameleon) - An infiltration-style Unity game with texture-changing stealth dynamics (WIP).
+*   [daniel-ilett/smo-shaders](https://github.com/daniel-ilett/smo-shaders) - A collection of shaders to replicate those used in Super Mario Odyssey's Snapshot Mode.
+*   [ValentinGurkov/UnityGrassGeometryShader](https://github.com/ValentinGurkov/UnityGrassGeometryShader) - Geometry grass shader for Unity
+*   [DapperDino/Unity-Developer-Console-Tutorial](https://github.com/DapperDino/Unity-Developer-Console-Tutorial) - Repo for my "Unity Developer Console" tutorial.
+*   [bryanrtboy/ExplodingViewDiagram](https://github.com/bryanrtboy/ExplodingViewDiagram) - A small Unity project that demonstrates a workflow to create an exploding view diagram with labels.
+*   [pboechat/ProceduralCity](https://github.com/pboechat/ProceduralCity) - Unity demo that uses a few tricks to build random nice-looking 3D cities
+*   [Zeratu/NiYongYuanCaiBuDao](https://github.com/Zeratu/NiYongYuanCaiBuDao) - Let's Dance!
+*   [ardahamamcioglu/Unity-Stylised-Shader](https://github.com/ardahamamcioglu/Unity-Stylised-Shader) - A fairly versatile unity surface shader for achieving a comic book style in games.
+*   [chenjd/UnitySpecialEffectWithDepth](https://github.com/chenjd/UnitySpecialEffectWithDepth) - Using depth data to achieve scanning effects, x-ray effects, and shield energy field effects. Version Unity5.6 +
+*   [andrewgotow/Heatwave](https://github.com/andrewgotow/Heatwave) - A simple post-processing effect for the Unity game engine which renders small-scale distortions.
+*   [alexbourgeois/OBNI](https://github.com/alexbourgeois/OBNI) - Objet Bruité Non Identifié - Unity displacement shader
+*   [mihailt/LevelGeneration](https://github.com/mihailt/LevelGeneration) - Unity random level generation
+*   [Dnawrkshp/splatter-map](https://github.com/Dnawrkshp/splatter-map) - Dynamic splatoon-style splatter system for Unity 3D.
+*   [yourcomputer/RealityShader64](https://github.com/yourcomputer/RealityShader64) - Unity shader with cutting edge 90's technology
+*   [danielshervheim/unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water) - A stylized water shader (and material presets) for Unity.
+*   [cubedparadox/Cubeds-Unity-Shaders](https://github.com/cubedparadox/Cubeds-Unity-Shaders) - A compilation of custom shaders for Unity3D
+*   [netri/Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders) - Collection of shaders for Unity3D and VRChat
+*   [javiersalcedopuyo/Unity3DShaders](https://github.com/javiersalcedopuyo/Unity3DShaders) -  Simple shaders for Unity3D that I created for games, for a challenge or following tutorials.
+*   [DMeville/Volumetric-Occlusion-Mask-SRP](https://github.com/DMeville/Volumetric-Occlusion-Mask-SRP) - Using SRP to create a volumetric occlusion mask for objects to use in their render pass
+*   [artak10t/VerticalFog](https://github.com/artak10t/VerticalFog) - Simple Unity3d shader for creating depth effect by using only one sided plane
+*   [DapperDino/RPG-Systems-Tutorial](https://github.com/DapperDino/RPG-Systems-Tutorial) - Repo for my "RPG Systems Tutorial" series.
+*   [DapperDino/Tooltip-UI-Tutorial](https://github.com/DapperDino/Tooltip-UI-Tutorial) - Repo for my "Tooltip UI Tutorial".
+*   [DapperDino/Item-System-Tutorial](https://github.com/DapperDino/Item-System-Tutorial) - Repo for my "Item System Tutorial" mini-series.
+*   [ciro-unity/ShaderGraph-OneOffEffects](https://github.com/ciro-unity/ShaderGraph-OneOffEffects) - Small demo showing off using nested SubGraphs in Shader Graph + creating one-off effects in shaders
+*   [devdogio/sci-fi-ui](https://github.com/devdogio/sci-fi-ui) -
+*   [MarekMarchlewicz/Minimap](https://github.com/MarekMarchlewicz/Minimap) - \[Unity] Dynamically generated minimap with isolines
+*   [leducanhh/HealthbarUIShader](https://github.com/leducanhh/HealthbarUIShader) - Learn to create Healthbar UI by yourself, independent of Unity UI
+*   [leonardo-montes/Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
+*   [PixeyeHQ/CryoshockMini](https://github.com/PixeyeHQ/CryoshockMini) -
+*   [alanpeng1204/UnitySimulationOfBoatSupport](https://github.com/alanpeng1204/UnitySimulationOfBoatSupport) - UnitySimulationOfBoatSupport
+*   [knapeczadam/Unity-Procedural-Examples-Updated](https://github.com/knapeczadam/Unity-Procedural-Examples-Updated) - :stars: Updated version of the official Unity Procedural Examples project
+*   [hecomi/UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean) - Screen Space Boolean Implementation for Unity.
+*   [ZauronDark/Mathf-unity-ECS](https://github.com/ZauronDark/Mathf-unity-ECS) - 250,000 Entities in a scene with using Unity Game Engine (used entities v0.1.1-preview) (project currently paused)
+*   [kevinaristotle/Toonity](https://github.com/kevinaristotle/Toonity) - A collection of toon shaders for Unity
+*   [danielshervheim/unity-stylized-sand](https://github.com/danielshervheim/unity-stylized-sand) - A stylized sand shader (and material presets) for Unity.
+*   [JiepengTan/FishManShaderTutorial](https://github.com/JiepengTan/FishManShaderTutorial) - shader 中级教程
+*   [perebalsach/100DaysOfShaders](https://github.com/perebalsach/100DaysOfShaders) - Unity Shaders from the #100DaysOfCode challenge
+*   [IronWarrior/UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) - Source code for Grass Shader tutorial for Unity. Generates blades with a geometry shader, tessellates input mesh to control density.
+*   [IronWarrior/UnityToonShader](https://github.com/IronWarrior/UnityToonShader) - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
+*   [Philipp-Seifried/MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) - Proof of concept for a translucency / fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer. (Unity)
+*   [jackisgames/ShaderForge](https://github.com/jackisgames/ShaderForge) - Shader forge for unity 2018
+*   [alexismorin/Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
+*   [salt-shaker/Unity-Rubys-Adventure-2D](https://github.com/salt-shaker/Unity-Rubys-Adventure-2D) - A 2D Unity Tutorial
+*   [Kawarimi/openstone](https://github.com/Kawarimi/openstone) - A unity hearthstone clone with the goal of using easy to make "card packs" for customised gameplay
+*   [IronWarrior/ToonWaterShader](https://github.com/IronWarrior/ToonWaterShader) - Source code for Toon Water Shader tutorial for Unity. Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.
+*   [Chaser324/unity-wireframe](https://github.com/Chaser324/unity-wireframe) - General purpose wireframe shaders for use in Unity.
+*   [muckSponge/Optically-Realistic-Water](https://github.com/muckSponge/Optically-Realistic-Water) - A Unity port of Martins Upitis' fantastic ocean water shader, which was originally coded in GLSL for Blender.
+*   [Sorumi/UnityFurShader](https://github.com/Sorumi/UnityFurShader) - 🐈 Fur shader for Unity.
+*   [JPBotelho/Soap-Bubble](https://github.com/JPBotelho/Soap-Bubble) - A surface shader based on ShaderX1
+*   [JPBotelho/Background-Terrain-Shader](https://github.com/JPBotelho/Background-Terrain-Shader) - A vertex shader for background terrain based on noise.
+*   [JPBotelho/Voxelizer](https://github.com/JPBotelho/Voxelizer) - A vertex shader rounding 'voxelizer'
+*   [JPBotelho/Camouflage-Shader](https://github.com/JPBotelho/Camouflage-Shader) - Camo surface shader made in unity with support for camo map. Inspired in WoT
+*   [shantanubhadoria/Unity3D-Shaders-Basic](https://github.com/shantanubhadoria/Unity3D-Shaders-Basic) - Basic Unity3D Shaders
+*   [knapeczadam/Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - :sparkles: Shader demo - More than 300 examples
+*   [Josh015/Alloy](https://github.com/Josh015/Alloy) - Alloy physical shader framework for Unity.
+*   [SamuelQZQ/Unity-Visual-Effect-Library](https://github.com/SamuelQZQ/Unity-Visual-Effect-Library) - Make different kinds of typical Visual Effects which could be valuable reference.
+*   [SquirrelyJones/OpaqueActiveCamo](https://github.com/SquirrelyJones/OpaqueActiveCamo) - Unity 3d project showing opaque active camouflage rendering technique
+*   [SquirrelyJones/DynamicRipples](https://github.com/SquirrelyJones/DynamicRipples) - Dynamic ripple rendering and water surface compositing for Unity 3D
+*   [SquirrelyJones/DarkAndStormy](https://github.com/SquirrelyJones/DarkAndStormy) - Overcast clouds with crazy colors skybox shader for Unity3d
+*   [albertomelladoc/Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) - Cel Shading of two thresholds with a blur/gradient between them for Unity
+*   [HAliss/website-archive](https://github.com/HAliss/website-archive) - An archive of all shown scripts and shaders in http://halisavakis.com
+*   [MaxwellGengYF/Unity-Collapsible-Ground](https://github.com/MaxwellGengYF/Unity-Collapsible-Ground) - Collapsible ground by Unity DX11 Tessellation & sub camera render
+*   [marmitoTH/unity-enhanced-foliage](https://github.com/marmitoTH/unity-enhanced-foliage) - Moving grass and leaves outside unity terrain.
+*   [keijiro/Isaura](https://github.com/keijiro/Isaura) - An attempt at making a aura thingie with a isoline shader.
+*   [vux427/ForceFieldFX](https://github.com/vux427/ForceFieldFX) -
+*   [aramanamu/Fog](https://github.com/aramanamu/Fog) - Unity Shader Demo
+*   [Centribo/Unity-Shader-Basics-Tutorial](https://github.com/Centribo/Unity-Shader-Basics-Tutorial) - A introduction into creating shaders for Unity
+*   [r3eckon/Unity-SimpleGrid-Shader](https://github.com/r3eckon/Unity-SimpleGrid-Shader) - Simple alpha cutout grid shader and GUI customizable parameters
+*   [roguecode/Unity-Simple-SRT](https://github.com/roguecode/Unity-Simple-SRT) - A super simple SRT subtitle parser
+*   [aaaleee/UnityScanlinesEffect](https://github.com/aaaleee/UnityScanlinesEffect) - A simple scanlines image effect for Unity3D
+*   [nahkranoth/Skateboard](https://github.com/nahkranoth/Skateboard) - A Skateboard game in Unity
+*   [keijiro/TestCards](https://github.com/keijiro/TestCards) - A simple test pattern generator.
+*   [Nition/UnityTerrainGrass](https://github.com/Nition/UnityTerrainGrass) - Drop-in replacement terrain grass shaders for Unity
+*   [PandaArcade/SquashAndStretch](https://github.com/PandaArcade/SquashAndStretch) - A Unity 2018.10b12 project where I am experimenting with a squash and stretch shader.
+*   [pelengami/unity-grabsquares-effect](https://github.com/pelengami/unity-grabsquares-effect) - Unity GrabSquares Effect
+*   [khalladay/PencilSketchEffect](https://github.com/khalladay/PencilSketchEffect) - Real Time Hatching In Unity
+*   [QianMo/Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader) - :boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
+*   [danielzeller/Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) - Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.
+*   [Scrawk/Tiled-Directional-Flow](https://github.com/Scrawk/Tiled-Directional-Flow) - A shader to control the direction water flows based on a flow map in Unity.
+*   [ellioman/ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
+*   [BrokenVector/LowPolyShaders](https://github.com/BrokenVector/LowPolyShaders) - Unity shaders optimized for Low Poly models.
+*   [UnityTechnologies/ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary) - A library of Shaders created using Unity's Shader Graph.
+*   [RenanBomtempo/polygon-wind](https://github.com/RenanBomtempo/polygon-wind) - Wind shader for low poly assets in Unity.
+*   [natalielh/unity_utilities](https://github.com/natalielh/unity_utilities) - Some scripts to perform a few simple functions in Unity, with descriptions on how to use them in the game engine.
+*   [Scrawk/Wireframe-Shader](https://github.com/Scrawk/Wireframe-Shader) - A wireframe material in Unity using the geometry shader.
+*   [smkplus/Quantum-break](https://github.com/smkplus/Quantum-break) - Quantum-break Shaders Tutorial
+*   [Brackeys/Dialogue-System](https://github.com/Brackeys/Dialogue-System) - Project files for a tutorial on creating a Dialogue System in Unity
+*   [WorldOfZero/UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations) - Collection of shaders and visual effects created for Unity 3D.
+*   [ewersp/Shaders](https://github.com/ewersp/Shaders) - A collection of shaders written in CG/ShaderLab for Unity.
+*   [gkjohnson/unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) - Unity material and shader for applying clipped, dithered transparency
+*   [staffantan/unity-vhsglitch](https://github.com/staffantan/unity-vhsglitch) - glitched VHS post-processing shader for Unity3D
+*   [keijiro/StandardTriplanar](https://github.com/keijiro/StandardTriplanar) - Unity's standard shader with triplanar mapping
+*   [sergilazaro/GameboyEffect](https://github.com/sergilazaro/GameboyEffect) - Script and Shader for Gameboy effect for Unity3D
+*   [keijiro/CrossFadingLod](https://github.com/keijiro/CrossFadingLod) - (Unity) Cross-fading LOD shader example
 
 ## TypeScript
 
@@ -4718,187 +4900,6 @@
 *   [keijiro/Fragments](https://github.com/keijiro/Fragments) - Fragment mesh objects for particle effects in Unity
 *   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
-## ShaderLab
-
-*   [Delt06/ui-scaling-toolkit](https://github.com/Delt06/ui-scaling-toolkit) - A collection of components to ensure proper UI scaling for mobile devices.
-*   [hardikpnsp/circuit-simulator](https://github.com/hardikpnsp/circuit-simulator) - A simple circuit-simulator made with unity
-*   [slashrawr/unity-crack-shader](https://github.com/slashrawr/unity-crack-shader) - A simple shader that mimics a crack, crevice or hole in a an otherwise solid mesh.
-*   [MostafaH-01/Robin-Hood-Third-Person-Shooter](https://github.com/MostafaH-01/Robin-Hood-Third-Person-Shooter) - 3D Unity game that revolves around a character shooting targets with a bow and arrow with custom string draw, sheathing, and unsheathing animations. The aim is to hit five targets in a certain amount of time. Statistics are saved after each game.
-*   [CCappsDevelopment/sample-rpg-battle-scene](https://github.com/CCappsDevelopment/sample-rpg-battle-scene) - 2D Unity project that creates a turn-based battle sequence.
-*   [llamacademy/bullet-impacts](https://github.com/llamacademy/bullet-impacts) - In this tutorial you will learn how to create a basic RigidBody Bullet that on impact, will have a particle system play at the impact location based on the material of the object the bullet collides with.
-*   [chenjd/Unity-Flip-Book-With-Shader](https://github.com/chenjd/Unity-Flip-Book-With-Shader) - Unity Flip Book With Shader.利用shader实现翻页的效果。
-*   [medranSolus/SoundEater](https://github.com/medranSolus/SoundEater) - Inverse horror game with Dolby Atmos.
-*   [IRCSS/MatrixVFX](https://github.com/IRCSS/MatrixVFX) - A realtime Matrix VFX Shader in Unity 3D
-*   [NekoMale/Unity_BrainfuckInterpreter](https://github.com/NekoMale/Unity_BrainfuckInterpreter) -
-*   [EricBatlle/UnityNeuralNetwork](https://github.com/EricBatlle/UnityNeuralNetwork) - 🧠🤖Unity Neural Network (Genetic, Unsupervised)
-*   [nikitabm/card-sorting](https://github.com/nikitabm/card-sorting) - Card sorting study developed in Unity
-*   [zeroregard/CircularColorPickerUnity](https://github.com/zeroregard/CircularColorPickerUnity) - Just a shader and a script for a circular color picker
-*   [AlexanderKYoung/AutoChessCardGame](https://github.com/AlexanderKYoung/AutoChessCardGame) - A Unity developed auto-chess game inspired by TCGs.
-*   [JamesDante/Dota2-Shader-For-Unity](https://github.com/JamesDante/Dota2-Shader-For-Unity) - Dota2 Shader for Unity Engine
-*   [paloisool/tf2-shaders](https://github.com/paloisool/tf2-shaders) - this is tf2 shaders for unity its close not like origian free to use
-*   [chenjd/Unity_UI_Gamma](https://github.com/chenjd/Unity_UI_Gamma) - A project that solves the the UI rendering issue in the linear space.
-*   [Konadu-Akwasi-Akuoko/Easy-Camera-Shake-Effect-In-Unity](https://github.com/Konadu-Akwasi-Akuoko/Easy-Camera-Shake-Effect-In-Unity) - Learn how to select a random point inside a circle, this can help you to create a cameras shake effect in unity, assign assign NPC's to random points in games. Have Fun!!!
-*   [AldeRoberge/Keyboard](https://github.com/AldeRoberge/Keyboard) - Simple Unity Visual Keyboard
-*   [luigg11/ArcadeVehiclesPhysics](https://github.com/luigg11/ArcadeVehiclesPhysics) - Custom vehicle physics for arcade-style games, made for Unity
-*   [benmcinnes/ArcadeVehiclePhysics](https://github.com/benmcinnes/ArcadeVehiclePhysics) - A framework for creating an arcade inspired physics system for vehicles in Unity
-*   [owo/retroreflective_shader](https://github.com/owo/retroreflective_shader) - A Unity shader for retroreflective / high-visibility materials such as road signs.
-*   [ozanbariscem/lua-developer-console-for-Unity](https://github.com/ozanbariscem/lua-developer-console-for-Unity) -
-*   [llcheesell/LEDScreenShader](https://github.com/llcheesell/LEDScreenShader) - Realistic LED Shader for Unity
-*   [PanMig/Unity-RTS-Camera](https://github.com/PanMig/Unity-RTS-Camera) - A unity (c#) script that implements a RTS Camera for real-time strategy games.
-*   [chrisloop/HDRPEdges](https://github.com/chrisloop/HDRPEdges) -
-*   [chrisloop/HDRP_TOON\_2021](https://github.com/chrisloop/HDRP_TOON\_2021) -
-*   [ToughNutToCrack/FortniteBattleBus](https://github.com/ToughNutToCrack/FortniteBattleBus) - Fortnite Buttle Bus and Jump - Made with Unity 2019.3.9f1
-*   [Robert-K/light2D](https://github.com/Robert-K/light2D) - Realtime 2D Raytracing in Unity using Signed Distance Fields
-*   [llamacademy/smooth-look-at](https://github.com/llamacademy/smooth-look-at) - A simple project created for the video: https://youtu.be/2XEiHf1N_EY to smoothly turn an object to look at another target.
-*   [judah4/HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) - HSV color picker for Unity UI
-*   [naelstrof/UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
-*   [kitepro/FogOfWar](https://github.com/kitepro/FogOfWar) - A plugin for Unity3D to add Fog of War to a game.
-*   [inolalala/GhostCharge](https://github.com/inolalala/GhostCharge) - Realize Ruiner's dash effect in Unity
-*   [Azhar564/DashEffectUnity](https://github.com/Azhar564/DashEffectUnity) - Simple Dash Effect Unity
-*   [JonLevin25/UnityGameConnector](https://github.com/JonLevin25/UnityGameConnector) - A framework for game jams -  joining separate games and letting them pass abstract payloads to one another
-*   [wodud1378/Unity-Addressable-Assets-Patch-System](https://github.com/wodud1378/Unity-Addressable-Assets-Patch-System) - Unity Addressable Assets Patch System.
-*   [AustinsOffice/Floating-Damage-Text-in-Unity](https://github.com/AustinsOffice/Floating-Damage-Text-in-Unity) - Source files from the video Creating Floating Damage Text in Unity 5.
-*   [AlexanderOcias/UnityPixelArtCamera](https://github.com/AlexanderOcias/UnityPixelArtCamera) - Easy pixel art camera rendering in Unity
-*   [Nox7atra/Unity-Figma-Gradients](https://github.com/Nox7atra/Unity-Figma-Gradients) -
-*   [sniffle6/Scriptable-Object-Inventory](https://github.com/sniffle6/Scriptable-Object-Inventory) - A scriptable object based inventory system for Unity3D
-*   [cafungo/Recreating-Life-bar-of-League-of-Legends](https://github.com/cafungo/Recreating-Life-bar-of-League-of-Legends) - Health bar like League of legends in Unity
-*   [Daniel-Griffiths/nier-hacking-minigame](https://github.com/Daniel-Griffiths/nier-hacking-minigame) - A clone of the NieR hacking minigame made in Unity
-*   [josemorval/Fire-2D-in-Unity](https://github.com/josemorval/Fire-2D-in-Unity) -
-*   [Tirarex/Unity-WatchDogsRadar](https://github.com/Tirarex/Unity-WatchDogsRadar) -
-*   [inoook/DepthViewShader](https://github.com/inoook/DepthViewShader) - DepthView and Radar shader. unity.
-*   [merpheus-dev/RadarShader](https://github.com/merpheus-dev/RadarShader) - Simple Radar Shader with object display support by default using Arrays
-*   [agerarg/UnitySkillTree](https://github.com/agerarg/UnitySkillTree) -
-*   [Feeziks/Enter_The_Gungeon_Breakdown](https://github.com/Feeziks/Enter_The_Gungeon_Breakdown) -
-*   [ssell/UnitySobelOutline](https://github.com/ssell/UnitySobelOutline) - Example implementation of a Sobel Outline Post-Processing effect
-*   [kwnetzwelt/PointCloudMeshRendering](https://github.com/kwnetzwelt/PointCloudMeshRendering) - Renders any mesh as a point cloud in unity
-*   [9D-Tony/UnitySmoothPixelFiltering](https://github.com/9D-Tony/UnitySmoothPixelFiltering) - A unity shader for smooth pixel filtering, based on CptPotato's smooth filtering
-*   [DYGuiton/Unity-Board-Game](https://github.com/DYGuiton/Unity-Board-Game) - A Unity 3D Engine board game prototype utilizing personal assets created in the Blender modelling suite and programmed in a C# environment.
-*   [houby-studio/shake-dice-up](https://github.com/houby-studio/shake-dice-up) - Unity mobile game, which allows you to shake your phone to shake dice inside dice shaking cup.
-*   [Hurtares/slay-the-bad-north](https://github.com/Hurtares/slay-the-bad-north) - Game made in Unity for Masters Degree class
-*   [ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader) - Unity unlit screen space decal shader for URP. Just create a new material using this shader, then assign it to a new unity cube GameObject = DONE, now you have unlit decal working in URP
-*   [selewi/quake-skybox-shader-unity](https://github.com/selewi/quake-skybox-shader-unity) - A shader for Unity that replicates the fake Quake 1 skybox
-*   [Azradian/Hearthstone-Fan-Card-Creator](https://github.com/Azradian/Hearthstone-Fan-Card-Creator) - Personal tool for creating fan-made Hearthstone cards.
-*   [DapperDino/Unity-Multiplayer-Tutorials](https://github.com/DapperDino/Unity-Multiplayer-Tutorials) - Repo for my Unity Multiplayer Tutorials
-*   [hecomi/UnityWaterSurface](https://github.com/hecomi/UnityWaterSurface) - Water Surface Simulation using CutomRenderTexture in Unity 2017.1
-*   [maajor/Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) - Reimplement Sea of Thieves's Cloud in Unity
-*   [ToughNutToCrack/Watercolors-effect](https://github.com/ToughNutToCrack/Watercolors-effect) - Watercolor effect in Unity 2019.2.11f1
-*   [starikcetin/Eflatun.WebView](https://github.com/starikcetin/Eflatun.WebView) - WebView for Unity.
-*   [sidsayshmm/Weapon-System-Unity](https://github.com/sidsayshmm/Weapon-System-Unity) - Scalable Weapons system implementation in Unity based off popular FPS games.
-*   [RinenProductions/unity-sprite-smear-shader](https://github.com/RinenProductions/unity-sprite-smear-shader) -
-*   [ogxd/grid-shader-unity](https://github.com/ogxd/grid-shader-unity) - A grid shader for Unity 🌐
-*   [UnityTechnologies/InputSystem_Warriors](https://github.com/UnityTechnologies/InputSystem_Warriors) - Example Project for the new Unity Input System
-*   [TripleEh/StylisedWater_SurfaceShader](https://github.com/TripleEh/StylisedWater_SurfaceShader) - Simple water shader in the style of Zelda: Wind Waker
-*   [tugbacetin/Icon-Studio](https://github.com/tugbacetin/Icon-Studio) - PNG thumbnail creator from 3D prefabs with custom or transparent backgroung using UNITY3D
-*   [GibsS/unity-mask-lighting](https://github.com/GibsS/unity-mask-lighting) - 2D library that enables mask like lighting (similar to games like Nuclear Throne)
-*   [coty-crg/SeeThroughEffect](https://github.com/coty-crg/SeeThroughEffect) - Simple see through effect for Unity. Does an extra pass in the Standard shader that draws if ztest fails, basically. Also does an optional stencil check against xray blocking objects.
-*   [x753/True-Shaders-for-Unity](https://github.com/x753/True-Shaders-for-Unity) - A pack including several experimental Unity shaders that allow you to see objects through walls and more
-*   [DapperDino/Mirror-Multiplayer-Tutorials](https://github.com/DapperDino/Mirror-Multiplayer-Tutorials) - Repo for my Mirror Multiplayer Tutorials
-*   [DapperDino/Unity-Localisation](https://github.com/DapperDino/Unity-Localisation) - Repo for my Unity Localisation tutorials
-*   [SiiMeR/VHS-Shader](https://github.com/SiiMeR/VHS-Shader) - A shader aiming to reproduce the VHS effect. Based on https://github.com/staffantan/unity-vhsglitch with improvements by me.
-*   [Fewes/VolumetricTracer](https://github.com/Fewes/VolumetricTracer) - A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
-*   [Tunied/CERuntimeNodeGraphEditor](https://github.com/Tunied/CERuntimeNodeGraphEditor) - yet another unity runtime node graph editor :(
-*   [IRCSS/Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) - A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
-*   [IRCSS/Geometry-Grass-Shader](https://github.com/IRCSS/Geometry-Grass-Shader) - Geometry grass shader for Unity engine
-*   [dyfer08/UnityTools](https://github.com/dyfer08/UnityTools) - A series of useful Unity tools
-*   [lifangjie/BayerDistanceDither](https://github.com/lifangjie/BayerDistanceDither) - dither fade out, unity example
-*   [bodhid/UnityDitheredShadows](https://github.com/bodhid/UnityDitheredShadows) - Unity Shadow Dithering, filter for hiding low resolution shadow maps
-*   [jmickle66666666/PSX-Dither-Shader](https://github.com/jmickle66666666/PSX-Dither-Shader) - PSX-style dither shader for Unity
-*   [benTenure/AutoBattler](https://github.com/benTenure/AutoBattler) -
-*   [GabMeloche/Chameleon](https://github.com/GabMeloche/Chameleon) - An infiltration-style Unity game with texture-changing stealth dynamics (WIP).
-*   [daniel-ilett/smo-shaders](https://github.com/daniel-ilett/smo-shaders) - A collection of shaders to replicate those used in Super Mario Odyssey's Snapshot Mode.
-*   [ValentinGurkov/UnityGrassGeometryShader](https://github.com/ValentinGurkov/UnityGrassGeometryShader) - Geometry grass shader for Unity
-*   [DapperDino/Unity-Developer-Console-Tutorial](https://github.com/DapperDino/Unity-Developer-Console-Tutorial) - Repo for my "Unity Developer Console" tutorial.
-*   [bryanrtboy/ExplodingViewDiagram](https://github.com/bryanrtboy/ExplodingViewDiagram) - A small Unity project that demonstrates a workflow to create an exploding view diagram with labels.
-*   [pboechat/ProceduralCity](https://github.com/pboechat/ProceduralCity) - Unity demo that uses a few tricks to build random nice-looking 3D cities
-*   [Zeratu/NiYongYuanCaiBuDao](https://github.com/Zeratu/NiYongYuanCaiBuDao) - Let's Dance!
-*   [ardahamamcioglu/Unity-Stylised-Shader](https://github.com/ardahamamcioglu/Unity-Stylised-Shader) - A fairly versatile unity surface shader for achieving a comic book style in games.
-*   [chenjd/UnitySpecialEffectWithDepth](https://github.com/chenjd/UnitySpecialEffectWithDepth) - Using depth data to achieve scanning effects, x-ray effects, and shield energy field effects. Version Unity5.6 +
-*   [andrewgotow/Heatwave](https://github.com/andrewgotow/Heatwave) - A simple post-processing effect for the Unity game engine which renders small-scale distortions.
-*   [alexbourgeois/OBNI](https://github.com/alexbourgeois/OBNI) - Objet Bruité Non Identifié - Unity displacement shader
-*   [mihailt/LevelGeneration](https://github.com/mihailt/LevelGeneration) - Unity random level generation
-*   [Dnawrkshp/splatter-map](https://github.com/Dnawrkshp/splatter-map) - Dynamic splatoon-style splatter system for Unity 3D.
-*   [yourcomputer/RealityShader64](https://github.com/yourcomputer/RealityShader64) - Unity shader with cutting edge 90's technology
-*   [danielshervheim/unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water) - A stylized water shader (and material presets) for Unity.
-*   [cubedparadox/Cubeds-Unity-Shaders](https://github.com/cubedparadox/Cubeds-Unity-Shaders) - A compilation of custom shaders for Unity3D
-*   [netri/Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders) - Collection of shaders for Unity3D and VRChat
-*   [javiersalcedopuyo/Unity3DShaders](https://github.com/javiersalcedopuyo/Unity3DShaders) -  Simple shaders for Unity3D that I created for games, for a challenge or following tutorials.
-*   [DMeville/Volumetric-Occlusion-Mask-SRP](https://github.com/DMeville/Volumetric-Occlusion-Mask-SRP) - Using SRP to create a volumetric occlusion mask for objects to use in their render pass
-*   [artak10t/VerticalFog](https://github.com/artak10t/VerticalFog) - Simple Unity3d shader for creating depth effect by using only one sided plane
-*   [DapperDino/RPG-Systems-Tutorial](https://github.com/DapperDino/RPG-Systems-Tutorial) - Repo for my "RPG Systems Tutorial" series.
-*   [DapperDino/Tooltip-UI-Tutorial](https://github.com/DapperDino/Tooltip-UI-Tutorial) - Repo for my "Tooltip UI Tutorial".
-*   [DapperDino/Item-System-Tutorial](https://github.com/DapperDino/Item-System-Tutorial) - Repo for my "Item System Tutorial" mini-series.
-*   [ciro-unity/ShaderGraph-OneOffEffects](https://github.com/ciro-unity/ShaderGraph-OneOffEffects) - Small demo showing off using nested SubGraphs in Shader Graph + creating one-off effects in shaders
-*   [devdogio/sci-fi-ui](https://github.com/devdogio/sci-fi-ui) -
-*   [MarekMarchlewicz/Minimap](https://github.com/MarekMarchlewicz/Minimap) - \[Unity] Dynamically generated minimap with isolines
-*   [leducanhh/HealthbarUIShader](https://github.com/leducanhh/HealthbarUIShader) - Learn to create Healthbar UI by yourself, independent of Unity UI
-*   [leonardo-montes/Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
-*   [PixeyeHQ/CryoshockMini](https://github.com/PixeyeHQ/CryoshockMini) -
-*   [alanpeng1204/UnitySimulationOfBoatSupport](https://github.com/alanpeng1204/UnitySimulationOfBoatSupport) - UnitySimulationOfBoatSupport
-*   [knapeczadam/Unity-Procedural-Examples-Updated](https://github.com/knapeczadam/Unity-Procedural-Examples-Updated) - :stars: Updated version of the official Unity Procedural Examples project
-*   [hecomi/UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean) - Screen Space Boolean Implementation for Unity.
-*   [ZauronDark/Mathf-unity-ECS](https://github.com/ZauronDark/Mathf-unity-ECS) - 250,000 Entities in a scene with using Unity Game Engine (used entities v0.1.1-preview) (project currently paused)
-*   [kevinaristotle/Toonity](https://github.com/kevinaristotle/Toonity) - A collection of toon shaders for Unity
-*   [danielshervheim/unity-stylized-sand](https://github.com/danielshervheim/unity-stylized-sand) - A stylized sand shader (and material presets) for Unity.
-*   [JiepengTan/FishManShaderTutorial](https://github.com/JiepengTan/FishManShaderTutorial) - shader 中级教程
-*   [perebalsach/100DaysOfShaders](https://github.com/perebalsach/100DaysOfShaders) - Unity Shaders from the #100DaysOfCode challenge
-*   [IronWarrior/UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) - Source code for Grass Shader tutorial for Unity. Generates blades with a geometry shader, tessellates input mesh to control density.
-*   [IronWarrior/UnityToonShader](https://github.com/IronWarrior/UnityToonShader) - Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.
-*   [Philipp-Seifried/MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) - Proof of concept for a translucency / fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer. (Unity)
-*   [jackisgames/ShaderForge](https://github.com/jackisgames/ShaderForge) - Shader forge for unity 2018
-*   [alexismorin/Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
-*   [salt-shaker/Unity-Rubys-Adventure-2D](https://github.com/salt-shaker/Unity-Rubys-Adventure-2D) - A 2D Unity Tutorial
-*   [Kawarimi/openstone](https://github.com/Kawarimi/openstone) - A unity hearthstone clone with the goal of using easy to make "card packs" for customised gameplay
-*   [IronWarrior/ToonWaterShader](https://github.com/IronWarrior/ToonWaterShader) - Source code for Toon Water Shader tutorial for Unity. Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.
-*   [Chaser324/unity-wireframe](https://github.com/Chaser324/unity-wireframe) - General purpose wireframe shaders for use in Unity.
-*   [muckSponge/Optically-Realistic-Water](https://github.com/muckSponge/Optically-Realistic-Water) - A Unity port of Martins Upitis' fantastic ocean water shader, which was originally coded in GLSL for Blender.
-*   [Sorumi/UnityFurShader](https://github.com/Sorumi/UnityFurShader) - 🐈 Fur shader for Unity.
-*   [JPBotelho/Soap-Bubble](https://github.com/JPBotelho/Soap-Bubble) - A surface shader based on ShaderX1
-*   [JPBotelho/Background-Terrain-Shader](https://github.com/JPBotelho/Background-Terrain-Shader) - A vertex shader for background terrain based on noise.
-*   [JPBotelho/Voxelizer](https://github.com/JPBotelho/Voxelizer) - A vertex shader rounding 'voxelizer'
-*   [JPBotelho/Camouflage-Shader](https://github.com/JPBotelho/Camouflage-Shader) - Camo surface shader made in unity with support for camo map. Inspired in WoT
-*   [shantanubhadoria/Unity3D-Shaders-Basic](https://github.com/shantanubhadoria/Unity3D-Shaders-Basic) - Basic Unity3D Shaders
-*   [knapeczadam/Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - :sparkles: Shader demo - More than 300 examples
-*   [Josh015/Alloy](https://github.com/Josh015/Alloy) - Alloy physical shader framework for Unity.
-*   [SamuelQZQ/Unity-Visual-Effect-Library](https://github.com/SamuelQZQ/Unity-Visual-Effect-Library) - Make different kinds of typical Visual Effects which could be valuable reference.
-*   [SquirrelyJones/OpaqueActiveCamo](https://github.com/SquirrelyJones/OpaqueActiveCamo) - Unity 3d project showing opaque active camouflage rendering technique
-*   [SquirrelyJones/DynamicRipples](https://github.com/SquirrelyJones/DynamicRipples) - Dynamic ripple rendering and water surface compositing for Unity 3D
-*   [SquirrelyJones/DarkAndStormy](https://github.com/SquirrelyJones/DarkAndStormy) - Overcast clouds with crazy colors skybox shader for Unity3d
-*   [albertomelladoc/Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) - Cel Shading of two thresholds with a blur/gradient between them for Unity
-*   [HAliss/website-archive](https://github.com/HAliss/website-archive) - An archive of all shown scripts and shaders in http://halisavakis.com
-*   [MaxwellGengYF/Unity-Collapsible-Ground](https://github.com/MaxwellGengYF/Unity-Collapsible-Ground) - Collapsible ground by Unity DX11 Tessellation & sub camera render
-*   [marmitoTH/unity-enhanced-foliage](https://github.com/marmitoTH/unity-enhanced-foliage) - Moving grass and leaves outside unity terrain.
-*   [keijiro/Isaura](https://github.com/keijiro/Isaura) - An attempt at making a aura thingie with a isoline shader.
-*   [vux427/ForceFieldFX](https://github.com/vux427/ForceFieldFX) -
-*   [aramanamu/Fog](https://github.com/aramanamu/Fog) - Unity Shader Demo
-*   [Centribo/Unity-Shader-Basics-Tutorial](https://github.com/Centribo/Unity-Shader-Basics-Tutorial) - A introduction into creating shaders for Unity
-*   [r3eckon/Unity-SimpleGrid-Shader](https://github.com/r3eckon/Unity-SimpleGrid-Shader) - Simple alpha cutout grid shader and GUI customizable parameters
-*   [roguecode/Unity-Simple-SRT](https://github.com/roguecode/Unity-Simple-SRT) - A super simple SRT subtitle parser
-*   [aaaleee/UnityScanlinesEffect](https://github.com/aaaleee/UnityScanlinesEffect) - A simple scanlines image effect for Unity3D
-*   [nahkranoth/Skateboard](https://github.com/nahkranoth/Skateboard) - A Skateboard game in Unity
-*   [keijiro/TestCards](https://github.com/keijiro/TestCards) - A simple test pattern generator.
-*   [Nition/UnityTerrainGrass](https://github.com/Nition/UnityTerrainGrass) - Drop-in replacement terrain grass shaders for Unity
-*   [PandaArcade/SquashAndStretch](https://github.com/PandaArcade/SquashAndStretch) - A Unity 2018.10b12 project where I am experimenting with a squash and stretch shader.
-*   [pelengami/unity-grabsquares-effect](https://github.com/pelengami/unity-grabsquares-effect) - Unity GrabSquares Effect
-*   [khalladay/PencilSketchEffect](https://github.com/khalladay/PencilSketchEffect) - Real Time Hatching In Unity
-*   [QianMo/Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader) - :boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
-*   [danielzeller/Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) - Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.
-*   [Scrawk/Tiled-Directional-Flow](https://github.com/Scrawk/Tiled-Directional-Flow) - A shader to control the direction water flows based on a flow map in Unity.
-*   [ellioman/ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
-*   [BrokenVector/LowPolyShaders](https://github.com/BrokenVector/LowPolyShaders) - Unity shaders optimized for Low Poly models.
-*   [UnityTechnologies/ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary) - A library of Shaders created using Unity's Shader Graph.
-*   [RenanBomtempo/polygon-wind](https://github.com/RenanBomtempo/polygon-wind) - Wind shader for low poly assets in Unity.
-*   [natalielh/unity_utilities](https://github.com/natalielh/unity_utilities) - Some scripts to perform a few simple functions in Unity, with descriptions on how to use them in the game engine.
-*   [Scrawk/Wireframe-Shader](https://github.com/Scrawk/Wireframe-Shader) - A wireframe material in Unity using the geometry shader.
-*   [smkplus/Quantum-break](https://github.com/smkplus/Quantum-break) - Quantum-break Shaders Tutorial
-*   [Brackeys/Dialogue-System](https://github.com/Brackeys/Dialogue-System) - Project files for a tutorial on creating a Dialogue System in Unity
-*   [WorldOfZero/UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations) - Collection of shaders and visual effects created for Unity 3D.
-*   [ewersp/Shaders](https://github.com/ewersp/Shaders) - A collection of shaders written in CG/ShaderLab for Unity.
-*   [gkjohnson/unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) - Unity material and shader for applying clipped, dithered transparency
-*   [staffantan/unity-vhsglitch](https://github.com/staffantan/unity-vhsglitch) - glitched VHS post-processing shader for Unity3D
-*   [keijiro/StandardTriplanar](https://github.com/keijiro/StandardTriplanar) - Unity's standard shader with triplanar mapping
-*   [sergilazaro/GameboyEffect](https://github.com/sergilazaro/GameboyEffect) - Script and Shader for Gameboy effect for Unity3D
-*   [keijiro/CrossFadingLod](https://github.com/keijiro/CrossFadingLod) - (Unity) Cross-fading LOD shader example
-
 ## HLSL
 
 *   [Fewes/BakerBoy](https://github.com/Fewes/BakerBoy) - A single-component, GPU-based universal ambient occlusion and bent normal baker for Unity. The successor to my BNAO respository
@@ -5392,7 +5393,6 @@
 *   [SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
 *   [Todd-Davies/AI_Sandbox_Command](https://github.com/Todd-Davies/AI_Sandbox_Command) - My AI Sandbox Commanders
 *   [gamesbyangelina/EvoMaze](https://github.com/gamesbyangelina/EvoMaze) - A tiny example of computational evolution, based on an Advanced Java lecture I gave at Imperial.
-*   [gamesbyangelina/spritely](https://github.com/gamesbyangelina/spritely) - Spritely is a tool for autogenerating simple placeholder game sprites from images found on the web.
 
 ## Haskell
 
