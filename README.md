@@ -1081,7 +1081,7 @@
 *   [nuno-faria/pixelfoosball](https://github.com/nuno-faria/pixelfoosball) - An arcade foosball (table football) game
 *   [redbluegames/unity-pixel-palettemap](https://github.com/redbluegames/unity-pixel-palettemap) - Pixel Palettemap "palettizes" textures, allowing them to be used with a shader for alternate color schemes and palette swapping.
 *   [abagames/PixelArtGen](https://github.com/abagames/PixelArtGen) - A pixel art generator on a Unity custom inspector
-*   [Mosnir/PandemicRapidResponse](https://github.com/Mosnir/PandemicRapidResponse) - Pandemic Rapid Response is a tabletop game. Our final programmation test was to propose a way to adapt it to videogame. (C# Unity)
+*   [raphaeljocteur/PandemicRapidResponse](https://github.com/raphaeljocteur/PandemicRapidResponse) - Pandemic Rapid Response is a tabletop game. Our final programmation test was to propose a way to adapt it to videogame. (C# Unity)
 *   [danielthepirate/TabletopTools](https://github.com/danielthepirate/TabletopTools) - Experimenting with tools for tabletop gaming to learn unity UI
 *   [d13kotson/Tabletop_Unity](https://github.com/d13kotson/Tabletop_Unity) -
 *   [ToughNutToCrack/GameBoardGenerator](https://github.com/ToughNutToCrack/GameBoardGenerator) - Made with Unity 2019.4.1 but it works with any version.
@@ -2932,7 +2932,6 @@
 *   [kennux/UnityTK](https://github.com/kennux/UnityTK) - Library with useful scripts and systems for Unity3D game development
 *   [XifengAlpha/Slidingboard-Unity](https://github.com/XifengAlpha/Slidingboard-Unity) - Modular abstract skating game
 *   [JackM36/Eazy-Sound-Manager](https://github.com/JackM36/Eazy-Sound-Manager) - Eazy Sound Manager is a simple Unity3D tool which aims to make sound and music management in games easier
-*   [ibito/Unity-Random-Duplicate](https://github.com/ibito/Unity-Random-Duplicate) - Small tool to random duplicate objects, useful when creating/designing levels by hand
 *   [cr0ssVtW/Unity3D-Top-Down-2D-Procedural-Terrain](https://github.com/cr0ssVtW/Unity3D-Top-Down-2D-Procedural-Terrain) - A sample of how to do some basic height map procedural generation with sprites.
 *   [moonantonio/menu-circular](https://github.com/moonantonio/menu-circular) - Menu circular desarrollado con C# en Unity3D
 *   [SaladLab/Unity3D.UiManager](https://github.com/SaladLab/Unity3D.UiManager) - Essential UI Manager for Unity3D
@@ -5217,7 +5216,7 @@
 
 ## HTML
 
-*   [pyscript/pyscript](https://github.com/pyscript/pyscript) -
+*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 *   [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows sheets to be exported as JSON or XML.
 *   [ex-makina/marklight](https://github.com/ex-makina/marklight) - MarkLight is a presentation framework for Unity that allows you to create scene elements in a language similar to HTML.
 *   [MacacaGames/MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) - ViewSystem is a element based UI management system based on Unity GUI
@@ -5555,6 +5554,7 @@
 *   [Todd-Davies/AI_Sandbox_Command](https://github.com/Todd-Davies/AI_Sandbox_Command) - My AI Sandbox Commanders
 *   [gamesbyangelina/EvoMaze](https://github.com/gamesbyangelina/EvoMaze) - A tiny example of computational evolution, based on an Advanced Java lecture I gave at Imperial.
 *   [gamesbyangelina/spritely](https://github.com/gamesbyangelina/spritely) - Spritely is a tool for autogenerating simple placeholder game sprites from images found on the web.
+*   [mindcandy/Teamcity-unity3d-build-runner-plugin](https://github.com/mindcandy/Teamcity-unity3d-build-runner-plugin) - A Teamcity plugin for building Unity3d projects. NOTE: this has an MIT license so feel free to copy / adapt as you need to.
 
 ## Haskell
 
