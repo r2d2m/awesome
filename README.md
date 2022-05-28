@@ -853,7 +853,6 @@
 *   [yika-aixi/IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 *   [gasgiant/Camera-Shake](https://github.com/gasgiant/Camera-Shake) - Camera shake for Unity
 *   [aarthificial/reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
-*   [Woosh-Crew/Espionage.Engine](https://github.com/Woosh-Crew/Espionage.Engine) - An In-Dev Game Framework, for Unity
 *   [yiyuezhuo/PixelBasedAreaMovementInUnity](https://github.com/yiyuezhuo/PixelBasedAreaMovementInUnity) - An example for pixel shader based Area movement (Paradox grand strategy, RISK,  Axis & Allies) mechanic implementation in Unity.
 *   [MatiM36/ContextClickSelectV2](https://github.com/MatiM36/ContextClickSelectV2) - Unity tool for having a context menu selection like in Photoshop
 *   [Chykary/Unity-Propagating-Audio](https://github.com/Chykary/Unity-Propagating-Audio) - Unity Audio System that propagates sound through gateways. Can be used to transfer dampened sound through "walls", ie in a 2D context.
@@ -4788,6 +4787,7 @@
 *   [aigamedev/resistance](https://github.com/aigamedev/resistance) - Framework for THE RESISTANCE board & card game, with various AI bots.
 *   [jungbauer/CTF_AI_Comp\_2012](https://github.com/jungbauer/CTF_AI_Comp\_2012) - This is for the AI Sandbox CTF AI 2012 competition.
 *   [monkeymyster/AISandbox](https://github.com/monkeymyster/AISandbox) - AI Sandbox project work
+*   [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 
 ## CMake
 
