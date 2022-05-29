@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [C#](#c)
 *   [generic](#generic)
 *   [JavaScript](#javascript)
@@ -30,7 +31,6 @@
 *   [Rust](#rust)
 *   [Batchfile](#batchfile)
 *   [Shell](#shell)
-*   [HTML](#html)
 *   [Lua](#lua)
 *   [VBA](#vba)
 *   [Pawn](#pawn)
@@ -69,6 +69,82 @@
 *   [D](#d)
 *   [Processing](#processing)
 *   [Smalltalk](#smalltalk)
+
+## HTML
+
+*   [sheabunge/GitPortable](https://github.com/sheabunge/GitPortable) - Portable version of Git for Windows
+*   [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows sheets to be exported as JSON or XML.
+*   [ex-makina/marklight](https://github.com/ex-makina/marklight) - MarkLight is a presentation framework for Unity that allows you to create scene elements in a language similar to HTML.
+*   [MacacaGames/MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) - ViewSystem is a element based UI management system based on Unity GUI
+*   [mvi/UnitySystemInfoTable](https://github.com/mvi/UnitySystemInfoTable) - Crowdsourced table of SystemInfo values from different devices
+*   [OmiyaGames/omiya-games-embed-webgl-template](https://github.com/OmiyaGames/omiya-games-embed-webgl-template) - A Unity WebGL template that can be imported to your own project and be used to create WebGL games that automatically resizes itself to fit within the bounds of the web portal embedding, including fullscreen resize support.
+*   [RodrigoTomeES/html-bookmark-to-csv](https://github.com/RodrigoTomeES/html-bookmark-to-csv) - Convert your HTML Firefox Bookmark to CSV and import it into Notion!
+*   [YehoshuaBinElRoi/UnityWallClimbing](https://github.com/YehoshuaBinElRoi/UnityWallClimbing) - Wall/Ledge Climbing using RayCasts in Unity
+*   [LeagueSandbox/leaguesandbox.github.io](https://github.com/LeagueSandbox/leaguesandbox.github.io) - LeagueSandbox's Project Page
+*   [luvshah11/EnterTheNotGungeon](https://github.com/luvshah11/EnterTheNotGungeon) - prefab build
+*   [UFrameIT/UFrameIT](https://github.com/UFrameIT/UFrameIT) - The current Unity-based implementation of the FrameIT approach
+*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+*   [myfix16/AutoSchedule](https://github.com/myfix16/AutoSchedule) - Automatically generate class schedules for CUHZ(SZ) students.
+*   [ctcodie/MathHammer](https://github.com/ctcodie/MathHammer) - Static site for calculating probabilities involved in a tabletop dice based war-game (40k)
+*   [jackmil3s/battleScribeDecks](https://github.com/jackmil3s/battleScribeDecks) - App that takes BattleScribe Rosters and formats them in a deck-of-cards type unit list
+*   [hrbrmstr/streamgraph](https://github.com/hrbrmstr/streamgraph) - :wavy_dash: htmlwidget for creating streamgraph visualizations in R
+*   [OldManUmby/DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) - Dungeons and Dragons 5th Edition SRD converted to Markdown and other formats. Now Obsidian.md friendly!
+*   [kookma/TW-Timelines](https://github.com/kookma/TW-Timelines) - create timeline and sequence in Tiddlywiki
+*   [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password protected GitHub pages
+*   [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) - Password protection for static pages
+*   [stillwwater/UnityStyleGuide](https://github.com/stillwwater/UnityStyleGuide) - For file structure, naming conventions and other things
+*   [rodrigopuls/3d-card-effect](https://github.com/rodrigopuls/3d-card-effect) - A 3D card hover effect only javascript and css
+*   [ADM-ops/3d-flip-card-hover-effect](https://github.com/ADM-ops/3d-flip-card-hover-effect) - a simple hover card effect with html|css
+*   [Zarkonnen/ShootoutMayhem](https://github.com/Zarkonnen/ShootoutMayhem) - An intentionally non-juicy clone of Nuclear Throne for demonstration purposes.
+*   [yasirkula/DownloadLinkGeneratorForGoogleDrive](https://github.com/yasirkula/DownloadLinkGeneratorForGoogleDrive) - Create list of files and their download links in a Google Drive™ folder
+*   [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
+*   [porousnapkin/TradeRL](https://github.com/porousnapkin/TradeRL) - Building a roguelike where you play as a merchant setting up trade routes in a dangerous world. It's a Unity C# project.
+*   [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
+*   [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+*   [azu/mdline](https://github.com/azu/mdline) - Markdown timeline format and toolkit.
+*   [jodaf/quilvyn-eberron](https://github.com/jodaf/quilvyn-eberron) - Third edition Eberron campaign setting plugin for Quilvyn RPG character sheet generator.
+*   [seigler/bl2skills.com](https://github.com/seigler/bl2skills.com) - Borderlands 2 skill calculator
+*   [cebe/markdown](https://github.com/cebe/markdown) - A super fast, highly extensible markdown parser for PHP
+*   [Dawars/HearthstoneCardVisualizer](https://github.com/Dawars/HearthstoneCardVisualizer) - A Hearthstone Card visualizer in 3D with the help of Tensorboard using PCA or t-SNE
+*   [zaxioms/Hearthstone-Clicker](https://github.com/zaxioms/Hearthstone-Clicker) - You know those websites where you click the screen and a hearthstone card comes up? Let's make those obsolete, shall we?
+*   [yc-ng/hearthstone](https://github.com/yc-ng/hearthstone) - Analysis of decks and cards submitted to HearthPwn
+*   [EgHoxhaj/laravel-admin-dashboard](https://github.com/EgHoxhaj/laravel-admin-dashboard) - AdminLTE - Laravel Admin Dashboard
+*   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
+*   [AntoineMurat/hearthclone-server](https://github.com/AntoineMurat/hearthclone-server) - NodeJS Hearthstone-like game engine.
+*   [wzbus/hearthstone](https://github.com/wzbus/hearthstone) - hearthstone card diy
+*   [Dabolus/cr-card-maker](https://github.com/Dabolus/cr-card-maker) - A simple online tool to create custom Clash Royale cards.
+*   [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) - bookmarklets is a curated list of, you guessed it, bookmarklets that are useful on the web.
+*   [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+*   [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
+*   [lukaszx0/queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
+*   [lightchpa/MongoDBPortable](https://github.com/lightchpa/MongoDBPortable) - PortableApps package of MongoDB
+*   [azer-oss/bookmark-backup-parser](https://github.com/azer-oss/bookmark-backup-parser) - Well tested, multi-format parser for your bookmarking backups.
+*   [isajediknight/Hearthstone-Strategy](https://github.com/isajediknight/Hearthstone-Strategy) - Blizzard limits you to only 18 decks...so I save my decks here
+*   [Oimetra/AbsolverMoves](https://github.com/Oimetra/AbsolverMoves) - Open Source - Web Deck Builder For Absolver
+*   [arcanite24/hs-rnn](https://github.com/arcanite24/hs-rnn) - A Hearthstone Cards Generator with a neural network
+*   [codrops/Interactive3DMallMap](https://github.com/codrops/Interactive3DMallMap) - An interactive 3D mall map concept with a sidebar search and pin indicators for every level.
+*   [Valloric/statblock5e](https://github.com/Valloric/statblock5e) - A Web Component statblock for D\&D 5E
+*   [kristopherschmidt/hearthstone-decks](https://github.com/kristopherschmidt/hearthstone-decks) - Toy Spring REST / AngularJS / MongoDB application to manage/compare a user decklist against various Hearthstone decks. Now includes a React / Flux implementation as well.
+*   [HearthStats/hearthstats](https://github.com/HearthStats/hearthstats) - Details Hearthstone match statistics and tracking.
+*   [kevinclement/SimpleArmory](https://github.com/kevinclement/SimpleArmory) - World of Warcraft armory site that presents your armory in a simple manor.
+*   [davidmoten/xsd-forms](https://github.com/davidmoten/xsd-forms) - Generates web forms from xml schema documents (xsd)
+*   [griff1/Hearthstone_AI](https://github.com/griff1/Hearthstone_AI) - A simple script that uses MIT's Sikuli software to play Hearthstone for you.
+*   [PrefabEvolution/PrefabEvolution](https://github.com/PrefabEvolution/PrefabEvolution) - Unity Prefab Evolution
+*   [robot9706/FSSE](https://github.com/robot9706/FSSE) - Fallout Shelter save editor for Android and Windows.
+*   [rpboyer15/sounds-of-the-storm](https://github.com/rpboyer15/sounds-of-the-storm) -
+*   [InterNations/antwort](https://github.com/InterNations/antwort) - Beautiful responsive email templates with code as beautiful as email templates can be
+*   [codeinthedark/editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
+*   [codeinthedark/codeinthedark.github.io](https://github.com/codeinthedark/codeinthedark.github.io) - Code in the Dark website
+*   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+*   [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
+*   [ncase/sight-and-light](https://github.com/ncase/sight-and-light) - A programming tutorial for sight & light
+*   [mochoy/cabinet-unity-bottle](https://github.com/mochoy/cabinet-unity-bottle) - for Girls Who Code.
+*   [freshinbox/tabs-for-email](https://github.com/freshinbox/tabs-for-email) -
+*   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+*   [strangeioc/strangeioc](https://github.com/strangeioc/strangeioc) - The IoC/Binding Framework for Unity3D and C#
+*   [sassembla/WebConsole](https://github.com/sassembla/WebConsole) - show unity logs in browser.
+*   [vhf/resrc](https://github.com/vhf/resrc) -
 
 ## C#
 
@@ -3389,7 +3465,6 @@
 *   [mattatz/unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 *   [JoshuaTanner/Unity-Stealth-Plugin](https://github.com/JoshuaTanner/Unity-Stealth-Plugin) - This is a stealth plugin to give NPCs in your game the ability to hear, see and search for the player. Supports detection meters and includes a tool for building patrol paths for NPCs. Built for Unity 5.6.0f
 *   [DameonL/GreenMambaStealth](https://github.com/DameonL/GreenMambaStealth) - An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
-*   [patrickcrouch/SilentWaves](https://github.com/patrickcrouch/SilentWaves) - A simple top-down stealth game built in Unity 5.
 *   [jeroenboumans/Unity-WaveDeformer](https://github.com/jeroenboumans/Unity-WaveDeformer) - Unity meshplane wave deformer.
 *   [ScrambledRK/ocean-waves](https://github.com/ScrambledRK/ocean-waves) - Unity; DX10; Discrete Fourier Transformation Ocean Waves
 *   [Softdrink117/unity-watercolor-shader](https://github.com/Softdrink117/unity-watercolor-shader) - Tests for a postprocess watercolor-esque effect - that wasn't terribly successful
@@ -5591,81 +5666,6 @@
 *   [eamonwoortman/docker-unity3d](https://github.com/eamonwoortman/docker-unity3d) - An Unity3D editor image which can be used for continuous integration purposes
 *   [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 *   [Zonama/ZonamaDev](https://github.com/Zonama/ZonamaDev) - Development Environment for SWGEMU
-
-## HTML
-
-*   [Synthoid/ExportSheetData](https://github.com/Synthoid/ExportSheetData) - Add-on for Google Sheets that allows sheets to be exported as JSON or XML.
-*   [ex-makina/marklight](https://github.com/ex-makina/marklight) - MarkLight is a presentation framework for Unity that allows you to create scene elements in a language similar to HTML.
-*   [MacacaGames/MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) - ViewSystem is a element based UI management system based on Unity GUI
-*   [mvi/UnitySystemInfoTable](https://github.com/mvi/UnitySystemInfoTable) - Crowdsourced table of SystemInfo values from different devices
-*   [OmiyaGames/omiya-games-embed-webgl-template](https://github.com/OmiyaGames/omiya-games-embed-webgl-template) - A Unity WebGL template that can be imported to your own project and be used to create WebGL games that automatically resizes itself to fit within the bounds of the web portal embedding, including fullscreen resize support.
-*   [RodrigoTomeES/html-bookmark-to-csv](https://github.com/RodrigoTomeES/html-bookmark-to-csv) - Convert your HTML Firefox Bookmark to CSV and import it into Notion!
-*   [YehoshuaBinElRoi/UnityWallClimbing](https://github.com/YehoshuaBinElRoi/UnityWallClimbing) - Wall/Ledge Climbing using RayCasts in Unity
-*   [LeagueSandbox/leaguesandbox.github.io](https://github.com/LeagueSandbox/leaguesandbox.github.io) - LeagueSandbox's Project Page
-*   [luvshah11/EnterTheNotGungeon](https://github.com/luvshah11/EnterTheNotGungeon) - prefab build
-*   [UFrameIT/UFrameIT](https://github.com/UFrameIT/UFrameIT) - The current Unity-based implementation of the FrameIT approach
-*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-*   [myfix16/AutoSchedule](https://github.com/myfix16/AutoSchedule) - Automatically generate class schedules for CUHZ(SZ) students.
-*   [ctcodie/MathHammer](https://github.com/ctcodie/MathHammer) - Static site for calculating probabilities involved in a tabletop dice based war-game (40k)
-*   [jackmil3s/battleScribeDecks](https://github.com/jackmil3s/battleScribeDecks) - App that takes BattleScribe Rosters and formats them in a deck-of-cards type unit list
-*   [hrbrmstr/streamgraph](https://github.com/hrbrmstr/streamgraph) - :wavy_dash: htmlwidget for creating streamgraph visualizations in R
-*   [OldManUmby/DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) - Dungeons and Dragons 5th Edition SRD converted to Markdown and other formats. Now Obsidian.md friendly!
-*   [kookma/TW-Timelines](https://github.com/kookma/TW-Timelines) - create timeline and sequence in Tiddlywiki
-*   [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password protected GitHub pages
-*   [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) - Password protection for static pages
-*   [stillwwater/UnityStyleGuide](https://github.com/stillwwater/UnityStyleGuide) - For file structure, naming conventions and other things
-*   [rodrigopuls/3d-card-effect](https://github.com/rodrigopuls/3d-card-effect) - A 3D card hover effect only javascript and css
-*   [ADM-ops/3d-flip-card-hover-effect](https://github.com/ADM-ops/3d-flip-card-hover-effect) - a simple hover card effect with html|css
-*   [Zarkonnen/ShootoutMayhem](https://github.com/Zarkonnen/ShootoutMayhem) - An intentionally non-juicy clone of Nuclear Throne for demonstration purposes.
-*   [yasirkula/DownloadLinkGeneratorForGoogleDrive](https://github.com/yasirkula/DownloadLinkGeneratorForGoogleDrive) - Create list of files and their download links in a Google Drive™ folder
-*   [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
-*   [porousnapkin/TradeRL](https://github.com/porousnapkin/TradeRL) - Building a roguelike where you play as a merchant setting up trade routes in a dangerous world. It's a Unity C# project.
-*   [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
-*   [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
-*   [azu/mdline](https://github.com/azu/mdline) - Markdown timeline format and toolkit.
-*   [jodaf/quilvyn-eberron](https://github.com/jodaf/quilvyn-eberron) - Third edition Eberron campaign setting plugin for Quilvyn RPG character sheet generator.
-*   [seigler/bl2skills.com](https://github.com/seigler/bl2skills.com) - Borderlands 2 skill calculator
-*   [cebe/markdown](https://github.com/cebe/markdown) - A super fast, highly extensible markdown parser for PHP
-*   [Dawars/HearthstoneCardVisualizer](https://github.com/Dawars/HearthstoneCardVisualizer) - A Hearthstone Card visualizer in 3D with the help of Tensorboard using PCA or t-SNE
-*   [zaxioms/Hearthstone-Clicker](https://github.com/zaxioms/Hearthstone-Clicker) - You know those websites where you click the screen and a hearthstone card comes up? Let's make those obsolete, shall we?
-*   [yc-ng/hearthstone](https://github.com/yc-ng/hearthstone) - Analysis of decks and cards submitted to HearthPwn
-*   [EgHoxhaj/laravel-admin-dashboard](https://github.com/EgHoxhaj/laravel-admin-dashboard) - AdminLTE - Laravel Admin Dashboard
-*   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
-*   [AntoineMurat/hearthclone-server](https://github.com/AntoineMurat/hearthclone-server) - NodeJS Hearthstone-like game engine.
-*   [wzbus/hearthstone](https://github.com/wzbus/hearthstone) - hearthstone card diy
-*   [Dabolus/cr-card-maker](https://github.com/Dabolus/cr-card-maker) - A simple online tool to create custom Clash Royale cards.
-*   [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) - bookmarklets is a curated list of, you guessed it, bookmarklets that are useful on the web.
-*   [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-*   [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-*   [lukaszx0/queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
-*   [lightchpa/MongoDBPortable](https://github.com/lightchpa/MongoDBPortable) - PortableApps package of MongoDB
-*   [azer-oss/bookmark-backup-parser](https://github.com/azer-oss/bookmark-backup-parser) - Well tested, multi-format parser for your bookmarking backups.
-*   [isajediknight/Hearthstone-Strategy](https://github.com/isajediknight/Hearthstone-Strategy) - Blizzard limits you to only 18 decks...so I save my decks here
-*   [Oimetra/AbsolverMoves](https://github.com/Oimetra/AbsolverMoves) - Open Source - Web Deck Builder For Absolver
-*   [arcanite24/hs-rnn](https://github.com/arcanite24/hs-rnn) - A Hearthstone Cards Generator with a neural network
-*   [codrops/Interactive3DMallMap](https://github.com/codrops/Interactive3DMallMap) - An interactive 3D mall map concept with a sidebar search and pin indicators for every level.
-*   [Valloric/statblock5e](https://github.com/Valloric/statblock5e) - A Web Component statblock for D\&D 5E
-*   [kristopherschmidt/hearthstone-decks](https://github.com/kristopherschmidt/hearthstone-decks) - Toy Spring REST / AngularJS / MongoDB application to manage/compare a user decklist against various Hearthstone decks. Now includes a React / Flux implementation as well.
-*   [HearthStats/hearthstats](https://github.com/HearthStats/hearthstats) - Details Hearthstone match statistics and tracking.
-*   [kevinclement/SimpleArmory](https://github.com/kevinclement/SimpleArmory) - World of Warcraft armory site that presents your armory in a simple manor.
-*   [davidmoten/xsd-forms](https://github.com/davidmoten/xsd-forms) - Generates web forms from xml schema documents (xsd)
-*   [griff1/Hearthstone_AI](https://github.com/griff1/Hearthstone_AI) - A simple script that uses MIT's Sikuli software to play Hearthstone for you.
-*   [PrefabEvolution/PrefabEvolution](https://github.com/PrefabEvolution/PrefabEvolution) - Unity Prefab Evolution
-*   [robot9706/FSSE](https://github.com/robot9706/FSSE) - Fallout Shelter save editor for Android and Windows.
-*   [rpboyer15/sounds-of-the-storm](https://github.com/rpboyer15/sounds-of-the-storm) -
-*   [InterNations/antwort](https://github.com/InterNations/antwort) - Beautiful responsive email templates with code as beautiful as email templates can be
-*   [codeinthedark/editor](https://github.com/codeinthedark/editor) - The official Code in the Dark editor
-*   [codeinthedark/codeinthedark.github.io](https://github.com/codeinthedark/codeinthedark.github.io) - Code in the Dark website
-*   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
-*   [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
-*   [ncase/sight-and-light](https://github.com/ncase/sight-and-light) - A programming tutorial for sight & light
-*   [mochoy/cabinet-unity-bottle](https://github.com/mochoy/cabinet-unity-bottle) - for Girls Who Code.
-*   [freshinbox/tabs-for-email](https://github.com/freshinbox/tabs-for-email) -
-*   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-*   [strangeioc/strangeioc](https://github.com/strangeioc/strangeioc) - The IoC/Binding Framework for Unity3D and C#
-*   [sassembla/WebConsole](https://github.com/sassembla/WebConsole) - show unity logs in browser.
-*   [vhf/resrc](https://github.com/vhf/resrc) -
 
 ## Lua
 
