@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [generic](#generic)
 *   [Python](#python)
 *   [C++](#c)
 *   [HTML](#html)
 *   [C#](#c-1)
-*   [generic](#generic)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [CMake](#cmake)
@@ -69,6 +69,241 @@
 *   [D](#d)
 *   [Processing](#processing)
 *   [Smalltalk](#smalltalk)
+
+## generic
+
+*   [WC5E/Warcraft-5e-Conversion](https://github.com/WC5E/Warcraft-5e-Conversion) -
+*   [Correia-jpv/fucking-awesome-unity](https://github.com/Correia-jpv/fucking-awesome-unity) - A curated list of awesome Unity assets, resources, and more. With repository stars⭐ and forks🍴
+*   [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
+*   [sverdegd/NotepadToolUnity](https://github.com/sverdegd/NotepadToolUnity) - Take your notes without leaving Unity thanks to this plugin and increase your productivity and organization.
+*   [smoltools/smol-juice](https://github.com/smoltools/smol-juice) - Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
+*   [Envoy-VC/awesome-clones](https://github.com/Envoy-VC/awesome-clones) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tik-Tok, Spotify, WhatsApp, YouTube etc. See source code, demo links, tech stack, GitHub stars.
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [mircearoata/SatisfactoryAdvancedLogistics](https://github.com/mircearoata/SatisfactoryAdvancedLogistics) -
+*   [Avatarchik/looader](https://github.com/Avatarchik/looader) - Loading screen solution for Unity engine
+*   [RepahidiS/glassos](https://github.com/RepahidiS/glassos) - Simulated OS project for Unity engine.
+*   [thatsgerman/CRTShader_Unity3D](https://github.com/thatsgerman/CRTShader_Unity3D) -
+*   [bsimser/Railroad-Tycoon](https://github.com/bsimser/Railroad-Tycoon) - The original Railroad Tycoon game built in Unity 2D
+*   [HelloFangaming/HelloMarioAssets](https://github.com/HelloFangaming/HelloMarioAssets) - Collection of 3D models and animations for Unity that you can use to jump start your very own 3D Mario fangame!
+*   [erasmosoares/UnityDataManager](https://github.com/erasmosoares/UnityDataManager) - This project allows game developers to create and manager level atributes using xls files. Using a xls file can be a simple way to edit character attributes in addition to having a broad view of the attributes for each level of the game, besides making this edition in a separate file enable you to share the same file with other team members such as game design and level design.
+*   [askaplan/InitialUnityProject](https://github.com/askaplan/InitialUnityProject) -
+*   [marianomike/unity-prototype-photoapp](https://github.com/marianomike/unity-prototype-photoapp) - Instagram-like UI Prototype built in Unity.
+*   [Lontoone/MyUnity-tool-LevelFlowEditor](https://github.com/Lontoone/MyUnity-tool-LevelFlowEditor) -
+*   [Anthr0py/unity3d-crosshair](https://github.com/Anthr0py/unity3d-crosshair) - A simple crosshair with spread support based on Unity 4.6+ UI.
+*   [AhmedTremo/Left2Dead](https://github.com/AhmedTremo/Left2Dead) - A game that combines the best in The last of us and Left 4 dead using Unity.
+*   [videlais/learning-ink-unity](https://github.com/videlais/learning-ink-unity) - Learn to use Ink + Unity
+*   [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality) - A curated list of VR resources
+*   [QianMo/Unity-Shader-Resources-List](https://github.com/QianMo/Unity-Shader-Resources-List) - :clipboard: Unity Shader相关学习资源与链接珍藏 | A list of amazing resources for learning shader writing in Unity.
+*   [Ognian-GlimpseSoftware/SmartObjectsSystem](https://github.com/Ognian-GlimpseSoftware/SmartObjectsSystem) - Unity game object that can morph into any type of custom game object or prefab
+*   [haxflying/DestructionShader](https://github.com/haxflying/DestructionShader) - Unity Destruction made with geometry shader
+*   [floatinghotpot/socket.io-unity](https://github.com/floatinghotpot/socket.io-unity) - socket.io client for Unity, power game client with node.js back-end
+*   [unity5d/Minifort](https://github.com/unity5d/Minifort) - A unity 3d game.The topic is fort and zombie. The project is inspired by fortnite. But is going to different in many ways.
+*   [Renisys/UnityTutorials](https://github.com/Renisys/UnityTutorials) - This is a short tutorial of creating a model of volcanic eruption in unity, just using terrain, gravity, collision and particle system.
+*   [joshcamas/unity3d-runtime-debug-draw](https://github.com/joshcamas/unity3d-runtime-debug-draw) - single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
+*   [AdrianOrcik/Unity_UseCase_Tutorial](https://github.com/AdrianOrcik/Unity_UseCase_Tutorial) - :pencil: UseCase of Tutorial system with example sub systems
+*   [moare3788/cultist_simulator_french_translation](https://github.com/moare3788/cultist_simulator_french_translation) - Mod pour cultist simulator basé sur la traduction de Burton
+*   [SamsonStarmerLee/TF2\_Shaders](https://github.com/SamsonStarmerLee/TF2\_Shaders) -
+*   [moiseev7/UnityVirtualKeyboard](https://github.com/moiseev7/UnityVirtualKeyboard) -
+*   [JudgeGroovyman/roslyn-unity](https://github.com/JudgeGroovyman/roslyn-unity) - An implemantation try of .NET Roslyn Compiler in Unity allowing easy C# runtime compilation, C# Hot-Loading, security analysis
+*   [RetroGamer74/HowToBuildWithUnityPS4FakePKG](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG) - How To Build FPKG with Unity PS4
+*   [PV255/Unity-Project-Template](https://github.com/PV255/Unity-Project-Template) - Empty template for project in Unity engine. Includes: structure of folders, .gitignore file, project settings for Unity and few readme files
+*   [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck
+*   [LuggLD/SmearFrame](https://github.com/LuggLD/SmearFrame) - Unreal Engine 4 smear frame material effect
+*   [mrarashiyan/Unity-ConstantGenerator](https://github.com/mrarashiyan/Unity-ConstantGenerator) - By this package, you can create or view global constants want to use in everywhere of your project by just one click!
+*   [kichul1122/UnityConstants](https://github.com/kichul1122/UnityConstants) - Generate code to replace Unity magic strings
+*   [RandomStroke/FreeFogOfWar](https://github.com/RandomStroke/FreeFogOfWar) - Fog of war post effect made for Unity. Doesn't use any advanced URP and HDR stuff. Just the most basic implementation.
+*   [heikun288/HighPerformanceDamageText-Unity3D](https://github.com/heikun288/HighPerformanceDamageText-Unity3D) - How to use High Performance Damage Text(Unity3D)
+*   [codemaker2015/unity3d-cheat-sheet](https://github.com/codemaker2015/unity3d-cheat-sheet) - Unity 3D Cheat Sheet with examples
+*   [ozankasikci/unity-cheat-sheet](https://github.com/ozankasikci/unity-cheat-sheet) - C# Cheat sheet for Unity
+*   [MrRobinftw/UnityParsers](https://github.com/MrRobinftw/UnityParsers) - A parsing system for Unity
+*   [Chillu1/CSharpECSComparison](https://github.com/Chillu1/CSharpECSComparison) - Comparison chart for C# ECS solutions/frameworks
+*   [killop/anything_about_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
+*   [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build
+*   [uta-org/PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Headless Chrome .NET API
+*   [r2d2m/quake3-movement-unity3d](https://github.com/r2d2m/quake3-movement-unity3d) - A port of the Quake III strafe jumping mechanics to Unity3D
+*   [MitchellSmithDev/UnityAerowalk](https://github.com/MitchellSmithDev/UnityAerowalk) - Aerowalk from Quake Live.
+*   [johnpancoast/AutoRPG](https://github.com/johnpancoast/AutoRPG) - AutoBattler RPG System
+*   [blockspacer/Godot-3.2-Multiplayer-FPS](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - A multiplayer example project for Godot 3.2
+*   [hiulit/Unofficial-Godot-Engine-Raspberry-Pi](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - Unofficial Godot Engine binaries for the Raspberry Pi.
+*   [someone-s/Physics-Wrapper-for-Unity-ECS](https://github.com/someone-s/Physics-Wrapper-for-Unity-ECS) -
+*   [taylor-misch/animation-playground](https://github.com/taylor-misch/animation-playground) - A unity project playground for animating and rigging all my 2D character Sprites
+*   [swordmaster003/AssetBundle-Framework](https://github.com/swordmaster003/AssetBundle-Framework) - AssetBundle Framework ia a complete solution for network game to manage assets.
+*   [fuyutaa/recoverUnitySkillsFast](https://github.com/fuyutaa/recoverUnitySkillsFast) - In case you stopped Unity, that you lost your competences and want to get back in the game really fast
+*   [UnitySuperEditor/SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) -  Super Editor project is an enhancement plan to make Unity, the world's most popular game engine, versatile and streamlined.
+*   [yumehiko/FxFPixelFont](https://github.com/yumehiko/FxFPixelFont) - 5x5 Pixel Font For Unity
+*   [polyjitter/sgg-hades-twitch](https://github.com/polyjitter/sgg-hades-twitch) - A Twitch integration mod for the game Hades by Supergiant Games.
+*   [AlexTheOutsider/SunsetOverdriveDemo](https://github.com/AlexTheOutsider/SunsetOverdriveDemo) -
+*   [FaizanMughal/Hello_Hell](https://github.com/FaizanMughal/Hello_Hell) - Unity FPS game created at GameJam. Inspired by Doom, Quake, Unreal.
+*   [Corysia/Unity-Oculus-Example](https://github.com/Corysia/Unity-Oculus-Example) - An example of how to use Oculus Integration in VR
+*   [BSData/warhammer-armies-project](https://github.com/BSData/warhammer-armies-project) - Warhammer Armies Project
+*   [BSData/wh40k-killteam](https://github.com/BSData/wh40k-killteam) - Warhammer 40,000: Kill Team
+*   [BSData/wh40k-heralds-of-ruin](https://github.com/BSData/wh40k-heralds-of-ruin) - Warhammer 40,000: Heralds of Ruin 8th Edition
+*   [BSData/wh40k](https://github.com/BSData/wh40k) - Warhammer 40,000
+*   [BSData/battlefleetgothic](https://github.com/BSData/battlefleetgothic) - Battlefleet Gothic
+*   [HeauxrusHeresy/BattleScribe](https://github.com/HeauxrusHeresy/BattleScribe) - Custom BattleScribe Files for Horus Heresy
+*   [svknoe/WH40k-Point-Efficiency-Calculator](https://github.com/svknoe/WH40k-Point-Efficiency-Calculator) - Excel sheet for computing expected damage and point efficiency in Warhammer 40k 9th edition
+*   [Pogomurphisk/hearthstone-prob](https://github.com/Pogomurphisk/hearthstone-prob) -
+*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) -
+*   [mythril-forge/vanilla-spells](https://github.com/mythril-forge/vanilla-spells) - A repository of every spell from D\&D 5e. Includes official, semi-official, and almost-official content. Stored in markdown.
+*   [mythril-forge/homebrew-spells](https://github.com/mythril-forge/homebrew-spells) - :sparkles: A repository of all the spells from D\&D that could possibly be tweaked and twanged. Stored in markdown.
+*   [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
+*   [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
+*   [Nolram12345/DevTextureLib](https://github.com/Nolram12345/DevTextureLib) - A small library of various CC0 textures and surface imperfections, mainly as placeholder for graphics development.
+*   [ArturoNereu/GameDevDiagrams](https://github.com/ArturoNereu/GameDevDiagrams) - A Unity project to explain the Stack, the Heap, GC and Allocation.
+*   [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
+*   [NajiElKotob/Awesome-ProjectManagement](https://github.com/NajiElKotob/Awesome-ProjectManagement) - Project Management Resources and References
+*   [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
+*   [starikcetin/awesome-upm](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM). Feel free to add yours in!
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+*   [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
+*   [Half-Legend/DoorControllers](https://github.com/Half-Legend/DoorControllers) - This is a Human Fall Flat package meant to be used by Level Designer. This provides you with a few prefabs of simple and double  logical doors.
+*   [SlugGlove/Free-Running-Controller](https://github.com/SlugGlove/Free-Running-Controller) - A unity controller script for a free running parkour controller, similar to those found in mirrors edge or apex legends
+*   [RohitKotiveetil/UnrealEngine--TedioreReloadSystems](https://github.com/RohitKotiveetil/UnrealEngine--TedioreReloadSystems) - Recreation of the Tediore Reload Systems from Borderlands in Unreal Engine 4.
+*   [RohitKotiveetil/UnrealEngine--SecondWind](https://github.com/RohitKotiveetil/UnrealEngine--SecondWind) - Recreation of the Second Wind system from Borderlands 2
+*   [Jesse-ww/UnityActiveRagdolls](https://github.com/Jesse-ww/UnityActiveRagdolls) - This is an Active Ragdoll asset made in Unity version 2017.3
+*   [m-grainger/Factory_Game](https://github.com/m-grainger/Factory_Game) - My first project in Unity- a Box moving game where you grab boxes from a conveyor belt, and try to make them the correct type before hitting the end of the production line!
+*   [kameronbrooks/ccl-spec](https://github.com/kameronbrooks/ccl-spec) - The CCL (Contextual C-like Language) Specification
+*   [StefanoCecere/awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) - a list of curated opensource Unity packages for future proof Game Developers
+*   [chromealex/Morpeh](https://github.com/chromealex/Morpeh) - Fast and Simple ECS Framework for Unity3d
+*   [raywenderlich/c-sharp-style-guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials
+*   [pjc0247/UnityHack](https://github.com/pjc0247/UnityHack) - A secret recipe to extend Unity Editor.
+*   [mistertaftcreates/Unity-Zelda-Like](https://github.com/mistertaftcreates/Unity-Zelda-Like) - The repository for my zelda tutorial
+*   [Avatarchik/left4dots](https://github.com/Avatarchik/left4dots) - A lo-fi interpretation of Left 4 Dead and its AI systems using Unity and the DOTS (Data Oriented Tech Stack) architecture \[ECS]
+*   [mems/calepin](https://github.com/mems/calepin) - My handnotes, snippets and a curated awsome lists of a french frontend webdeveloper
+*   [nenuadrian/qr-code-unity-3d-read-generate](https://github.com/nenuadrian/qr-code-unity-3d-read-generate) - Generating a QR code / Scanning a QR code in Unity 3D. Pre-build DLL and sample code from old Unity
+*   [D3fau4/Helltaker-switch](https://github.com/D3fau4/Helltaker-switch) - Helltaker is a short game about sharply dressed demon girls for Nintendo Switch.
+*   [chromealex/ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
+*   [Flygonial/The-Gryphon-Foam-Dart-Blaster](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster) -
+*   [Orabig/cainsarchive](https://github.com/Orabig/cainsarchive) - Diablo 3 Model Viewer
+*   [javidshaikhf/30Days30Shaders](https://github.com/javidshaikhf/30Days30Shaders) -
+*   [mythril-forge/homebrew-classes](https://github.com/mythril-forge/homebrew-classes) - ✨ A repository of all the classes from D\&D. Proportions modified to taste. Stored in markdown.
+*   [cross-js/cross-js](https://github.com/cross-js/cross-js) - Javascript guidelines for writing code in any context
+*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+*   [ndreckshage/CSSVacuum](https://github.com/ndreckshage/CSSVacuum) - optimize your critical rendering path
+*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
+*   [AlarmClockCrusher/HearthstoneSim_Abandoned](https://github.com/AlarmClockCrusher/HearthstoneSim_Abandoned) - Simulation of Hearthstone game using python (Up to date Apr 1st 2020)
+*   [keijiro/ProcCharVfx](https://github.com/keijiro/ProcCharVfx) - Procedural character generation with Unity Shader Graph and VFX Graph
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+*   [Luzifix/ulaunch-hearthstone](https://github.com/Luzifix/ulaunch-hearthstone) - A hearthstone theme for switch ulaunch launcher
+*   [RichConGames/CCGFramework](https://github.com/RichConGames/CCGFramework) - A collectible card game development framework, targeting the .NET standard and Unity in C#.
+*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
+*   [HearthSim/hs-bugs](https://github.com/HearthSim/hs-bugs) - Unofficial Hearthstone issue tracker
+*   [sketchfab/unity-plugin](https://github.com/sketchfab/unity-plugin) -
+*   [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity) - A curated list of awesome Unity assets, resources, and more.
+*   [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
+*   [unicodeveloper/awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) - :book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)
+*   [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
+*   [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
+*   [ligurio/software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [Voblet/bookmarking-for-github](https://github.com/Voblet/bookmarking-for-github) - Save and Organize your favorite github repositories.
+*   [sentobi/ARPGE-Unity](https://github.com/sentobi/ARPGE-Unity) - A framework-in-progress for making Action-RPG (ARPG), or "Diablo clones", on Unity.
+*   [bryangalani/Unity_TetrisInventory](https://github.com/bryangalani/Unity_TetrisInventory) - Unity Inventory Tetris System in C# as Resident Evil 4 and Diablo 2
+*   [Dartteon/UnityHealthBar](https://github.com/Dartteon/UnityHealthBar) - This is a starter kit for a health bar system in Unity.
+*   [Follett12/IndependentLegMovementUnity](https://github.com/Follett12/IndependentLegMovementUnity) - A test to do independent leg movement to player movement. Uses camera position and player locomotion to determine upper and lower body angles of movement. Primarily in Player.cs. Other game elements are in the project.
+*   [Mr-Eee/UnityThirdPersonCameraMovement](https://github.com/Mr-Eee/UnityThirdPersonCameraMovement) - Third Person Movement Mecanim Animations
+*   [OmarBest7/unity-demo-fps](https://github.com/OmarBest7/unity-demo-fps) - A simple FPS sample including enemies, creation and recycle of bullets, ammo and health components and scene switch.
+*   [PortreeMathsTutor/Useful-Easy-Weapon-Scripts](https://github.com/PortreeMathsTutor/Useful-Easy-Weapon-Scripts) - Some timers and scoring scripts to go with the Easy Weapons asset on Unity 3D.
+*   [AkhilMenon007/Fractals-With-ECS](https://github.com/AkhilMenon007/Fractals-With-ECS) - Creating a fractal in unity to show difference between ECS and gameobjects
+*   [MoMe36/BotWGuardian](https://github.com/MoMe36/BotWGuardian) - A repo holding my Unity package for the BotW inspired Guardian
+*   [kgazcurra/EventManagerWiki](https://github.com/kgazcurra/EventManagerWiki) -
+*   [kgazcurra/ProLibraryWiki](https://github.com/kgazcurra/ProLibraryWiki) - A wiki for the Unity Asset "ProLibrary"
+*   [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
+*   [Unity3D-Projects/Spotify4Unity](https://github.com/Unity3D-Projects/Spotify4Unity) - 🎵 Set of UI tools and scripts for integrating Spotify into your Unity game/app!
+*   [mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps](https://github.com/mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps) - A quick tutorial for using CartoDB and Odyssey.js for creating story maps for free!
+*   [BayatGames/SaveGamePro](https://github.com/BayatGames/SaveGamePro) - A Complete and Powerful Save Game Solution for Unity (Game Engine)
+*   [netpyoung/awesome-unity-free](https://github.com/netpyoung/awesome-unity-free) - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
+*   [OwlManAtt/eberron-intro-scenario](https://github.com/OwlManAtt/eberron-intro-scenario) -
+*   [calben/UE4MainMenu3D](https://github.com/calben/UE4MainMenu3D) - A template for a main menu featuring a character, as seen in games like PAYDAY 2 and Borderlands 2.
+*   [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn't Read
+*   [InfiniteAmmoInc/Yarn](https://github.com/InfiniteAmmoInc/Yarn) -
+*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+*   [keijiro/Smrvfx](https://github.com/keijiro/Smrvfx) - Skinned mesh sampling with VFX Graph
+*   [BrisJS/meetups](https://github.com/BrisJS/meetups) -
+*   [victorwestmann/Heraldry](https://github.com/victorwestmann/Heraldry) - This project aims to use Inkscape (open source software) to recreate a lot of blazons in SVG format -- Scalable Vector Graphics -- to allow anyone to create their own blazon.
+*   [xuyanwen2012/XP-MBBS-7.0](https://github.com/xuyanwen2012/XP-MBBS-7.0) - A Mount & Blade Style Battle System for RPG Maker XP with Demo
+*   [alexismorin/Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
+*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+*   [tempage/dorynode](https://github.com/tempage/dorynode) - Q/A || Issues || feedbacks || doc PRs are welcome!!
+*   [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
+*   [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
+*   [ShivonQ/naturalCritMarkdown](https://github.com/ShivonQ/naturalCritMarkdown) - Collections of markdown files from https://homebrewery.naturalcrit.com/ .  Purpose is so others can modify my rulesets whoever they see fit.
+*   [trespa/SwTor-1.3](https://github.com/trespa/SwTor-1.3) - Swtor
+*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+*   [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop) - An Introduction to Raymarching
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
+*   [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
+*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
+*   [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+*   [przemyslawzaworski/Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming) - Various shaders.
+*   [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
+*   [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
+*   [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
+*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
+*   [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources
+*   [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
+*   [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+*   [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
+*   [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
+*   [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
+*   [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
+*   [Taylib/sunset](https://github.com/Taylib/sunset) - Guide for Sunset Overdrive any% Speedrun
+*   [josephdviviano/dis-ult-diff-mod](https://github.com/josephdviviano/dis-ult-diff-mod) - dishonored ultimate difficulty mod
+*   [RohitKotiveetil/UnrealEngine--BlinkAbility](https://github.com/RohitKotiveetil/UnrealEngine--BlinkAbility) - Recreation of Dishonored's Blink ability in Unreal Engine.
+*   [fontiago/itb-algebraic-notation](https://github.com/fontiago/itb-algebraic-notation) - Textual and visual notation for Into the Breach.
+*   [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
+*   [fishtopher/UnityDrawers](https://github.com/fishtopher/UnityDrawers) - A collection of property and decorator drawers for Unity
+*   [scottjohnson3/Deus-Ex-Email](https://github.com/scottjohnson3/Deus-Ex-Email) - A web interface that mimics the look of the email screens found in the video game Deus Ex: Human Revolution
+*   [gundermanc/unity3d-hacking-game](https://github.com/gundermanc/unity3d-hacking-game) - A video game, primarily for cell phones, designed to get kids interested in programming by representing code as puzzle pieces.
+*   [nicholaswilde/KLWP-SmartThings](https://github.com/nicholaswilde/KLWP-SmartThings) - A Kustom Live Wallpaper for SmartThings
+*   [waihovong/KLWP](https://github.com/waihovong/KLWP) - Android Kustom Live Wallpaper
+*   [JPen3/projectChibiSouls](https://github.com/JPen3/projectChibiSouls) - Prototype game for GDD 450 using Unity.
+*   [junior-devleague/unity-3D-racing](https://github.com/junior-devleague/unity-3D-racing) - \[Beginner] Unity, C3, 3D Game - Beginner tutorial for 3D racing game with Unity
+*   [laurenth-personal/Cinelights](https://github.com/laurenth-personal/Cinelights) - Example project using Lighting tools package and Cine lights package for Unity.
+*   [RelentlessAF/third-person-camera](https://github.com/RelentlessAF/third-person-camera) - Tomb Raider/ The Witcher-esque Camera movement for Unity 3D
+*   [Brackeys/New-Prefab-Workflows](https://github.com/Brackeys/New-Prefab-Workflows) - Project files for our tutorial on the new Prefab Workflows in Unity.
+*   [bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity](https://github.com/bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity) - Gettin retro
+*   [dsbrady/AhoyMatey](https://github.com/dsbrady/AhoyMatey) - Pirate Game for Udemy Unity Course
+*   [katopz/ImageAsBackground](https://github.com/katopz/ImageAsBackground) -
+*   [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
+*   [DuckBoss/ShaderGraphs_Unity2018](https://github.com/DuckBoss/ShaderGraphs_Unity2018) - A collection of Unity Engine Shaders I've made using Shader Graph.
+*   [hayderimran7/free-tech-ebooks-from-packtpub](https://github.com/hayderimran7/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing \[Regularly Updated]
+*   [deepmind/card2code](https://github.com/deepmind/card2code) - A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
+*   [hgehlhausen/palladium-polished](https://github.com/hgehlhausen/palladium-polished) - MD code for HomeBrewery of Palladium Polished - Dogfights and Dragons
+*   [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets) -
+*   [thanasiskehagias/Unity-Dance-Curves](https://github.com/thanasiskehagias/Unity-Dance-Curves) - Unity3d project with dancers and mathematical curves. The user can choose favorite curve and script the dancers at runtime to follow it .
+*   [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
+*   [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+*   [BrokenVector/BetterUnityScriptTemplates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - A replacement for the default script templates in the Unity Engine
+*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+*   [laurenth-personal/LightProbesPlacement](https://github.com/laurenth-personal/LightProbesPlacement) - Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically
+*   [staff0rd/polygon-map-unity](https://github.com/staff0rd/polygon-map-unity) - An implementation of Polygon Map Generator in C# for Unity
+*   [Endarren/Unity_Resources](https://github.com/Endarren/Unity_Resources) - A list of resources and tutorials for those doing programming in Unity.
+*   [yasirkula/UnitySpinningLoadingBars](https://github.com/yasirkula/UnitySpinningLoadingBars) - 3 different spinning loading bar prefabs for Unity's UI system
+*   [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
+*   [SebLague/Procedural-Landmass-Textures](https://github.com/SebLague/Procedural-Landmass-Textures) - Textures for the procedural landmass series
+*   [smkplus/ShaderBooks](https://github.com/smkplus/ShaderBooks) - ShaderBooks
+*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
+*   [mailchimp/content-style-guide](https://github.com/mailchimp/content-style-guide) - This is our company style guide. It helps us write clear and consistent content across teams and channels
+*   [toncas/educational_circuit_simulator_unity](https://github.com/toncas/educational_circuit_simulator_unity) - This contains the final year project for Antonio Castro and Josiah Martinez.
+*   [NVentimiglia/awesome-unity](https://github.com/NVentimiglia/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
+*   [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
+*   [oferei/sublime-unity-completions](https://github.com/oferei/sublime-unity-completions) - Unity3D Completions - Sublime Text Plugin
+*   [keijiro/LowPolyShapes](https://github.com/keijiro/LowPolyShapes) - Low poly basic shape library for Unity
+*   [jawa0/JabasCodeKatas](https://github.com/jawa0/JabasCodeKatas) - C# and Unity programming skills that should become automatic
+*   [kimsama/Unity-FlashOut-Effect](https://github.com/kimsama/Unity-FlashOut-Effect) - Unity3D shader and tween animation howto for flashing out effect on a 3D model.
+*   [keijiro/Fragments](https://github.com/keijiro/Fragments) - Fragment mesh objects for particle effects in Unity
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Python
 
@@ -4085,241 +4320,6 @@
 *   [EddieCameron/DoomRoom](https://github.com/EddieCameron/DoomRoom) - Procedurally generate a Doom style FPS level (for Unity3D)
 *   [LitJSON/litjson](https://github.com/LitJSON/litjson) - JSON library for the .Net framework
 *   [miketucker/Unity-Accidental-Noise](https://github.com/miketucker/Unity-Accidental-Noise) - C# / Unity port of Joshua Tippetts Accidental Noise Library
-*   [fholm/unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
-
-## generic
-
-*   [Correia-jpv/fucking-awesome-unity](https://github.com/Correia-jpv/fucking-awesome-unity) - A curated list of awesome Unity assets, resources, and more. With repository stars⭐ and forks🍴
-*   [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
-*   [sverdegd/NotepadToolUnity](https://github.com/sverdegd/NotepadToolUnity) - Take your notes without leaving Unity thanks to this plugin and increase your productivity and organization.
-*   [smoltools/smol-juice](https://github.com/smoltools/smol-juice) - Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
-*   [Envoy-VC/awesome-clones](https://github.com/Envoy-VC/awesome-clones) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tik-Tok, Spotify, WhatsApp, YouTube etc. See source code, demo links, tech stack, GitHub stars.
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [mircearoata/SatisfactoryAdvancedLogistics](https://github.com/mircearoata/SatisfactoryAdvancedLogistics) -
-*   [Avatarchik/looader](https://github.com/Avatarchik/looader) - Loading screen solution for Unity engine
-*   [RepahidiS/glassos](https://github.com/RepahidiS/glassos) - Simulated OS project for Unity engine.
-*   [thatsgerman/CRTShader_Unity3D](https://github.com/thatsgerman/CRTShader_Unity3D) -
-*   [bsimser/Railroad-Tycoon](https://github.com/bsimser/Railroad-Tycoon) - The original Railroad Tycoon game built in Unity 2D
-*   [HelloFangaming/HelloMarioAssets](https://github.com/HelloFangaming/HelloMarioAssets) - Collection of 3D models and animations for Unity that you can use to jump start your very own 3D Mario fangame!
-*   [erasmosoares/UnityDataManager](https://github.com/erasmosoares/UnityDataManager) - This project allows game developers to create and manager level atributes using xls files. Using a xls file can be a simple way to edit character attributes in addition to having a broad view of the attributes for each level of the game, besides making this edition in a separate file enable you to share the same file with other team members such as game design and level design.
-*   [askaplan/InitialUnityProject](https://github.com/askaplan/InitialUnityProject) -
-*   [marianomike/unity-prototype-photoapp](https://github.com/marianomike/unity-prototype-photoapp) - Instagram-like UI Prototype built in Unity.
-*   [Lontoone/MyUnity-tool-LevelFlowEditor](https://github.com/Lontoone/MyUnity-tool-LevelFlowEditor) -
-*   [Anthr0py/unity3d-crosshair](https://github.com/Anthr0py/unity3d-crosshair) - A simple crosshair with spread support based on Unity 4.6+ UI.
-*   [AhmedTremo/Left2Dead](https://github.com/AhmedTremo/Left2Dead) - A game that combines the best in The last of us and Left 4 dead using Unity.
-*   [videlais/learning-ink-unity](https://github.com/videlais/learning-ink-unity) - Learn to use Ink + Unity
-*   [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality) - A curated list of VR resources
-*   [QianMo/Unity-Shader-Resources-List](https://github.com/QianMo/Unity-Shader-Resources-List) - :clipboard: Unity Shader相关学习资源与链接珍藏 | A list of amazing resources for learning shader writing in Unity.
-*   [Ognian-GlimpseSoftware/SmartObjectsSystem](https://github.com/Ognian-GlimpseSoftware/SmartObjectsSystem) - Unity game object that can morph into any type of custom game object or prefab
-*   [haxflying/DestructionShader](https://github.com/haxflying/DestructionShader) - Unity Destruction made with geometry shader
-*   [floatinghotpot/socket.io-unity](https://github.com/floatinghotpot/socket.io-unity) - socket.io client for Unity, power game client with node.js back-end
-*   [unity5d/Minifort](https://github.com/unity5d/Minifort) - A unity 3d game.The topic is fort and zombie. The project is inspired by fortnite. But is going to different in many ways.
-*   [Renisys/UnityTutorials](https://github.com/Renisys/UnityTutorials) - This is a short tutorial of creating a model of volcanic eruption in unity, just using terrain, gravity, collision and particle system.
-*   [joshcamas/unity3d-runtime-debug-draw](https://github.com/joshcamas/unity3d-runtime-debug-draw) - single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
-*   [AdrianOrcik/Unity_UseCase_Tutorial](https://github.com/AdrianOrcik/Unity_UseCase_Tutorial) - :pencil: UseCase of Tutorial system with example sub systems
-*   [moare3788/cultist_simulator_french_translation](https://github.com/moare3788/cultist_simulator_french_translation) - Mod pour cultist simulator basé sur la traduction de Burton
-*   [SamsonStarmerLee/TF2\_Shaders](https://github.com/SamsonStarmerLee/TF2\_Shaders) -
-*   [moiseev7/UnityVirtualKeyboard](https://github.com/moiseev7/UnityVirtualKeyboard) -
-*   [JudgeGroovyman/roslyn-unity](https://github.com/JudgeGroovyman/roslyn-unity) - An implemantation try of .NET Roslyn Compiler in Unity allowing easy C# runtime compilation, C# Hot-Loading, security analysis
-*   [RetroGamer74/HowToBuildWithUnityPS4FakePKG](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG) - How To Build FPKG with Unity PS4
-*   [PV255/Unity-Project-Template](https://github.com/PV255/Unity-Project-Template) - Empty template for project in Unity engine. Includes: structure of folders, .gitignore file, project settings for Unity and few readme files
-*   [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck
-*   [LuggLD/SmearFrame](https://github.com/LuggLD/SmearFrame) - Unreal Engine 4 smear frame material effect
-*   [mrarashiyan/Unity-ConstantGenerator](https://github.com/mrarashiyan/Unity-ConstantGenerator) - By this package, you can create or view global constants want to use in everywhere of your project by just one click!
-*   [kichul1122/UnityConstants](https://github.com/kichul1122/UnityConstants) - Generate code to replace Unity magic strings
-*   [RandomStroke/FreeFogOfWar](https://github.com/RandomStroke/FreeFogOfWar) - Fog of war post effect made for Unity. Doesn't use any advanced URP and HDR stuff. Just the most basic implementation.
-*   [heikun288/HighPerformanceDamageText-Unity3D](https://github.com/heikun288/HighPerformanceDamageText-Unity3D) - How to use High Performance Damage Text(Unity3D)
-*   [codemaker2015/unity3d-cheat-sheet](https://github.com/codemaker2015/unity3d-cheat-sheet) - Unity 3D Cheat Sheet with examples
-*   [ozankasikci/unity-cheat-sheet](https://github.com/ozankasikci/unity-cheat-sheet) - C# Cheat sheet for Unity
-*   [MrRobinftw/UnityParsers](https://github.com/MrRobinftw/UnityParsers) - A parsing system for Unity
-*   [Chillu1/CSharpECSComparison](https://github.com/Chillu1/CSharpECSComparison) - Comparison chart for C# ECS solutions/frameworks
-*   [killop/anything_about_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
-*   [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build
-*   [uta-org/PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Headless Chrome .NET API
-*   [r2d2m/quake3-movement-unity3d](https://github.com/r2d2m/quake3-movement-unity3d) - A port of the Quake III strafe jumping mechanics to Unity3D
-*   [MitchellSmithDev/UnityAerowalk](https://github.com/MitchellSmithDev/UnityAerowalk) - Aerowalk from Quake Live.
-*   [johnpancoast/AutoRPG](https://github.com/johnpancoast/AutoRPG) - AutoBattler RPG System
-*   [blockspacer/Godot-3.2-Multiplayer-FPS](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - A multiplayer example project for Godot 3.2
-*   [hiulit/Unofficial-Godot-Engine-Raspberry-Pi](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - Unofficial Godot Engine binaries for the Raspberry Pi.
-*   [someone-s/Physics-Wrapper-for-Unity-ECS](https://github.com/someone-s/Physics-Wrapper-for-Unity-ECS) -
-*   [taylor-misch/animation-playground](https://github.com/taylor-misch/animation-playground) - A unity project playground for animating and rigging all my 2D character Sprites
-*   [swordmaster003/AssetBundle-Framework](https://github.com/swordmaster003/AssetBundle-Framework) - AssetBundle Framework ia a complete solution for network game to manage assets.
-*   [fuyutaa/recoverUnitySkillsFast](https://github.com/fuyutaa/recoverUnitySkillsFast) - In case you stopped Unity, that you lost your competences and want to get back in the game really fast
-*   [UnitySuperEditor/SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) -  Super Editor project is an enhancement plan to make Unity, the world's most popular game engine, versatile and streamlined.
-*   [yumehiko/FxFPixelFont](https://github.com/yumehiko/FxFPixelFont) - 5x5 Pixel Font For Unity
-*   [polyjitter/sgg-hades-twitch](https://github.com/polyjitter/sgg-hades-twitch) - A Twitch integration mod for the game Hades by Supergiant Games.
-*   [AlexTheOutsider/SunsetOverdriveDemo](https://github.com/AlexTheOutsider/SunsetOverdriveDemo) -
-*   [FaizanMughal/Hello_Hell](https://github.com/FaizanMughal/Hello_Hell) - Unity FPS game created at GameJam. Inspired by Doom, Quake, Unreal.
-*   [Corysia/Unity-Oculus-Example](https://github.com/Corysia/Unity-Oculus-Example) - An example of how to use Oculus Integration in VR
-*   [BSData/warhammer-armies-project](https://github.com/BSData/warhammer-armies-project) - Warhammer Armies Project
-*   [BSData/wh40k-killteam](https://github.com/BSData/wh40k-killteam) - Warhammer 40,000: Kill Team
-*   [BSData/wh40k-heralds-of-ruin](https://github.com/BSData/wh40k-heralds-of-ruin) - Warhammer 40,000: Heralds of Ruin 8th Edition
-*   [BSData/wh40k](https://github.com/BSData/wh40k) - Warhammer 40,000
-*   [BSData/battlefleetgothic](https://github.com/BSData/battlefleetgothic) - Battlefleet Gothic
-*   [HeauxrusHeresy/BattleScribe](https://github.com/HeauxrusHeresy/BattleScribe) - Custom BattleScribe Files for Horus Heresy
-*   [svknoe/WH40k-Point-Efficiency-Calculator](https://github.com/svknoe/WH40k-Point-Efficiency-Calculator) - Excel sheet for computing expected damage and point efficiency in Warhammer 40k 9th edition
-*   [Pogomurphisk/hearthstone-prob](https://github.com/Pogomurphisk/hearthstone-prob) -
-*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) -
-*   [mythril-forge/vanilla-spells](https://github.com/mythril-forge/vanilla-spells) - A repository of every spell from D\&D 5e. Includes official, semi-official, and almost-official content. Stored in markdown.
-*   [mythril-forge/homebrew-spells](https://github.com/mythril-forge/homebrew-spells) - :sparkles: A repository of all the spells from D\&D that could possibly be tweaked and twanged. Stored in markdown.
-*   [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
-*   [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
-*   [Nolram12345/DevTextureLib](https://github.com/Nolram12345/DevTextureLib) - A small library of various CC0 textures and surface imperfections, mainly as placeholder for graphics development.
-*   [ArturoNereu/GameDevDiagrams](https://github.com/ArturoNereu/GameDevDiagrams) - A Unity project to explain the Stack, the Heap, GC and Allocation.
-*   [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
-*   [NajiElKotob/Awesome-ProjectManagement](https://github.com/NajiElKotob/Awesome-ProjectManagement) - Project Management Resources and References
-*   [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
-*   [starikcetin/awesome-upm](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM). Feel free to add yours in!
-*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-*   [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
-*   [Half-Legend/DoorControllers](https://github.com/Half-Legend/DoorControllers) - This is a Human Fall Flat package meant to be used by Level Designer. This provides you with a few prefabs of simple and double  logical doors.
-*   [SlugGlove/Free-Running-Controller](https://github.com/SlugGlove/Free-Running-Controller) - A unity controller script for a free running parkour controller, similar to those found in mirrors edge or apex legends
-*   [RohitKotiveetil/UnrealEngine--TedioreReloadSystems](https://github.com/RohitKotiveetil/UnrealEngine--TedioreReloadSystems) - Recreation of the Tediore Reload Systems from Borderlands in Unreal Engine 4.
-*   [RohitKotiveetil/UnrealEngine--SecondWind](https://github.com/RohitKotiveetil/UnrealEngine--SecondWind) - Recreation of the Second Wind system from Borderlands 2
-*   [Jesse-ww/UnityActiveRagdolls](https://github.com/Jesse-ww/UnityActiveRagdolls) - This is an Active Ragdoll asset made in Unity version 2017.3
-*   [m-grainger/Factory_Game](https://github.com/m-grainger/Factory_Game) - My first project in Unity- a Box moving game where you grab boxes from a conveyor belt, and try to make them the correct type before hitting the end of the production line!
-*   [kameronbrooks/ccl-spec](https://github.com/kameronbrooks/ccl-spec) - The CCL (Contextual C-like Language) Specification
-*   [StefanoCecere/awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) - a list of curated opensource Unity packages for future proof Game Developers
-*   [chromealex/Morpeh](https://github.com/chromealex/Morpeh) - Fast and Simple ECS Framework for Unity3d
-*   [raywenderlich/c-sharp-style-guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials
-*   [pjc0247/UnityHack](https://github.com/pjc0247/UnityHack) - A secret recipe to extend Unity Editor.
-*   [mistertaftcreates/Unity-Zelda-Like](https://github.com/mistertaftcreates/Unity-Zelda-Like) - The repository for my zelda tutorial
-*   [Avatarchik/left4dots](https://github.com/Avatarchik/left4dots) - A lo-fi interpretation of Left 4 Dead and its AI systems using Unity and the DOTS (Data Oriented Tech Stack) architecture \[ECS]
-*   [mems/calepin](https://github.com/mems/calepin) - My handnotes, snippets and a curated awsome lists of a french frontend webdeveloper
-*   [nenuadrian/qr-code-unity-3d-read-generate](https://github.com/nenuadrian/qr-code-unity-3d-read-generate) - Generating a QR code / Scanning a QR code in Unity 3D. Pre-build DLL and sample code from old Unity
-*   [D3fau4/Helltaker-switch](https://github.com/D3fau4/Helltaker-switch) - Helltaker is a short game about sharply dressed demon girls for Nintendo Switch.
-*   [chromealex/ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
-*   [Flygonial/The-Gryphon-Foam-Dart-Blaster](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster) -
-*   [Orabig/cainsarchive](https://github.com/Orabig/cainsarchive) - Diablo 3 Model Viewer
-*   [javidshaikhf/30Days30Shaders](https://github.com/javidshaikhf/30Days30Shaders) -
-*   [mythril-forge/homebrew-classes](https://github.com/mythril-forge/homebrew-classes) - ✨ A repository of all the classes from D\&D. Proportions modified to taste. Stored in markdown.
-*   [cross-js/cross-js](https://github.com/cross-js/cross-js) - Javascript guidelines for writing code in any context
-*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-*   [ndreckshage/CSSVacuum](https://github.com/ndreckshage/CSSVacuum) - optimize your critical rendering path
-*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-*   [AlarmClockCrusher/HearthstoneSim_Abandoned](https://github.com/AlarmClockCrusher/HearthstoneSim_Abandoned) - Simulation of Hearthstone game using python (Up to date Apr 1st 2020)
-*   [keijiro/ProcCharVfx](https://github.com/keijiro/ProcCharVfx) - Procedural character generation with Unity Shader Graph and VFX Graph
-*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-*   [Luzifix/ulaunch-hearthstone](https://github.com/Luzifix/ulaunch-hearthstone) - A hearthstone theme for switch ulaunch launcher
-*   [RichConGames/CCGFramework](https://github.com/RichConGames/CCGFramework) - A collectible card game development framework, targeting the .NET standard and Unity in C#.
-*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
-*   [HearthSim/hs-bugs](https://github.com/HearthSim/hs-bugs) - Unofficial Hearthstone issue tracker
-*   [sketchfab/unity-plugin](https://github.com/sketchfab/unity-plugin) -
-*   [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity) - A curated list of awesome Unity assets, resources, and more.
-*   [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
-*   [unicodeveloper/awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) - :book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)
-*   [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
-*   [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
-*   [ligurio/software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-*   [Voblet/bookmarking-for-github](https://github.com/Voblet/bookmarking-for-github) - Save and Organize your favorite github repositories.
-*   [sentobi/ARPGE-Unity](https://github.com/sentobi/ARPGE-Unity) - A framework-in-progress for making Action-RPG (ARPG), or "Diablo clones", on Unity.
-*   [bryangalani/Unity_TetrisInventory](https://github.com/bryangalani/Unity_TetrisInventory) - Unity Inventory Tetris System in C# as Resident Evil 4 and Diablo 2
-*   [Dartteon/UnityHealthBar](https://github.com/Dartteon/UnityHealthBar) - This is a starter kit for a health bar system in Unity.
-*   [Follett12/IndependentLegMovementUnity](https://github.com/Follett12/IndependentLegMovementUnity) - A test to do independent leg movement to player movement. Uses camera position and player locomotion to determine upper and lower body angles of movement. Primarily in Player.cs. Other game elements are in the project.
-*   [Mr-Eee/UnityThirdPersonCameraMovement](https://github.com/Mr-Eee/UnityThirdPersonCameraMovement) - Third Person Movement Mecanim Animations
-*   [OmarBest7/unity-demo-fps](https://github.com/OmarBest7/unity-demo-fps) - A simple FPS sample including enemies, creation and recycle of bullets, ammo and health components and scene switch.
-*   [PortreeMathsTutor/Useful-Easy-Weapon-Scripts](https://github.com/PortreeMathsTutor/Useful-Easy-Weapon-Scripts) - Some timers and scoring scripts to go with the Easy Weapons asset on Unity 3D.
-*   [AkhilMenon007/Fractals-With-ECS](https://github.com/AkhilMenon007/Fractals-With-ECS) - Creating a fractal in unity to show difference between ECS and gameobjects
-*   [MoMe36/BotWGuardian](https://github.com/MoMe36/BotWGuardian) - A repo holding my Unity package for the BotW inspired Guardian
-*   [kgazcurra/EventManagerWiki](https://github.com/kgazcurra/EventManagerWiki) -
-*   [kgazcurra/ProLibraryWiki](https://github.com/kgazcurra/ProLibraryWiki) - A wiki for the Unity Asset "ProLibrary"
-*   [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
-*   [Unity3D-Projects/Spotify4Unity](https://github.com/Unity3D-Projects/Spotify4Unity) - 🎵 Set of UI tools and scripts for integrating Spotify into your Unity game/app!
-*   [mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps](https://github.com/mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps) - A quick tutorial for using CartoDB and Odyssey.js for creating story maps for free!
-*   [BayatGames/SaveGamePro](https://github.com/BayatGames/SaveGamePro) - A Complete and Powerful Save Game Solution for Unity (Game Engine)
-*   [netpyoung/awesome-unity-free](https://github.com/netpyoung/awesome-unity-free) - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
-*   [OwlManAtt/eberron-intro-scenario](https://github.com/OwlManAtt/eberron-intro-scenario) -
-*   [calben/UE4MainMenu3D](https://github.com/calben/UE4MainMenu3D) - A template for a main menu featuring a character, as seen in games like PAYDAY 2 and Borderlands 2.
-*   [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn't Read
-*   [InfiniteAmmoInc/Yarn](https://github.com/InfiniteAmmoInc/Yarn) -
-*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-*   [keijiro/Smrvfx](https://github.com/keijiro/Smrvfx) - Skinned mesh sampling with VFX Graph
-*   [BrisJS/meetups](https://github.com/BrisJS/meetups) -
-*   [victorwestmann/Heraldry](https://github.com/victorwestmann/Heraldry) - This project aims to use Inkscape (open source software) to recreate a lot of blazons in SVG format -- Scalable Vector Graphics -- to allow anyone to create their own blazon.
-*   [xuyanwen2012/XP-MBBS-7.0](https://github.com/xuyanwen2012/XP-MBBS-7.0) - A Mount & Blade Style Battle System for RPG Maker XP with Demo
-*   [alexismorin/Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
-*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
-*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-*   [tempage/dorynode](https://github.com/tempage/dorynode) - Q/A || Issues || feedbacks || doc PRs are welcome!!
-*   [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
-*   [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
-*   [ShivonQ/naturalCritMarkdown](https://github.com/ShivonQ/naturalCritMarkdown) - Collections of markdown files from https://homebrewery.naturalcrit.com/ .  Purpose is so others can modify my rulesets whoever they see fit.
-*   [trespa/SwTor-1.3](https://github.com/trespa/SwTor-1.3) - Swtor
-*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-*   [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop) - An Introduction to Raymarching
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
-*   [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
-*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-*   [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
-*   [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-*   [przemyslawzaworski/Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming) - Various shaders.
-*   [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
-*   [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-*   [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-*   [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
-*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
-*   [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources
-*   [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
-*   [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-*   [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
-*   [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-*   [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
-*   [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
-*   [Taylib/sunset](https://github.com/Taylib/sunset) - Guide for Sunset Overdrive any% Speedrun
-*   [josephdviviano/dis-ult-diff-mod](https://github.com/josephdviviano/dis-ult-diff-mod) - dishonored ultimate difficulty mod
-*   [RohitKotiveetil/UnrealEngine--BlinkAbility](https://github.com/RohitKotiveetil/UnrealEngine--BlinkAbility) - Recreation of Dishonored's Blink ability in Unreal Engine.
-*   [fontiago/itb-algebraic-notation](https://github.com/fontiago/itb-algebraic-notation) - Textual and visual notation for Into the Breach.
-*   [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
-*   [fishtopher/UnityDrawers](https://github.com/fishtopher/UnityDrawers) - A collection of property and decorator drawers for Unity
-*   [scottjohnson3/Deus-Ex-Email](https://github.com/scottjohnson3/Deus-Ex-Email) - A web interface that mimics the look of the email screens found in the video game Deus Ex: Human Revolution
-*   [gundermanc/unity3d-hacking-game](https://github.com/gundermanc/unity3d-hacking-game) - A video game, primarily for cell phones, designed to get kids interested in programming by representing code as puzzle pieces.
-*   [nicholaswilde/KLWP-SmartThings](https://github.com/nicholaswilde/KLWP-SmartThings) - A Kustom Live Wallpaper for SmartThings
-*   [waihovong/KLWP](https://github.com/waihovong/KLWP) - Android Kustom Live Wallpaper
-*   [JPen3/projectChibiSouls](https://github.com/JPen3/projectChibiSouls) - Prototype game for GDD 450 using Unity.
-*   [junior-devleague/unity-3D-racing](https://github.com/junior-devleague/unity-3D-racing) - \[Beginner] Unity, C3, 3D Game - Beginner tutorial for 3D racing game with Unity
-*   [laurenth-personal/Cinelights](https://github.com/laurenth-personal/Cinelights) - Example project using Lighting tools package and Cine lights package for Unity.
-*   [RelentlessAF/third-person-camera](https://github.com/RelentlessAF/third-person-camera) - Tomb Raider/ The Witcher-esque Camera movement for Unity 3D
-*   [Brackeys/New-Prefab-Workflows](https://github.com/Brackeys/New-Prefab-Workflows) - Project files for our tutorial on the new Prefab Workflows in Unity.
-*   [bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity](https://github.com/bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity) - Gettin retro
-*   [dsbrady/AhoyMatey](https://github.com/dsbrady/AhoyMatey) - Pirate Game for Udemy Unity Course
-*   [katopz/ImageAsBackground](https://github.com/katopz/ImageAsBackground) -
-*   [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
-*   [DuckBoss/ShaderGraphs_Unity2018](https://github.com/DuckBoss/ShaderGraphs_Unity2018) - A collection of Unity Engine Shaders I've made using Shader Graph.
-*   [hayderimran7/free-tech-ebooks-from-packtpub](https://github.com/hayderimran7/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing \[Regularly Updated]
-*   [deepmind/card2code](https://github.com/deepmind/card2code) - A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
-*   [hgehlhausen/palladium-polished](https://github.com/hgehlhausen/palladium-polished) - MD code for HomeBrewery of Palladium Polished - Dogfights and Dragons
-*   [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets) -
-*   [thanasiskehagias/Unity-Dance-Curves](https://github.com/thanasiskehagias/Unity-Dance-Curves) - Unity3d project with dancers and mathematical curves. The user can choose favorite curve and script the dancers at runtime to follow it .
-*   [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
-*   [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-*   [BrokenVector/BetterUnityScriptTemplates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - A replacement for the default script templates in the Unity Engine
-*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-*   [laurenth-personal/LightProbesPlacement](https://github.com/laurenth-personal/LightProbesPlacement) - Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically
-*   [staff0rd/polygon-map-unity](https://github.com/staff0rd/polygon-map-unity) - An implementation of Polygon Map Generator in C# for Unity
-*   [Endarren/Unity_Resources](https://github.com/Endarren/Unity_Resources) - A list of resources and tutorials for those doing programming in Unity.
-*   [yasirkula/UnitySpinningLoadingBars](https://github.com/yasirkula/UnitySpinningLoadingBars) - 3 different spinning loading bar prefabs for Unity's UI system
-*   [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
-*   [SebLague/Procedural-Landmass-Textures](https://github.com/SebLague/Procedural-Landmass-Textures) - Textures for the procedural landmass series
-*   [smkplus/ShaderBooks](https://github.com/smkplus/ShaderBooks) - ShaderBooks
-*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
-*   [mailchimp/content-style-guide](https://github.com/mailchimp/content-style-guide) - This is our company style guide. It helps us write clear and consistent content across teams and channels
-*   [toncas/educational_circuit_simulator_unity](https://github.com/toncas/educational_circuit_simulator_unity) - This contains the final year project for Antonio Castro and Josiah Martinez.
-*   [NVentimiglia/awesome-unity](https://github.com/NVentimiglia/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-*   [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-*   [oferei/sublime-unity-completions](https://github.com/oferei/sublime-unity-completions) - Unity3D Completions - Sublime Text Plugin
-*   [keijiro/LowPolyShapes](https://github.com/keijiro/LowPolyShapes) - Low poly basic shape library for Unity
-*   [jawa0/JabasCodeKatas](https://github.com/jawa0/JabasCodeKatas) - C# and Unity programming skills that should become automatic
-*   [kimsama/Unity-FlashOut-Effect](https://github.com/kimsama/Unity-FlashOut-Effect) - Unity3D shader and tween animation howto for flashing out effect on a 3D model.
-*   [keijiro/Fragments](https://github.com/keijiro/Fragments) - Fragment mesh objects for particle effects in Unity
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## JavaScript
 
