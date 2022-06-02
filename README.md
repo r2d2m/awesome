@@ -831,7 +831,7 @@
 *   [joshcamas/EventStack](https://github.com/joshcamas/EventStack) - Add events and mods to Unity3D with ease
 *   [joshcamas/moss-painter](https://github.com/joshcamas/moss-painter) - Prototype Unity tool to paint moss geometry on top of scene geometry
 *   [DigitalPainting/DigitalPainting](https://github.com/DigitalPainting/DigitalPainting) - A Unity project that provides a "Digital Painting", a scene that is automatically explored by the camera. It provides a frameowork in which digitial art can be created.
-*   [Roland09/PrefabPainter_OpenSource](https://github.com/Roland09/PrefabPainter_OpenSource) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
+*   [Roland09/PrefabPainter](https://github.com/Roland09/PrefabPainter) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
 *   [tempv02final/Mausebunker-bend](https://github.com/tempv02final/Mausebunker-bend) - A short VR "Inception-like" VR experience
 *   [IRCSS/Procedural-Sound](https://github.com/IRCSS/Procedural-Sound) - Generate procedural sounds / synthesized paino  on run time in Unity3d
 *   [lunarcloud/ballpoint-unity](https://github.com/lunarcloud/ballpoint-unity) - Tools for using Inkle's Ink on Unity
@@ -5778,7 +5778,7 @@
 
 ## Pawn
 
-*   [YoshiokaHaruki/AMXX-API-Muzzle-Flash](https://github.com/YoshiokaHaruki/AMXX-API-Muzzle-Flash) - API Plugin for add custom Muzzle Flash for Weapons in Counter Strike 1.6 (based on ReAPI)
+*   [YoshiokaHaruki/AMXX-API-Muzzle-Flash](https://github.com/YoshiokaHaruki/AMXX-API-Muzzle-Flash) - API Plugin for add custom Muzzle Flash for Weapons in Counter Strike 1.6
 
 ## CSS
 
