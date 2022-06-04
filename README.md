@@ -628,7 +628,6 @@
 *   [joshcamas/EventStack](https://github.com/joshcamas/EventStack) - Add events and mods to Unity3D with ease
 *   [joshcamas/moss-painter](https://github.com/joshcamas/moss-painter) - Prototype Unity tool to paint moss geometry on top of scene geometry
 *   [DigitalPainting/DigitalPainting](https://github.com/DigitalPainting/DigitalPainting) - A Unity project that provides a "Digital Painting", a scene that is automatically explored by the camera. It provides a frameowork in which digitial art can be created.
-*   [Roland09/PrefabPainter](https://github.com/Roland09/PrefabPainter) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
 *   [tempv02final/Mausebunker-bend](https://github.com/tempv02final/Mausebunker-bend) - A short VR "Inception-like" VR experience
 *   [IRCSS/Procedural-Sound](https://github.com/IRCSS/Procedural-Sound) - Generate procedural sounds / synthesized paino  on run time in Unity3d
 *   [lunarcloud/ballpoint-unity](https://github.com/lunarcloud/ballpoint-unity) - Tools for using Inkle's Ink on Unity
@@ -3760,6 +3759,7 @@
 *   [uclagamelab/MeshCreator](https://github.com/uclagamelab/MeshCreator) - A set of Unity3d scripts to enable simple mesh creation from 2d textures in the editor.
 *   [MrJoy/UnitySVG](https://github.com/MrJoy/UnitySVG) - SVG renderer for Unity3D.
 *   [obviousjim/Programming3dWorlds](https://github.com/obviousjim/Programming3dWorlds) - Course Material for Programming 3D Worlds, Unity3d for Creative Coding ITP Spring 2012
+*   [paynechu/jsonfx-for-unity3d](https://github.com/paynechu/jsonfx-for-unity3d) - fork from bitbucket's jsonfx-for-unity3d
 
 ## JavaScript
 
