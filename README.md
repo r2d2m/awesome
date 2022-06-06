@@ -3978,7 +3978,7 @@
 *   [nokia/skilltree](https://github.com/nokia/skilltree) - A tool to build and share visualised skill-trees
 *   [graysonhicks/pallypal-server](https://github.com/graysonhicks/pallypal-server) - Take color scheme chosen in PallyPal and compile and send a stylesheet back to user as a download.
 *   [morepurplemorebetter/MPMBs-Character-Record-Sheet](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet) - MorePurpleMoreBetter's D\&D 5e Character Record Sheet
-*   [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework
+*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with utility-first CSS
 *   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 *   [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 *   [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
@@ -5046,7 +5046,7 @@
 *   [yasirkula/DownloadLinkGeneratorForGoogleDrive](https://github.com/yasirkula/DownloadLinkGeneratorForGoogleDrive) - Create list of files and their download links in a Google Drive™ folder
 *   [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
 *   [porousnapkin/TradeRL](https://github.com/porousnapkin/TradeRL) - Building a roguelike where you play as a merchant setting up trade routes in a dangerous world. It's a Unity C# project.
-*   [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
+*   [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with utility-first CSS.
 *   [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 *   [azu/mdline](https://github.com/azu/mdline) - Markdown timeline format and toolkit.
 *   [jodaf/quilvyn-eberron](https://github.com/jodaf/quilvyn-eberron) - Third edition Eberron campaign setting plugin for Quilvyn RPG character sheet generator.
