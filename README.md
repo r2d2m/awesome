@@ -128,7 +128,7 @@
 *   [miniclip/ShapeShifter](https://github.com/miniclip/ShapeShifter) - An utility for skinning and switching between different games within the same Unity project.
 *   [tatmanblue/econ-sim](https://github.com/tatmanblue/econ-sim) - Simulator exploring demand vs supply behaviors in AI
 *   [AnzyGit/Unity-sand-shader](https://github.com/AnzyGit/Unity-sand-shader) - A stylized sand shader (with materials example) made with shader graph
-*   [Habrador/Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) - Implementations in Unity of the Ten Minute Physics YouTube channel. Instead if using Unity's built-in physics engine, you will learn how to make your own. This is useful if you want to simulate ropes, cloth, tires, etc
+*   [Habrador/Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) - Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine, you will learn how to make your own. This is useful if you want to simulate ropes, cloth, tires, etc
 *   [jpgordon00/UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) - Download multiple files at a time in Unity.
 *   [yusufdmn/Animation-test-kit](https://github.com/yusufdmn/Animation-test-kit) - It creates an Unity Editor Window to test animators easily.
 *   [PacktPublishing/Mastering-UI-Development-with-Unity](https://github.com/PacktPublishing/Mastering-UI-Development-with-Unity) - Mastering UI Development with Unity, published by Packt
@@ -5176,7 +5176,7 @@
 *   [anakreon/PapersPlease](https://github.com/anakreon/PapersPlease) - Papers, Please is an indie video game where the player takes on a the role of a border crossing immigration officer in the fictional dystopian Eastern Bloc-like country of Arstotzka in the year 1982. As the officer, the player must review each immigrant and returning citizen's passports and other supporting paperwork against a list of ever-increasing rules using a number of tools and guides, allowing in only those with the proper paperwork, rejecting those without all proper forms, and at times detaining those with falsified information.
 *   [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 *   [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
-*   [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 *   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 *   [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 *   [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
