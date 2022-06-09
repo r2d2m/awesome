@@ -5742,7 +5742,7 @@
 ## Rust
 
 *   [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster/vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 *   [CoffeeAndCode/remnant-checklist](https://github.com/CoffeeAndCode/remnant-checklist) - Remnant: From the Ashes item checklist web app
 *   [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
