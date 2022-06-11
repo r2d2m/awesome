@@ -4073,6 +4073,7 @@
 *   [kparkov/diceless](https://github.com/kparkov/diceless) - 🎲 A speedy dice roller with probability breakdown.
 *   [dlom/anydice](https://github.com/dlom/anydice) - anydice roller
 *   [wellyshen/react-cool-inview](https://github.com/wellyshen/react-cool-inview) - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 *   [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 *   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 *   [DTCurrie/battlebuddy](https://github.com/DTCurrie/battlebuddy) - A companion app for Battlescribe to convert Battlescribe rosters (.ros) files into interactive data sheets.
@@ -4256,7 +4257,6 @@
 *   [ReactUnity/core](https://github.com/ReactUnity/core) - Create UI in Unity using React or HTML
 *   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 *   [HumanCompatibleAI/overcooked-demo](https://github.com/HumanCompatibleAI/overcooked-demo) - Web application where humans can play Overcooked with AI agents.
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 *   [Revln9/react-agenda](https://github.com/Revln9/react-agenda) - An advanced agenda / calendar  built with react
 *   [agenda/agenda-rest](https://github.com/agenda/agenda-rest) - Scheduling as a Service
 *   [peterbraden/ical.js](https://github.com/peterbraden/ical.js) - ical for javascript
