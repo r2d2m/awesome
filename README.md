@@ -2436,7 +2436,7 @@
 *   [yankooliveira/uiframework](https://github.com/yankooliveira/uiframework) - The deVoid UI Framework for Unity
 *   [huabrandon0/unity-fps-jumper](https://github.com/huabrandon0/unity-fps-jumper) - A single-player first-person timed "parkour" game that implements bunnyhopping, surfing, and rocketjumping.
 *   [melsov/ParkourDemo](https://github.com/melsov/ParkourDemo) - Parkour controls in Unity
-*   [kenxjay/TimeOfDay_and_Weather_Unity](https://github.com/kenxjay/TimeOfDay_and_Weather_Unity) -
+*   [Squls/TimeOfDay_and_Weather_Unity](https://github.com/Squls/TimeOfDay_and_Weather_Unity) -
 *   [EnricoMonese/DayNightCycle](https://github.com/EnricoMonese/DayNightCycle) - Easy Day-Night Cycle for Unity game engine
 *   [272437543/VillageGrowth](https://github.com/272437543/VillageGrowth) - A Unity based village growing program
 *   [nshelton/LomasGrowth](https://github.com/nshelton/LomasGrowth) - Unity compute shader implementation of andy Lomas growth algorithm
