@@ -145,7 +145,7 @@
 *   [michaelenger/d20.js](https://github.com/michaelenger/d20.js) - Javascript library for rolling RPG dice. Supports dice notation such as "4d6" and "d20+2".
 *   [moriyalb/hades](https://github.com/moriyalb/hades) - Hades is a game server framework based on Node.JS and Pomelo. Hades framework use simple entity defines and exporter tools which auto-generate logic codes and configs to make your server development easily and quickly.
 *   [benf86/TechTreeify](https://github.com/benf86/TechTreeify) - Turn a CSV-Tech Tree into a nicely visualized one. (Created with Sid Meier's Civilization: The Board Game in mind) ==> AngularJS
-*   [ReactUnity/core](https://github.com/ReactUnity/core) - Create UI in Unity using React or HTML
+*   [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
 *   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 *   [HumanCompatibleAI/overcooked-demo](https://github.com/HumanCompatibleAI/overcooked-demo) - Web application where humans can play Overcooked with AI agents.
 *   [Revln9/react-agenda](https://github.com/Revln9/react-agenda) - An advanced agenda / calendar  built with react
