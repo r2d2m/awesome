@@ -86,7 +86,7 @@
 *   [needle-tools/procedural-stochastic-texturing](https://github.com/needle-tools/procedural-stochastic-texturing) -
 *   [needle-tools/transform-changed-helper](https://github.com/needle-tools/transform-changed-helper) - Handles transform.hasChanged for you
 *   [needle-tools/hybrid-packages](https://github.com/needle-tools/hybrid-packages) - Export UPM packages as .unitypackage files
-*   [needle-tools/needle-console](https://github.com/needle-tools/needle-console) - ⚡ Improved Unity Console adding better stacktrace readability, log filtering and more by 🌵 needle
+*   [needle-tools/needle-console](https://github.com/needle-tools/needle-console) - ⚡ Improved Unity Console adding better log and stacktrace readability, log filtering, log hyperlinks and more
 *   [needle-tools/shadergraph-markdown](https://github.com/needle-tools/shadergraph-markdown) - Markdown-like syntax for ShaderGraph properties, to make better material inspectors
 *   [needle-tools/missing-component-info](https://github.com/needle-tools/missing-component-info) - Serializes and renders ⚠ missing component info in Unity
 *   [ConradDudziak/Genetic-Algorithm-Converging-Strings](https://github.com/ConradDudziak/Genetic-Algorithm-Converging-Strings) - A genetic algorithm that converges a population set of strings to a single target string.
