@@ -4201,7 +4201,7 @@
 *   [sjmp/izzi](https://github.com/sjmp/izzi) - Google sheets to XML parser
 *   [KonstantinPM/GoogleAppsScript](https://github.com/KonstantinPM/GoogleAppsScript) - Generate XML from google table
 *   [ConfidentCannabis/sheets-script-xpath](https://github.com/ConfidentCannabis/sheets-script-xpath) - Very simple XPath XML parsing in Google Sheet Script
-*   [alessandrobelli/NotionHook](https://github.com/alessandrobelli/NotionHook) -
+*   [alessandrobelli/NotionHook](https://github.com/alessandrobelli/NotionHook) - Sync your GitHub commits into a Notion Database
 *   [victornpb/notion-jam](https://github.com/victornpb/notion-jam) - Sync pages from Notion to GitHub to be used as a static website (JAM)
 *   [Scrum/awesome-readme-to-data-action](https://github.com/Scrum/awesome-readme-to-data-action) - A GitHub Action that transform awesome readme to data and commit in PR
 *   [infinitaslearning/notion-release-notes](https://github.com/infinitaslearning/notion-release-notes) - A github action to create notion release notes
