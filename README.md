@@ -4,7 +4,8 @@
 
 ## Table of Contents
 
-*   [C#](#c)
+*   [C](#c)
+*   [C#](#c-1)
 *   [ShaderLab](#shaderlab)
 *   [Python](#python)
 *   [Ruby](#ruby)
@@ -14,14 +15,13 @@
 *   [HTML](#html)
 *   [generic](#generic)
 *   [Shell](#shell)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [CMake](#cmake)
 *   [TeX](#tex)
 *   [ASP](#asp)
 *   [GLSL](#glsl)
 *   [Java](#java)
 *   [Vue](#vue)
-*   [C](#c-2)
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
 *   [GDScript](#gdscript)
@@ -69,6 +69,44 @@
 *   [D](#d)
 *   [Processing](#processing)
 *   [Smalltalk](#smalltalk)
+
+## C
+
+*   [AlexKage69/OlympusExtra](https://github.com/AlexKage69/OlympusExtra) -
+*   [aluntzer/gtknodes](https://github.com/aluntzer/gtknodes) - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements.
+*   [nfynt/Unity_ScriptingRef](https://github.com/nfynt/Unity_ScriptingRef) - C# scripting references for unity3D
+*   [ialex32x/unity-jsb](https://github.com/ialex32x/unity-jsb) - It brings Javascript runtime capability to Unity3D by integrating QuickJS.
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+*   [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
+*   [LennyPhoenix/GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - A Discord Game SDK wrapper for Godot, written in C.
+*   [NeighTools/UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
+*   [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
+*   [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+*   [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
+*   [dpull/AssetBundleParser](https://github.com/dpull/AssetBundleParser) - C version of disunity
+*   [raysan5/rfxgen](https://github.com/raysan5/rfxgen) - A simple and easy-to-use fx sounds generator
+*   [libretro/common-shaders](https://github.com/libretro/common-shaders) - Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
+*   [httperf/httperf](https://github.com/httperf/httperf) - The httperf HTTP load generator
+*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+*   [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+*   [videogamepreservation/txtelite](https://github.com/videogamepreservation/txtelite) - Text Elite is a C implementation of the classic Elite trading system in a text adventure style shell.
+*   [svn2github/uhexen2](https://github.com/svn2github/uhexen2) - This is a clone of an SVN repository at svn://svn.code.sf.net/p/uhexen2/code/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github
+*   [BlindMindStudios/StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
+*   [chiguire/puente](https://github.com/chiguire/puente) - A bridge building game in Unity
+*   [pangweiwei/slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
+*   [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+*   [guibec/rpgcraft](https://github.com/guibec/rpgcraft) - RPGCraft - Minecraft / Terraria / RPGMaker mashup
+*   [Flafla2/Zelda-Timeshift-Unity](https://github.com/Flafla2/Zelda-Timeshift-Unity) - An implementation of The Legend of Zelda's Timeshift Stone effect in Unity.
+*   [metal-crow/Dark-Souls-PvP-AI](https://github.com/metal-crow/Dark-Souls-PvP-AI) - AI for playing (and winning) in dark souls pvp
+*   [i-saint/OpticalCircuitUnityPort](https://github.com/i-saint/OpticalCircuitUnityPort) -
+*   [keijiro/HexBokeh](https://github.com/keijiro/HexBokeh) - An image effect simulating depth of field with hexagonal apertures
+*   [keijiro/AsciiArtFx](https://github.com/keijiro/AsciiArtFx) - ASCII art image effect for Unity
+*   [screwylightbulb/bored](https://github.com/screwylightbulb/bored) -
+*   [larsbertram69/Lux](https://github.com/larsbertram69/Lux) - Lux – open source physically based shader framework for unity
+*   [keijiro/AotsMovieTexture](https://github.com/keijiro/AotsMovieTexture) - Alpha-On-The-Side movie texture shader for Unity.
+*   [keijiro/UnityRefractionShader](https://github.com/keijiro/UnityRefractionShader) - Pseudo refraction shader for Unity.
+*   [keijiro/SpriteShadow](https://github.com/keijiro/SpriteShadow) - Drop shadow shader for sprite objects.
 
 ## C#
 
@@ -2131,7 +2169,6 @@
 *   [ClaytonMoutzouris/Card-Game-Project](https://github.com/ClaytonMoutzouris/Card-Game-Project) - A Card game similar to hearthstone made in unity
 *   [HKnochowski/Riscard](https://github.com/HKnochowski/Riscard) - Card game prototype similar to Hearthstone
 *   [andysalerno/CardServer](https://github.com/andysalerno/CardServer) - a wip server for a Hearthstone-style digital card game.
-*   [leoops/HearthStoneCards](https://github.com/leoops/HearthStoneCards) -
 *   [MeLikeChoco/HearthstoneDataScraper](https://github.com/MeLikeChoco/HearthstoneDataScraper) - Scrapes the Hearthstone wiki for card info.
 *   [ChuckHearthstone/CardQuery](https://github.com/ChuckHearthstone/CardQuery) - Card query tool for Hearthstone
 *   [valgoun/PhotonTwinStick](https://github.com/valgoun/PhotonTwinStick) - Twin stick shooter game made with Unity, Photon, Entitas, UniRX and DoTween
@@ -5615,43 +5652,6 @@
 *   [heroheman/battlegrounds-diary](https://github.com/heroheman/battlegrounds-diary) - Tracker for Hearthstone: Battlegrounds
 *   [rileytaylor/eberron-codex](https://github.com/rileytaylor/eberron-codex) -
 *   [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
-
-## C
-
-*   [aluntzer/gtknodes](https://github.com/aluntzer/gtknodes) - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements.
-*   [nfynt/Unity_ScriptingRef](https://github.com/nfynt/Unity_ScriptingRef) - C# scripting references for unity3D
-*   [ialex32x/unity-jsb](https://github.com/ialex32x/unity-jsb) - It brings Javascript runtime capability to Unity3D by integrating QuickJS.
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-*   [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
-*   [LennyPhoenix/GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - A Discord Game SDK wrapper for Godot, written in C.
-*   [NeighTools/UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
-*   [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-*   [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
-*   [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
-*   [dpull/AssetBundleParser](https://github.com/dpull/AssetBundleParser) - C version of disunity
-*   [raysan5/rfxgen](https://github.com/raysan5/rfxgen) - A simple and easy-to-use fx sounds generator
-*   [libretro/common-shaders](https://github.com/libretro/common-shaders) - Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
-*   [httperf/httperf](https://github.com/httperf/httperf) - The httperf HTTP load generator
-*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
-*   [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-*   [videogamepreservation/txtelite](https://github.com/videogamepreservation/txtelite) - Text Elite is a C implementation of the classic Elite trading system in a text adventure style shell.
-*   [svn2github/uhexen2](https://github.com/svn2github/uhexen2) - This is a clone of an SVN repository at svn://svn.code.sf.net/p/uhexen2/code/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github
-*   [BlindMindStudios/StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
-*   [chiguire/puente](https://github.com/chiguire/puente) - A bridge building game in Unity
-*   [pangweiwei/slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
-*   [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
-*   [guibec/rpgcraft](https://github.com/guibec/rpgcraft) - RPGCraft - Minecraft / Terraria / RPGMaker mashup
-*   [Flafla2/Zelda-Timeshift-Unity](https://github.com/Flafla2/Zelda-Timeshift-Unity) - An implementation of The Legend of Zelda's Timeshift Stone effect in Unity.
-*   [metal-crow/Dark-Souls-PvP-AI](https://github.com/metal-crow/Dark-Souls-PvP-AI) - AI for playing (and winning) in dark souls pvp
-*   [i-saint/OpticalCircuitUnityPort](https://github.com/i-saint/OpticalCircuitUnityPort) -
-*   [keijiro/HexBokeh](https://github.com/keijiro/HexBokeh) - An image effect simulating depth of field with hexagonal apertures
-*   [keijiro/AsciiArtFx](https://github.com/keijiro/AsciiArtFx) - ASCII art image effect for Unity
-*   [screwylightbulb/bored](https://github.com/screwylightbulb/bored) -
-*   [larsbertram69/Lux](https://github.com/larsbertram69/Lux) - Lux – open source physically based shader framework for unity
-*   [keijiro/AotsMovieTexture](https://github.com/keijiro/AotsMovieTexture) - Alpha-On-The-Side movie texture shader for Unity.
-*   [keijiro/UnityRefractionShader](https://github.com/keijiro/UnityRefractionShader) - Pseudo refraction shader for Unity.
-*   [keijiro/SpriteShadow](https://github.com/keijiro/SpriteShadow) - Drop shadow shader for sprite objects.
 
 ## Go
 
