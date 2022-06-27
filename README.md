@@ -76,7 +76,6 @@
 *   [aluntzer/gtknodes](https://github.com/aluntzer/gtknodes) - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements.
 *   [nfynt/Unity_ScriptingRef](https://github.com/nfynt/Unity_ScriptingRef) - C# scripting references for unity3D
 *   [ialex32x/unity-jsb](https://github.com/ialex32x/unity-jsb) - It brings Javascript runtime capability to Unity3D by integrating QuickJS.
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 *   [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 *   [LennyPhoenix/GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - A Discord Game SDK wrapper for Godot, written in C.
 *   [NeighTools/UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
@@ -110,7 +109,7 @@
 
 ## C#
 
-*   [kennedyvnak/Metroidvania](https://github.com/kennedyvnak/Metroidvania) - Complete, powerful and open source metroidvania game engine.
+*   [kennedyvnak/metroidvania](https://github.com/kennedyvnak/metroidvania) - Complete, powerful and open source metroidvania game engine.
 *   [paradime/Tilevania](https://github.com/paradime/Tilevania) - Unity metroidvania
 *   [ivanrgoliveira/Unity-CameraController](https://github.com/ivanrgoliveira/Unity-CameraController) - Unity Camera that can be used in RTS games.
 *   [TUTOUNITYFR/creer-un-fps-multijoueur-mirror-unity](https://github.com/TUTOUNITYFR/creer-un-fps-multijoueur-mirror-unity) - Projet de la série "Créer un FPS en MULTIJOUEUR avec Mirror sur Unity" de zef (TUTOUNITYFR)
@@ -4043,7 +4042,7 @@
 *   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 *   [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 *   [hussien89aa/PythonTutorial](https://github.com/hussien89aa/PythonTutorial) - Step by step to build apps with Python. Code files for YouTube tutorial
-*   [dmerejkowsky/python-cli-ui](https://github.com/dmerejkowsky/python-cli-ui) - Tools for better command line interfaces
+*   [your-tools/python-cli-ui](https://github.com/your-tools/python-cli-ui) - Tools for better command line interfaces
 *   [tryexceptpass/sofi](https://github.com/tryexceptpass/sofi) - an OS agnostic UI module for Python
 *   [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 *   [WoLpH/numpy-stl](https://github.com/WoLpH/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -5429,6 +5428,7 @@
 *   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 *   [googlesamples/google-signin-unity](https://github.com/googlesamples/google-signin-unity) - Google Sign-In API plugin for Unity game engine.  Works with Android and iOS.
 *   [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 *   [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 *   [Hethger/UE4\_MotionMatching-](https://github.com/Hethger/UE4\_MotionMatching-) - Early Implementation of Motion Matching tech
 *   [laurence-trippen/Q_rsqrt_Unity](https://github.com/laurence-trippen/Q_rsqrt_Unity) - Quake III Arena: Fast Inverse Square Root in Unity
