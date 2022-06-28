@@ -4967,7 +4967,7 @@
 *   [rezzza/RulerBundle](https://github.com/rezzza/RulerBundle) - A simple stateless production rules engine for Symfony 2
 *   [nicoSWD/php-rule-parser](https://github.com/nicoSWD/php-rule-parser) - PHP Rule Engine - Parses & Evaluates JavaScript-like expressions
 *   [uuf6429/rune](https://github.com/uuf6429/rune) - PHP Rule Engine
-*   [bobthecow/Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine for PHP 5.3+
+*   [bobthecow/Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine for modern PHP
 *   [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 *   [AnthonyPorthouse/DiceBag](https://github.com/AnthonyPorthouse/DiceBag) - Create Dice roll results from standard dice notation
 *   [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
