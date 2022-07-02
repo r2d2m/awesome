@@ -4,20 +4,20 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [C#](#c)
-*   [GDScript](#gdscript)
-*   [generic](#generic)
-*   [TypeScript](#typescript)
+*   [PHP](#php)
+*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [generic](#generic)
+*   [GDScript](#gdscript)
+*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Objective-C++](#objective-c)
 *   [ShaderLab](#shaderlab)
 *   [C](#c-1)
-*   [Python](#python)
 *   [Ruby](#ruby)
-*   [PHP](#php)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [C++](#c-2)
 *   [CMake](#cmake)
 *   [TeX](#tex)
@@ -70,8 +70,33 @@
 *   [Processing](#processing)
 *   [Smalltalk](#smalltalk)
 
+## Shell
+
+*   [mopsicus/unity-build-pipeline](https://github.com/mopsicus/unity-build-pipeline) - Custom BASH script for build, archive, export and upload APK and IPA to server with Telegram notification
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
+*   [0xf4b1/hearthstone-linux](https://github.com/0xf4b1/hearthstone-linux) - Craft your own linux native Hearthstone client
+*   [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
+*   [crealitycloud/Creality-Cloud-RaspberryPi3](https://github.com/crealitycloud/Creality-Cloud-RaspberryPi3) - Creality Cloud is a platform for 3D printing creation and an ever-growing community for everyone.
+*   [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
+*   [gidoBOSSftw5731/notion-auto-pull](https://github.com/gidoBOSSftw5731/notion-auto-pull) - Bash script to automatically download a notion workspace
+*   [jgreenlee24/campaign-workspace](https://github.com/jgreenlee24/campaign-workspace) - Eberron Campaign Workspace
+*   [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
+*   [stackpl/portable](https://github.com/stackpl/portable) - Portable improvements for Git + Node + VS Code
+*   [neogeek/unity-ci-tools](https://github.com/neogeek/unity-ci-tools) - 🔧 Bash scripts for running Unity tests on continuous integration services
+*   [daemondevin/GitHubDesktopPortable](https://github.com/daemondevin/GitHubDesktopPortable) - A portable build of GitHub Desktop packaged in compliance with the PortableApps.com format specifications.
+*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+*   [robertluwang/portabledevops](https://github.com/robertluwang/portabledevops) - A portable devops tool set on windows, easy customization of cmder/console+msys2/cygwin/wsl
+*   [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
+*   [eamonwoortman/docker-unity3d](https://github.com/eamonwoortman/docker-unity3d) - An Unity3D editor image which can be used for continuous integration purposes
+*   [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+*   [Zonama/ZonamaDev](https://github.com/Zonama/ZonamaDev) - Development Environment for SWGEMU
+
 ## C#
 
+*   [sinbad/UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
+*   [forcewake/FlatFile](https://github.com/forcewake/FlatFile) - FlatFile is a library to work with flat files
+*   [jehugaleahsa/FlatFiles](https://github.com/jehugaleahsa/FlatFiles) - Reads and writes CSV, fixed-length and other flat file formats with a focus on schema definition, configuration and speed.
 *   [ajwadimran7/Unity-Command-Line-Tool](https://github.com/ajwadimran7/Unity-Command-Line-Tool) - A project demonstrating how you can use to make a command line tool with Unity and have it run in the background.
 *   [ShockwaveX1/Boomtown](https://github.com/ShockwaveX1/Boomtown) - A boomer shooter made in Unity.
 *   [Yamz64/BoomerShooter](https://github.com/Yamz64/BoomerShooter) - Classic Boomer shooter created in the Unity Engine
@@ -3794,467 +3819,384 @@
 *   [obviousjim/Programming3dWorlds](https://github.com/obviousjim/Programming3dWorlds) - Course Material for Programming 3D Worlds, Unity3d for Creative Coding ITP Spring 2012
 *   [paynechu/jsonfx-for-unity3d](https://github.com/paynechu/jsonfx-for-unity3d) - fork from bitbucket's jsonfx-for-unity3d
 *   [GameResearchAtMcGill/unitytool](https://github.com/GameResearchAtMcGill/unitytool) - Unity Stealth Tool
+*   [ChrisCalef/FreeWorldKit](https://github.com/ChrisCalef/FreeWorldKit) - An open source first person online game starter kit utilizing Unity3D, SmartFox, RAIN AI, UnitySteer, and our own FlightGear World Server terrain project.
+*   [ricardojmendez/UnitySteerExamples](https://github.com/ricardojmendez/UnitySteerExamples) - Project with usage examples for UnitySteer.  This project contains *only* the examples, and has the actual UnitySteer repository as a submodule.
+*   [ricardojmendez/UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
+*   [adevine1618/KinectSDK-Unity3D_Interface_Plugin](https://github.com/adevine1618/KinectSDK-Unity3D_Interface_Plugin) - This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine. This is a workaround for the problem of Mono not supporting .NET 4.
+*   [mgants4/SharpUnit](https://github.com/mgants4/SharpUnit) - Unit testing framework for Unity3D in C#
+*   [imkira/unity-sysfont](https://github.com/imkira/unity-sysfont) - unity-sysfont is a Unity3D plugin for rendering dynamic text using the fonts available on the mobile device/computer.
 
-## GDScript
+## PHP
 
-*   [Ghaiyur/Untitled-fps](https://github.com/Ghaiyur/Untitled-fps) - A godot based Boomer Shooter
-*   [hohfchns/GodotCRTTerminal](https://github.com/hohfchns/GodotCRTTerminal) - A simple CRT terminal in Godot with basic input/output functionality
-*   [lihop/godot-xterm](https://github.com/lihop/godot-xterm) - Terminal emulator for the Godot game engine.
-*   [Grinshpon/Terminal-Godot](https://github.com/Grinshpon/Terminal-Godot) - Trying to design a retro-style computer that runs in-game
-*   [kagenash1/godot-behavior-tree](https://github.com/kagenash1/godot-behavior-tree) - A GDScript implementation of a behavior tree for AI, built through Godot nodes.
-*   [jegor377/ProceduralWalk](https://github.com/jegor377/ProceduralWalk) - Procedural walk animation system for humanoid in Godot Engine.
-*   [ollelogdahl/DungeonGenerator](https://github.com/ollelogdahl/DungeonGenerator) - A procedural dungeon generator implemented in Godot Engine
-*   [Hoimar/Planet-Generator](https://github.com/Hoimar/Planet-Generator) - A procedural planet generator addon for Godot with terrain LOD.
-*   [wojtekpil/Godot-Biomes](https://github.com/wojtekpil/Godot-Biomes) - Procedural biomes generator for Godot Engine.
-*   [Reneator/godot-skill-tree](https://github.com/Reneator/godot-skill-tree) - This is just quickly made skill-tree in godot using tool-scripts. It refreshes the connections as you make changes to the nodes in the skill-tree
-*   [willnationsdev/godot-skills](https://github.com/willnationsdev/godot-skills) - A generic, compositional skill system for Godot Engine that uses scenes to design abilities and their effects.
-*   [trolog/GodotStateMachineRoamAI](https://github.com/trolog/GodotStateMachineRoamAI) - Introduction how to do a simple statemachine with working example roaming AI
-*   [spkingr/Godot-Pluggable-AI](https://github.com/spkingr/Godot-Pluggable-AI) - Try Pluggable AI With Scriptable Objects in Godot
-*   [trolog/GodotAiPredictsPlayerPosition](https://github.com/trolog/GodotAiPredictsPlayerPosition) - youtube tutorial files for Ai that predicts player position and shoots there
-*   [SnoringCatGames/surfacer](https://github.com/SnoringCatGames/surfacer) - AI and pathfinding for 2D-platformers in Godot.
-*   [RiseRobotRise/JoyeuseCodeBase](https://github.com/RiseRobotRise/JoyeuseCodeBase) - FPS Framework for Godot. Provides nodes for AI, Navigation and interactions with areas and Workstations. (Code Base)
-*   [chrisphyffer/godot-kinematic-ai-mechanics](https://github.com/chrisphyffer/godot-kinematic-ai-mechanics) - Character Driven Gameplay with Godot | Includes AI, Root Motion, Navmesh study and more
-*   [SradnickDev/FullMetalAI](https://github.com/SradnickDev/FullMetalAI) - 3D Twin Stick Shooter made with Godot
-*   [godot-addons/godot-behavior-tree-plugin](https://github.com/godot-addons/godot-behavior-tree-plugin) - Behavior Tree implementation for the Godot Engine as an addon in pure GDScript
-*   [fenix-hub/godot-engine.easy-charts](https://github.com/fenix-hub/godot-engine.easy-charts) - A Godot Engine addon for plotting general purpose charts. A collection of Control, 2D and 3D Nodes to plot every chart possible.
-*   [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
-*   [kyzfrintin/Godot-Mixing-Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - A complete audio solution for Godot 3.3.x, making procedural sound and adaptive/procedural music possible with a few nodes and a couple lines of code.
-*   [awkwardpolygons/cartographer](https://github.com/awkwardpolygons/cartographer) - A GPU powered Terrain editor and renderer for Godot Engine
-*   [GDQuest/godot-visual-effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
-*   [loudsmilestudios/TetraForce](https://github.com/loudsmilestudios/TetraForce) - GBC Zelda-inspired game with online multiplayer. Built with Godot Engine
-*   [Arnklit/Waterways](https://github.com/Arnklit/Waterways) - A tool to generate river meshes with flow and foam maps based on bezier curves.
-*   [samuelbigos/cards_n_castles](https://github.com/samuelbigos/cards_n_castles) - Medieval strategy autobattling deckbuilder. My First Game Jam: Summer 2020.
-*   [iatenine/GodotCardManager](https://github.com/iatenine/GodotCardManager) - Script designed to ease the creation and implementation of traditional card games in Godot Game Engine
-*   [nodeg0/godot_card_tools](https://github.com/nodeg0/godot_card_tools) - Framework for making card-games in Godot
-*   [alfredbaudisch/Godello](https://github.com/alfredbaudisch/Godello) - Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)
-*   [quentincaffeino/godot-console](https://github.com/quentincaffeino/godot-console) - In-game console for Godot 3.
-*   [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
-*   [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - Quake .map support for Godot
-*   [vnen/godot-tiled-importer](https://github.com/vnen/godot-tiled-importer) - Plugin for Godot Engine to import Tiled Map Editor tilemaps and tilesets
-*   [GDQuest/godot-open-rpg](https://github.com/GDQuest/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
-*   [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine
-*   [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
-*   [impmja/godot-easing](https://github.com/impmja/godot-easing) - This is a Godot Script (GDScript) (http://www.godotengine.org/) port of the Robert Penner's equations for easing. You can find much more information about it on http://robertpenner.com/easing/.
-*   [imjp94/UIDesignTool](https://github.com/imjp94/UIDesignTool) - Intuitive UI design workflow in Godot
-*   [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot 3.2
-*   [HungryProton/scatter](https://github.com/HungryProton/scatter) - Godot engine addon to randomly fill an area with props or other scenes
-*   [DrMoriarty/nativelib](https://github.com/DrMoriarty/nativelib) - NativeLib is a plugin management system for Godot engine.
-*   [jegor377/godot-gdgifexporter](https://github.com/jegor377/godot-gdgifexporter) - Gif exporter for Godot made entirely in GDScript
-*   [hiulit/Delaunator-GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript port of Delaunator: A fast library for Delaunay triangulation of 2D points.
-*   [HeavenMercy/TileSet-Builder-Godot-Plugin](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - A Godot plugin that builds a \*.tscn or \*.tres tileset.
-*   [jotson/ridiculous_coding](https://github.com/jotson/ridiculous_coding) - Ridiculous addon for Godot Engine that adds screenshake and explosions to your coding experience
-*   [TeddyDD/gterm](https://github.com/TeddyDD/gterm) - Terminal emulator control for Godot engine
-*   [henriquelalves/GodotTIE](https://github.com/henriquelalves/GodotTIE) - A simple Text Interface Engine to control text output (like in a RPG dialogue) for Godot.
-*   [alfredbaudisch/GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - GDScript and Godot client for real-time Phoenix Framework Channels
-*   [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework
-*   [godot-escoria/escoria-demo-game](https://github.com/godot-escoria/escoria-demo-game) - Game example for the point'n'click adventure framework Escoria
-*   [ceceppa/anima](https://github.com/ceceppa/anima) - Godot: run sequential and parallel animations with less code
-*   [Whimfoome/godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter) - FPS (First Person Shooter) controller template for Godot 3.5 to give starter content for a new or already existing project!
-*   [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena
-*   [JulianWels/portal2d](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine
-*   [deflinhec/GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet) - Godot plugin written in GDScript which downloads Google spreadsheet.
-*   [db0/godot-card-game-framework](https://github.com/db0/godot-card-game-framework) - A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.
-*   [GDQuest/godot-demos](https://github.com/GDQuest/godot-demos) - Dozens of free and open source demos for the Godot game engine
-*   [guy-does-things/binding-of-isaac-bullets](https://github.com/guy-does-things/binding-of-isaac-bullets) - a system to create bullets and add special effects to them, similar to games such as The Binding of isaac and Enter the gungeon
-*   [erlend-sh/good-south](https://github.com/erlend-sh/good-south) - Good South is a spiritual successor/remix of Bad North, a minimalist Real-Time Strategy game.
-*   [BraindeadBZH/godot_card_engine](https://github.com/BraindeadBZH/godot_card_engine) - A plugin for Godot to create card based games
-*   [lonegamedev/godot_botw_grass](https://github.com/lonegamedev/godot_botw_grass) - Project files for video tutorial.
-*   [kakoeimon/GodotMation](https://github.com/kakoeimon/GodotMation) - An implementation of machinations framework in Godot Engine
+*   [ParvulaCMS/parvula](https://github.com/ParvulaCMS/parvula) - A simple & flexible CMS generated from flat files with a complete RESTful API
+*   [mecha-cms/mecha](https://github.com/mecha-cms/mecha) - Minimalist content management system.
+*   [getherbie/herbie](https://github.com/getherbie/herbie) - :red_car: Flat-File CMS- und Blog based on human readable text files
+*   [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
+*   [csu/singularity-cms](https://github.com/csu/singularity-cms) - A simple, flat file, markdown CMS in a single PHP file.
+*   [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
+*   [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+*   [robiso/wondercms](https://github.com/robiso/wondercms) - WonderCMS - fast and small flat file CMS (5 files)
+*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+*   [xmlsquad/gsheet-to-xml](https://github.com/xmlsquad/gsheet-to-xml) - Given the url of a Google Sheet, this Symfony Console command fetches the Google Sheet and outputs it in the form of Xml.
+*   [unity-framework/Config](https://github.com/unity-framework/Config) - Extensible configuration manager for PHP projects that uses dot notation and supports json, ini, array based and many more common formats
+*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+*   [willgittens/googleSheetsToXML](https://github.com/willgittens/googleSheetsToXML) - The easiest way to transform the tabs of your Google spreadsheet into an XML file.
+*   [g0tie/SoftwareLicenceManager](https://github.com/g0tie/SoftwareLicenceManager) - An API to give and verify license for softwares
+*   [wmcarlosv/licence-manager](https://github.com/wmcarlosv/licence-manager) - licence-manager
+*   [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
+*   [alrik11es/muninn](https://github.com/alrik11es/muninn) - Create agents in PHP that monitor and act on your behalf. A Laravel based Huginn port.
+*   [paragonie/seedspring](https://github.com/paragonie/seedspring) - Seeded, Deterministic PRNG (based on AES-CTR instead of LCG)
+*   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
+*   [rezzza/RulerBundle](https://github.com/rezzza/RulerBundle) - A simple stateless production rules engine for Symfony 2
+*   [nicoSWD/php-rule-parser](https://github.com/nicoSWD/php-rule-parser) - PHP Rule Engine - Parses & Evaluates JavaScript-like expressions
+*   [uuf6429/rune](https://github.com/uuf6429/rune) - PHP Rule Engine
+*   [bobthecow/Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine for modern PHP
+*   [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
+*   [AnthonyPorthouse/DiceBag](https://github.com/AnthonyPorthouse/DiceBag) - Create Dice roll results from standard dice notation
+*   [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
+*   [lsgs/redcap-autoschedule](https://github.com/lsgs/redcap-autoschedule) - REDCap External Module for automated generation of record event schedules.
+*   [finanalyst/grav-plugin-persistent-data](https://github.com/finanalyst/grav-plugin-persistent-data) - Store responses from a GRAV form by a registered user that can be used across the whole of the site.
+*   [Perlkonig/grav-plugin-backlinks](https://github.com/Perlkonig/grav-plugin-backlinks) - Keeps a list of internal links (pages that link to other pages)
+*   [asvae/laravel-api-tester](https://github.com/asvae/laravel-api-tester) - Test your routes without hassle
+*   [mnapoli/FrontYAML](https://github.com/mnapoli/FrontYAML) - YAML Front matter parser
+*   [naucon/grav-auto-author](https://github.com/naucon/grav-auto-author) - The Auto Author Plugin is for Grav CMS. Automatically adds an author to frontmatter when creating a new page via Grav Admin plugin.
+*   [th0liveira/GanttChartPHP](https://github.com/th0liveira/GanttChartPHP) - Library to generate Gantt Chart with PHP.
+*   [bastianallgeier/gantti](https://github.com/bastianallgeier/gantti) - A simple PHP Gantt Class
+*   [cdaguerre/php-trello-api](https://github.com/cdaguerre/php-trello-api) - A simple Object Oriented wrapper for the Trello API, written in PHP5.
+*   [neervfx/server](https://github.com/neervfx/server) - PHP server for saving and loading unity game data on your server
+*   [starcon2/unity-php-server-sync](https://github.com/starcon2/unity-php-server-sync) - Using php and mysql combo as a unity server(Positions, usernames, etc)
+*   [getgrav/grav-plugin-shortcode-assets](https://github.com/getgrav/grav-plugin-shortcode-assets) -
+*   [sal0max/grav-plugin-shortcode-chart-js-plusplus](https://github.com/sal0max/grav-plugin-shortcode-chart-js-plusplus) - A shortcodes extension to add Chart.js charts to your Grav website
+*   [OleVik/grav-plugin-timeline](https://github.com/OleVik/grav-plugin-timeline) - Create and manage timelines in an ordered, hierarchical manner.
+*   [zanderwar/silverstripe-wowhead](https://github.com/zanderwar/silverstripe-wowhead) - Wowhead Item, Quest, Spell & Achievement Tooltips
+*   [JonasSchlatter/auto-tooltip](https://github.com/JonasSchlatter/auto-tooltip) - Text within "\<strong>\[" "]\</strong>" is automatically extended with a tooltip from a PHP-dictionary.
+*   [apmuthu/frontaccounting](https://github.com/apmuthu/frontaccounting) - Front Accounting - a web based ERP
+*   [wp-erp/wp-erp](https://github.com/wp-erp/wp-erp) - An open-source ERP (Enterprise Resource Planning) solution for WordPress
+*   [fakharkhan/laravel-school-erp](https://github.com/fakharkhan/laravel-school-erp) - The all-in-one software to manage schools and colleges. Lets start a clone of world's best ERP system fedena using laravel
+*   [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap 4. Easy and powerful.
+*   [Edujugon/laradoo](https://github.com/Edujugon/laradoo) - Odoo ERP API for Laravel
+*   [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
+*   [ecombee28/Card-Dealing-API](https://github.com/ecombee28/Card-Dealing-API) - A Rest API that will deal, shuffle, discard, and reorder a deck of cards
+*   [rvbz/laravel-google-calendar](https://github.com/rvbz/laravel-google-calendar) - Laravel wrapper for Google Calendar API that utilizes the Google Client API. Works seamlessly with FullCalendar.
+*   [luckyshot/miki](https://github.com/luckyshot/miki) - Wiki system in PHP+NoDB in just one file. 10s setup + auto-installed. Full Markdown support. Super fast and lightweight (-0.01MB gzip). Multi-User support. Minimal and beautiful.
+*   [luckyshot/picowiki](https://github.com/luckyshot/picowiki) - PicoWiki is a super tiny and simple file-based Wiki system where you can take notes, documentation, use as a blog, knowledge center or more
+*   [dsentker/phpinsights](https://github.com/dsentker/phpinsights) - A versatile PHP Library for Google PageSpeed Insights
+*   [patrikf/glip](https://github.com/patrikf/glip) - git library in PHP
+*   [remko/wigit](https://github.com/remko/wigit) - Simple & light Git-based wiki
+*   [laurentj/gitiwiki](https://github.com/laurentj/gitiwiki) - a wiki using git as backend
+*   [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
+*   [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+*   [gitiki/Gitiki](https://github.com/gitiki/Gitiki) - Gitiki is a PHP wiki engine from markdown files and a Git repository (or not)
+*   [canvasowl/ribbbon](https://github.com/canvasowl/ribbbon) - A project management system for artisans.
+*   [AmousQiu/UnityAssetsAPI](https://github.com/AmousQiu/UnityAssetsAPI) - A Restful API in PHP to facilitate uploading, downloading and browsing of various game related assets.
+*   [andrewgioia/Canopy](https://github.com/andrewgioia/Canopy) - Home electricity usage analysis
+*   [sebcode/b](https://github.com/sebcode/b) - Minimalistic bookmark manager for your own server written in PHP. Bookmarks are stored in a sqlite database.
+*   [nrollr/Bookmarklet](https://github.com/nrollr/Bookmarklet) - Bookmark URL's to a MySQL database instead of your browser
+*   [eras0r/bl2items-backend-php](https://github.com/eras0r/bl2items-backend-php) - borderlands 2 items database backend
+*   [MrJuliuss/lecter](https://github.com/MrJuliuss/lecter) - A flat file wiki package for Laravel 5
+*   [ryanwinchester/kwiki](https://github.com/ryanwinchester/kwiki) - markdown wiki/blog
+*   [Shadez/wowarmory](https://github.com/Shadez/wowarmory) - The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pulls its data from the actual game servers, it is the most comprehensive and up-to-date database on the characters, arena teams, guilds, and items of World of Warcraft in existence.
+*   [ychongsaytc/deepwiki](https://github.com/ychongsaytc/deepwiki) - A lightweight Markdown wiki system in PHP
+*   [eimg/design-patterns-php](https://github.com/eimg/design-patterns-php) - Most simplest design pattern implementation in PHP, including all 23 GoF patterns plus some other patterns
+*   [ehsangazar/design-patterns-php](https://github.com/ehsangazar/design-patterns-php) - All Design Patterns Samples in PHP
+*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+*   [Escobaj/HearthstoneResolver](https://github.com/Escobaj/HearthstoneResolver) -
+*   [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+*   [jeremykenedy/laravel-logger](https://github.com/jeremykenedy/laravel-logger) - An out the box activity logger for your Laravel or Lumen application. Laravel logger is an activity event logger for your laravel application. It comes out the box with ready to use with dashboard to view your activity. Laravel logger can be added as a middleware or called through a trait. This package is easily configurable and customizable. Supports Laravel 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, and 7+
+*   [kossa/laradminator](https://github.com/kossa/laradminator) - Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support
+*   [beyondcode/dusk-dashboard](https://github.com/beyondcode/dusk-dashboard) - A beautiful dashboard for your Laravel Dusk tests
+*   [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
+*   [edvinaskrucas/notification](https://github.com/edvinaskrucas/notification) - Notification package for Laravel
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+*   [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
+*   [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
+*   [grapefrukt/altpresskit](https://github.com/grapefrukt/altpresskit) - Open Source presskit() alternative
+*   [panicsteve/w2wiki](https://github.com/panicsteve/w2wiki) - A web-based, wiki-like notepad that you host yourself
+*   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
+*   [ZContent/icalendar](https://github.com/ZContent/icalendar) - Library for reading and writing iCalendar files in PHP
+*   [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+*   [gordielachance/pinterest-importer](https://github.com/gordielachance/pinterest-importer) - Backup all your pins from Pinterest into Wordpress !  Own your data !
+*   [Tustin/fortnite-php](https://github.com/Tustin/fortnite-php) - A PHP wrapper for the official Fortnite API
+*   [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra
+*   [gburtini/Probability-Distributions-for-PHP](https://github.com/gburtini/Probability-Distributions-for-PHP) - PHP implementation of statistical probability distributions: normal distribution, beta distribution, gamma distribution and more.
+*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
+*   [ringmaster/dicecalc](https://github.com/ringmaster/dicecalc) - A D\&D-style dice rolling library for PHP
+*   [conceptsandtraining/lib-ente](https://github.com/conceptsandtraining/lib-ente) - An entity component framework for PHP.
+*   [controlz/webParser](https://github.com/controlz/webParser) - Parse/Scrap webpages and convert HTML elements into JSON.
+*   [dweidner/laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel Facade for Goutte, a simple PHP Web Scraper
+*   [morshedalam/url-scraper-php](https://github.com/morshedalam/url-scraper-php) - A parser class to grab website contents and extract urls
+*   [stewang/hearthstone-deck-utility](https://github.com/stewang/hearthstone-deck-utility) - A simple web application to let you manage your Hearthstone decks and track statistics.
+*   [mlntn/hearthstone-deckcodes](https://github.com/mlntn/hearthstone-deckcodes) - Deck code encoder/decoder for Hearthstone
+*   [charlesmjenkins/hearthstone-deckbuilder](https://github.com/charlesmjenkins/hearthstone-deckbuilder) - An online card game deck builder web application
+*   [Fiskell/HearthClone](https://github.com/Fiskell/HearthClone) - PHP Laravel Server that mimics the server functionality of Hearthstone.
+*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+*   [rtransat/hearthstone-api](https://github.com/rtransat/hearthstone-api) - hearthstoneapi.com wrapper for Laravel 5
+*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+*   [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
+*   [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+*   [Ad5001/Gitable](https://github.com/Ad5001/Gitable) - Pocketmine Git client !
+*   [BitbucketPHP/Client](https://github.com/BitbucketPHP/Client) - Bitbucket API 2.0 client for PHP
+*   [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)
+*   [mmousawy/HumbleGraph](https://github.com/mmousawy/HumbleGraph) - HumbleGraph is a statistical tool for keeping track of Humble Bundle prices
+*   [misteriosojo/price-monitor](https://github.com/misteriosojo/price-monitor) - \[PHP] Track a price online.
+*   [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
+*   [flowdee/hearthstone-cards](https://github.com/flowdee/hearthstone-cards) - Hearthstone Cards for WordPress automatically adds an overlay to written card names and displays the associated image while hovering them.
+*   [Chovanec/elo-rating](https://github.com/Chovanec/elo-rating) - A PHP class which implements the Elo rating system
+*   [Schenn/Peas](https://github.com/Schenn/Peas) - An attempt at building a PHP based Entity Component System which ties into a mysql database
+*   [patlamontagne/hearthstone-card-generator](https://github.com/patlamontagne/hearthstone-card-generator) - Backup of an old canvas school project
+*   [PatrickRose/boardgamegeek-laravel](https://github.com/PatrickRose/boardgamegeek-laravel) - A wrapper for accessing the BGG api for laravel
+*   [rsahlstrom/shelf](https://github.com/rsahlstrom/shelf) - A PHP project that simplifies working with the BoardGameGeek API
+*   [peoii/SimpliGames](https://github.com/peoii/SimpliGames) - A self-hosted games library for tracking your collection.  Data pulled from BoardGameGeek
+*   [tijsverkoyen/CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.
+*   [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) - Converts CSS styles into inline style attributes in your HTML code.
+*   [codergogoi/Unity3DCustomLeaderBoard](https://github.com/codergogoi/Unity3DCustomLeaderBoard) - Custom Leaderboard in Unity3d Using PHP Mysql and C#
+*   [ramiismail/dopresskit](https://github.com/ramiismail/dopresskit) - presskit() - spend time making games, not press.
+*   [Codiad/Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
+*   [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 
-## generic
+## Python
 
-*   [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions) - A curated list of awesome actions to use on GitHub. With repository stars⭐ and forks🍴
-*   [alianrock/LittleStar](https://github.com/alianrock/LittleStar) - A Github star project management tool - Manage your GitHub stars convenient and efficient
-*   [tichise/ink-decal](https://github.com/tichise/ink-decal) - ink-decal is a library for projecting Splatoon-like ink using Unity's Decal function.
-*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
-*   [needle-tools/ar-simulation](https://github.com/needle-tools/ar-simulation) - AR Simulation for Unity • Right in the Editor • Minimally Invasive
-*   [proyecto26/awesome-unity](https://github.com/proyecto26/awesome-unity) - A curated list of awesome Unity games! 🎮
-*   [WC5E/Warcraft-5e-Conversion](https://github.com/WC5E/Warcraft-5e-Conversion) -
-*   [Correia-jpv/fucking-awesome-unity](https://github.com/Correia-jpv/fucking-awesome-unity) - A curated list of awesome Unity assets, resources, and more. With repository stars⭐ and forks🍴
-*   [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
-*   [sverdegd/NotepadToolUnity](https://github.com/sverdegd/NotepadToolUnity) - Take your notes without leaving Unity thanks to this plugin and increase your productivity and organization.
-*   [smoltools/smol-juice](https://github.com/smoltools/smol-juice) - Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
-*   [Envoy-VC/awesome-clones](https://github.com/Envoy-VC/awesome-clones) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tik-Tok, Spotify, WhatsApp, YouTube etc. See source code, demo links, tech stack, GitHub stars.
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [mircearoata/SatisfactoryAdvancedLogistics](https://github.com/mircearoata/SatisfactoryAdvancedLogistics) -
-*   [Avatarchik/looader](https://github.com/Avatarchik/looader) - Loading screen solution for Unity engine
-*   [RepahidiS/glassos](https://github.com/RepahidiS/glassos) - Simulated OS project for Unity engine.
-*   [thatsgerman/CRTShader_Unity3D](https://github.com/thatsgerman/CRTShader_Unity3D) -
-*   [bsimser/Railroad-Tycoon](https://github.com/bsimser/Railroad-Tycoon) - The original Railroad Tycoon game built in Unity 2D
-*   [HelloFangaming/HelloMarioAssets](https://github.com/HelloFangaming/HelloMarioAssets) - Collection of 3D models and animations for Unity that you can use to jump start your very own 3D Mario fangame!
-*   [erasmosoares/UnityDataManager](https://github.com/erasmosoares/UnityDataManager) - This project allows game developers to create and manager level atributes using xls files. Using a xls file can be a simple way to edit character attributes in addition to having a broad view of the attributes for each level of the game, besides making this edition in a separate file enable you to share the same file with other team members such as game design and level design.
-*   [askaplan/InitialUnityProject](https://github.com/askaplan/InitialUnityProject) -
-*   [marianomike/unity-prototype-photoapp](https://github.com/marianomike/unity-prototype-photoapp) - Instagram-like UI Prototype built in Unity.
-*   [Lontoone/MyUnity-tool-LevelFlowEditor](https://github.com/Lontoone/MyUnity-tool-LevelFlowEditor) -
-*   [Anthr0py/unity3d-crosshair](https://github.com/Anthr0py/unity3d-crosshair) - A simple crosshair with spread support based on Unity 4.6+ UI.
-*   [AhmedTremo/Left2Dead](https://github.com/AhmedTremo/Left2Dead) - A game that combines the best in The last of us and Left 4 dead using Unity.
-*   [videlais/learning-ink-unity](https://github.com/videlais/learning-ink-unity) - Learn to use Ink + Unity
-*   [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality) - A curated list of VR resources
-*   [QianMo/Unity-Shader-Resources-List](https://github.com/QianMo/Unity-Shader-Resources-List) - :clipboard: Unity Shader相关学习资源与链接珍藏 | A list of amazing resources for learning shader writing in Unity.
-*   [Ognian-GlimpseSoftware/SmartObjectsSystem](https://github.com/Ognian-GlimpseSoftware/SmartObjectsSystem) - Unity game object that can morph into any type of custom game object or prefab
-*   [haxflying/DestructionShader](https://github.com/haxflying/DestructionShader) - Unity Destruction made with geometry shader
-*   [floatinghotpot/socket.io-unity](https://github.com/floatinghotpot/socket.io-unity) - socket.io client for Unity, power game client with node.js back-end
-*   [unity5d/Minifort](https://github.com/unity5d/Minifort) - A unity 3d game.The topic is fort and zombie. The project is inspired by fortnite. But is going to different in many ways.
-*   [Renisys/UnityTutorials](https://github.com/Renisys/UnityTutorials) - This is a short tutorial of creating a model of volcanic eruption in unity, just using terrain, gravity, collision and particle system.
-*   [joshcamas/unity3d-runtime-debug-draw](https://github.com/joshcamas/unity3d-runtime-debug-draw) - single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
-*   [AdrianOrcik/Unity_UseCase_Tutorial](https://github.com/AdrianOrcik/Unity_UseCase_Tutorial) - :pencil: UseCase of Tutorial system with example sub systems
-*   [moare3788/cultist_simulator_french_translation](https://github.com/moare3788/cultist_simulator_french_translation) - Mod pour cultist simulator basé sur la traduction de Burton
-*   [SamsonStarmerLee/TF2\_Shaders](https://github.com/SamsonStarmerLee/TF2\_Shaders) -
-*   [daniellochner/creature-creator](https://github.com/daniellochner/creature-creator) - Procedurally generate creatures in Unity - inspired by Spore.
-*   [moiseev7/UnityVirtualKeyboard](https://github.com/moiseev7/UnityVirtualKeyboard) -
-*   [JudgeGroovyman/roslyn-unity](https://github.com/JudgeGroovyman/roslyn-unity) - An implemantation try of .NET Roslyn Compiler in Unity allowing easy C# runtime compilation, C# Hot-Loading, security analysis
-*   [RetroGamer74/HowToBuildWithUnityPS4FakePKG](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG) - How To Build FPKG with Unity PS4
-*   [PV255/Unity-Project-Template](https://github.com/PV255/Unity-Project-Template) - Empty template for project in Unity engine. Includes: structure of folders, .gitignore file, project settings for Unity and few readme files
-*   [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck
-*   [LuggLD/SmearFrame](https://github.com/LuggLD/SmearFrame) - Unreal Engine 4 smear frame material effect
-*   [mrarashiyan/Unity-ConstantGenerator](https://github.com/mrarashiyan/Unity-ConstantGenerator) - By this package, you can create or view global constants want to use in everywhere of your project by just one click!
-*   [kichul1122/UnityConstants](https://github.com/kichul1122/UnityConstants) - Generate code to replace Unity magic strings
-*   [RandomStroke/FreeFogOfWar](https://github.com/RandomStroke/FreeFogOfWar) - Fog of war post effect made for Unity. Doesn't use any advanced URP and HDR stuff. Just the most basic implementation.
-*   [heikun288/HighPerformanceDamageText-Unity3D](https://github.com/heikun288/HighPerformanceDamageText-Unity3D) - How to use High Performance Damage Text(Unity3D)
-*   [codemaker2015/unity3d-cheat-sheet](https://github.com/codemaker2015/unity3d-cheat-sheet) - Unity 3D Cheat Sheet with examples
-*   [ozankasikci/unity-cheat-sheet](https://github.com/ozankasikci/unity-cheat-sheet) - C# Cheat sheet for Unity
-*   [MrRobinftw/UnityParsers](https://github.com/MrRobinftw/UnityParsers) - A parsing system for Unity
-*   [Chillu1/CSharpECSComparison](https://github.com/Chillu1/CSharpECSComparison) - Comparison chart for C# ECS solutions/frameworks
-*   [killop/anything_about_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
-*   [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build
-*   [uta-org/PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Headless Chrome .NET API
-*   [r2d2m/quake3-movement-unity3d](https://github.com/r2d2m/quake3-movement-unity3d) - A port of the Quake III strafe jumping mechanics to Unity3D
-*   [MitchellSmithDev/UnityAerowalk](https://github.com/MitchellSmithDev/UnityAerowalk) - Aerowalk from Quake Live.
-*   [johnpancoast/AutoRPG](https://github.com/johnpancoast/AutoRPG) - AutoBattler RPG System
-*   [blockspacer/Godot-3.2-Multiplayer-FPS](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - A multiplayer example project for Godot 3.2
-*   [hiulit/Unofficial-Godot-Engine-Raspberry-Pi](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - Unofficial Godot Engine binaries for the Raspberry Pi.
-*   [someone-s/Physics-Wrapper-for-Unity-ECS](https://github.com/someone-s/Physics-Wrapper-for-Unity-ECS) -
-*   [taylor-misch/animation-playground](https://github.com/taylor-misch/animation-playground) - A unity project playground for animating and rigging all my 2D character Sprites
-*   [swordmaster003/AssetBundle-Framework](https://github.com/swordmaster003/AssetBundle-Framework) - AssetBundle Framework ia a complete solution for network game to manage assets.
-*   [fuyutaa/recoverUnitySkillsFast](https://github.com/fuyutaa/recoverUnitySkillsFast) - In case you stopped Unity, that you lost your competences and want to get back in the game really fast
-*   [UnitySuperEditor/SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) -  Super Editor project is an enhancement plan to make Unity, the world's most popular game engine, versatile and streamlined.
-*   [yumehiko/FxFPixelFont](https://github.com/yumehiko/FxFPixelFont) - 5x5 Pixel Font For Unity
-*   [polyjitter/sgg-hades-twitch](https://github.com/polyjitter/sgg-hades-twitch) - A Twitch integration mod for the game Hades by Supergiant Games.
-*   [AlexTheOutsider/SunsetOverdriveDemo](https://github.com/AlexTheOutsider/SunsetOverdriveDemo) -
-*   [FaizanMughal/Hello_Hell](https://github.com/FaizanMughal/Hello_Hell) - Unity FPS game created at GameJam. Inspired by Doom, Quake, Unreal.
-*   [Corysia/Unity-Oculus-Example](https://github.com/Corysia/Unity-Oculus-Example) - An example of how to use Oculus Integration in VR
-*   [BSData/gallery](https://github.com/BSData/gallery) - Gallery to browse all BattleScribe data sources (repositories), track and index them automatically.
-*   [BSData/warhammer-armies-project](https://github.com/BSData/warhammer-armies-project) - Warhammer Armies Project
-*   [BSData/wh40k-killteam](https://github.com/BSData/wh40k-killteam) - Warhammer 40,000: Kill Team
-*   [BSData/wh40k-heralds-of-ruin](https://github.com/BSData/wh40k-heralds-of-ruin) - Warhammer 40,000: Heralds of Ruin 8th Edition
-*   [BSData/wh40k](https://github.com/BSData/wh40k) - Warhammer 40,000
-*   [BSData/battlefleetgothic](https://github.com/BSData/battlefleetgothic) - Battlefleet Gothic
-*   [HeauxrusHeresy/BattleScribe](https://github.com/HeauxrusHeresy/BattleScribe) - Custom BattleScribe Files for Horus Heresy
-*   [svknoe/WH40k-Point-Efficiency-Calculator](https://github.com/svknoe/WH40k-Point-Efficiency-Calculator) - Excel sheet for computing expected damage and point efficiency in Warhammer 40k 9th edition
-*   [Pogomurphisk/hearthstone-prob](https://github.com/Pogomurphisk/hearthstone-prob) -
-*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) -
-*   [mythril-forge/vanilla-spells](https://github.com/mythril-forge/vanilla-spells) - A repository of every spell from D\&D 5e. Includes official, semi-official, and almost-official content. Stored in markdown.
-*   [mythril-forge/homebrew-spells](https://github.com/mythril-forge/homebrew-spells) - :sparkles: A repository of all the spells from D\&D that could possibly be tweaked and twanged. Stored in markdown.
-*   [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
-*   [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
-*   [Nolram12345/DevTextureLib](https://github.com/Nolram12345/DevTextureLib) - A small library of various CC0 textures and surface imperfections, mainly as placeholder for graphics development.
-*   [ArturoNereu/GameDevDiagrams](https://github.com/ArturoNereu/GameDevDiagrams) - A Unity project to explain the Stack, the Heap, GC and Allocation.
-*   [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
-*   [NajiElKotob/Awesome-ProjectManagement](https://github.com/NajiElKotob/Awesome-ProjectManagement) - Project Management Resources and References
-*   [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
-*   [starikcetin/awesome-upm](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM). Feel free to add yours in!
-*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-*   [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
-*   [Half-Legend/DoorControllers](https://github.com/Half-Legend/DoorControllers) - This is a Human Fall Flat package meant to be used by Level Designer. This provides you with a few prefabs of simple and double  logical doors.
-*   [SlugGlove/Free-Running-Controller](https://github.com/SlugGlove/Free-Running-Controller) - A unity controller script for a free running parkour controller, similar to those found in mirrors edge or apex legends
-*   [RohitKotiveetil/UnrealEngine--TedioreReloadSystems](https://github.com/RohitKotiveetil/UnrealEngine--TedioreReloadSystems) - Recreation of the Tediore Reload Systems from Borderlands in Unreal Engine 4.
-*   [RohitKotiveetil/UnrealEngine--SecondWind](https://github.com/RohitKotiveetil/UnrealEngine--SecondWind) - Recreation of the Second Wind system from Borderlands 2
-*   [Jesse-ww/UnityActiveRagdolls](https://github.com/Jesse-ww/UnityActiveRagdolls) - This is an Active Ragdoll asset made in Unity version 2017.3
-*   [m-grainger/Factory_Game](https://github.com/m-grainger/Factory_Game) - My first project in Unity- a Box moving game where you grab boxes from a conveyor belt, and try to make them the correct type before hitting the end of the production line!
-*   [kameronbrooks/ccl-spec](https://github.com/kameronbrooks/ccl-spec) - The CCL (Contextual C-like Language) Specification
-*   [StefanoCecere/awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) - a list of curated opensource Unity packages for future proof Game Developers
-*   [chromealex/Morpeh](https://github.com/chromealex/Morpeh) - Fast and Simple ECS Framework for Unity3d
-*   [raywenderlich/c-sharp-style-guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials
-*   [pjc0247/UnityHack](https://github.com/pjc0247/UnityHack) - A secret recipe to extend Unity Editor.
-*   [mistertaftcreates/Unity-Zelda-Like](https://github.com/mistertaftcreates/Unity-Zelda-Like) - The repository for my zelda tutorial
-*   [Avatarchik/left4dots](https://github.com/Avatarchik/left4dots) - A lo-fi interpretation of Left 4 Dead and its AI systems using Unity and the DOTS (Data Oriented Tech Stack) architecture \[ECS]
-*   [mems/calepin](https://github.com/mems/calepin) - My handnotes, snippets and a curated awsome lists of a french frontend webdeveloper
-*   [nenuadrian/qr-code-unity-3d-read-generate](https://github.com/nenuadrian/qr-code-unity-3d-read-generate) - Generating a QR code / Scanning a QR code in Unity 3D. Pre-build DLL and sample code from old Unity
-*   [D3fau4/Helltaker-switch](https://github.com/D3fau4/Helltaker-switch) - Helltaker is a short game about sharply dressed demon girls for Nintendo Switch.
-*   [chromealex/ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
-*   [Flygonial/The-Gryphon-Foam-Dart-Blaster](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster) -
-*   [Orabig/cainsarchive](https://github.com/Orabig/cainsarchive) - Diablo 3 Model Viewer
-*   [javidshaikhf/30Days30Shaders](https://github.com/javidshaikhf/30Days30Shaders) -
-*   [mythril-forge/homebrew-classes](https://github.com/mythril-forge/homebrew-classes) - ✨ A repository of all the classes from D\&D. Proportions modified to taste. Stored in markdown.
-*   [cross-js/cross-js](https://github.com/cross-js/cross-js) - Javascript guidelines for writing code in any context
-*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-*   [ndreckshage/CSSVacuum](https://github.com/ndreckshage/CSSVacuum) - optimize your critical rendering path
-*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-*   [AlarmClockCrusher/HearthstoneSim_Abandoned](https://github.com/AlarmClockCrusher/HearthstoneSim_Abandoned) - Simulation of Hearthstone game using python (Up to date Apr 1st 2020)
-*   [keijiro/ProcCharVfx](https://github.com/keijiro/ProcCharVfx) - Procedural character generation with Unity Shader Graph and VFX Graph
-*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-*   [Luzifix/ulaunch-hearthstone](https://github.com/Luzifix/ulaunch-hearthstone) - A hearthstone theme for switch ulaunch launcher
-*   [RichConGames/CCGFramework](https://github.com/RichConGames/CCGFramework) - A collectible card game development framework, targeting the .NET standard and Unity in C#.
-*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
-*   [HearthSim/hs-bugs](https://github.com/HearthSim/hs-bugs) - Unofficial Hearthstone issue tracker
-*   [sketchfab/unity-plugin](https://github.com/sketchfab/unity-plugin) -
-*   [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity) - A curated list of awesome Unity assets, resources, and more.
-*   [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
-*   [unicodeveloper/awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) - :book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)
-*   [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
-*   [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
-*   [ligurio/software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-*   [Voblet/bookmarking-for-github](https://github.com/Voblet/bookmarking-for-github) - Save and Organize your favorite github repositories.
-*   [sentobi/ARPGE-Unity](https://github.com/sentobi/ARPGE-Unity) - A framework-in-progress for making Action-RPG (ARPG), or "Diablo clones", on Unity.
-*   [bryangalani/Unity_TetrisInventory](https://github.com/bryangalani/Unity_TetrisInventory) - Unity Inventory Tetris System in C# as Resident Evil 4 and Diablo 2
-*   [Dartteon/UnityHealthBar](https://github.com/Dartteon/UnityHealthBar) - This is a starter kit for a health bar system in Unity.
-*   [Follett12/IndependentLegMovementUnity](https://github.com/Follett12/IndependentLegMovementUnity) - A test to do independent leg movement to player movement. Uses camera position and player locomotion to determine upper and lower body angles of movement. Primarily in Player.cs. Other game elements are in the project.
-*   [Mr-Eee/UnityThirdPersonCameraMovement](https://github.com/Mr-Eee/UnityThirdPersonCameraMovement) - Third Person Movement Mecanim Animations
-*   [OmarBest7/unity-demo-fps](https://github.com/OmarBest7/unity-demo-fps) - A simple FPS sample including enemies, creation and recycle of bullets, ammo and health components and scene switch.
-*   [PortreeMathsTutor/Useful-Easy-Weapon-Scripts](https://github.com/PortreeMathsTutor/Useful-Easy-Weapon-Scripts) - Some timers and scoring scripts to go with the Easy Weapons asset on Unity 3D.
-*   [AkhilMenon007/Fractals-With-ECS](https://github.com/AkhilMenon007/Fractals-With-ECS) - Creating a fractal in unity to show difference between ECS and gameobjects
-*   [MoMe36/BotWGuardian](https://github.com/MoMe36/BotWGuardian) - A repo holding my Unity package for the BotW inspired Guardian
-*   [kgazcurra/EventManagerWiki](https://github.com/kgazcurra/EventManagerWiki) -
-*   [kgazcurra/ProLibraryWiki](https://github.com/kgazcurra/ProLibraryWiki) - A wiki for the Unity Asset "ProLibrary"
-*   [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
-*   [Unity3D-Projects/Spotify4Unity](https://github.com/Unity3D-Projects/Spotify4Unity) - 🎵 Set of UI tools and scripts for integrating Spotify into your Unity game/app!
-*   [mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps](https://github.com/mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps) - A quick tutorial for using CartoDB and Odyssey.js for creating story maps for free!
-*   [BayatGames/SaveGamePro](https://github.com/BayatGames/SaveGamePro) - A Complete and Powerful Save Game Solution for Unity (Game Engine)
-*   [netpyoung/awesome-unity-free](https://github.com/netpyoung/awesome-unity-free) - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
-*   [OwlManAtt/eberron-intro-scenario](https://github.com/OwlManAtt/eberron-intro-scenario) -
-*   [calben/UE4MainMenu3D](https://github.com/calben/UE4MainMenu3D) - A template for a main menu featuring a character, as seen in games like PAYDAY 2 and Borderlands 2.
-*   [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn't Read
-*   [InfiniteAmmoInc/Yarn](https://github.com/InfiniteAmmoInc/Yarn) -
-*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-*   [keijiro/Smrvfx](https://github.com/keijiro/Smrvfx) - Skinned mesh sampling with VFX Graph
-*   [BrisJS/meetups](https://github.com/BrisJS/meetups) -
-*   [victorwestmann/Heraldry](https://github.com/victorwestmann/Heraldry) - This project aims to use Inkscape (open source software) to recreate a lot of blazons in SVG format -- Scalable Vector Graphics -- to allow anyone to create their own blazon.
-*   [xuyanwen2012/XP-MBBS-7.0](https://github.com/xuyanwen2012/XP-MBBS-7.0) - A Mount & Blade Style Battle System for RPG Maker XP with Demo
-*   [alexismorin/Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
-*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
-*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-*   [tempage/dorynode](https://github.com/tempage/dorynode) - Q/A || Issues || feedbacks || doc PRs are welcome!!
-*   [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
-*   [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
-*   [ShivonQ/naturalCritMarkdown](https://github.com/ShivonQ/naturalCritMarkdown) - Collections of markdown files from https://homebrewery.naturalcrit.com/ .  Purpose is so others can modify my rulesets whoever they see fit.
-*   [trespa/SwTor-1.3](https://github.com/trespa/SwTor-1.3) - Swtor
-*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-*   [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop) - An Introduction to Raymarching
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
-*   [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
-*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-*   [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
-*   [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-*   [przemyslawzaworski/Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming) - Various shaders.
-*   [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
-*   [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-*   [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-*   [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
-*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
-*   [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources
-*   [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
-*   [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-*   [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
-*   [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-*   [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
-*   [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
-*   [Taylib/sunset](https://github.com/Taylib/sunset) - Guide for Sunset Overdrive any% Speedrun
-*   [josephdviviano/dis-ult-diff-mod](https://github.com/josephdviviano/dis-ult-diff-mod) - dishonored ultimate difficulty mod
-*   [RohitKotiveetil/UnrealEngine--BlinkAbility](https://github.com/RohitKotiveetil/UnrealEngine--BlinkAbility) - Recreation of Dishonored's Blink ability in Unreal Engine.
-*   [fontiago/itb-algebraic-notation](https://github.com/fontiago/itb-algebraic-notation) - Textual and visual notation for Into the Breach.
-*   [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
-*   [fishtopher/UnityDrawers](https://github.com/fishtopher/UnityDrawers) - A collection of property and decorator drawers for Unity
-*   [scottjohnson3/Deus-Ex-Email](https://github.com/scottjohnson3/Deus-Ex-Email) - A web interface that mimics the look of the email screens found in the video game Deus Ex: Human Revolution
-*   [gundermanc/unity3d-hacking-game](https://github.com/gundermanc/unity3d-hacking-game) - A video game, primarily for cell phones, designed to get kids interested in programming by representing code as puzzle pieces.
-*   [nicholaswilde/KLWP-SmartThings](https://github.com/nicholaswilde/KLWP-SmartThings) - A Kustom Live Wallpaper for SmartThings
-*   [waihovong/KLWP](https://github.com/waihovong/KLWP) - Android Kustom Live Wallpaper
-*   [JPen3/projectChibiSouls](https://github.com/JPen3/projectChibiSouls) - Prototype game for GDD 450 using Unity.
-*   [junior-devleague/unity-3D-racing](https://github.com/junior-devleague/unity-3D-racing) - \[Beginner] Unity, C3, 3D Game - Beginner tutorial for 3D racing game with Unity
-*   [laurenth-personal/Cinelights](https://github.com/laurenth-personal/Cinelights) - Example project using Lighting tools package and Cine lights package for Unity.
-*   [RelentlessAF/third-person-camera](https://github.com/RelentlessAF/third-person-camera) - Tomb Raider/ The Witcher-esque Camera movement for Unity 3D
-*   [Brackeys/New-Prefab-Workflows](https://github.com/Brackeys/New-Prefab-Workflows) - Project files for our tutorial on the new Prefab Workflows in Unity.
-*   [bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity](https://github.com/bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity) - Gettin retro
-*   [dsbrady/AhoyMatey](https://github.com/dsbrady/AhoyMatey) - Pirate Game for Udemy Unity Course
-*   [katopz/ImageAsBackground](https://github.com/katopz/ImageAsBackground) -
-*   [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
-*   [DuckBoss/ShaderGraphs_Unity2018](https://github.com/DuckBoss/ShaderGraphs_Unity2018) - A collection of Unity Engine Shaders I've made using Shader Graph.
-*   [hayderimran7/free-tech-ebooks-from-packtpub](https://github.com/hayderimran7/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing \[Regularly Updated]
-*   [deepmind/card2code](https://github.com/deepmind/card2code) - A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
-*   [hgehlhausen/palladium-polished](https://github.com/hgehlhausen/palladium-polished) - MD code for HomeBrewery of Palladium Polished - Dogfights and Dragons
-*   [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets) -
-*   [thanasiskehagias/Unity-Dance-Curves](https://github.com/thanasiskehagias/Unity-Dance-Curves) - Unity3d project with dancers and mathematical curves. The user can choose favorite curve and script the dancers at runtime to follow it .
-*   [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
-*   [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-*   [BrokenVector/BetterUnityScriptTemplates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - A replacement for the default script templates in the Unity Engine
-*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-*   [laurenth-personal/LightProbesPlacement](https://github.com/laurenth-personal/LightProbesPlacement) - Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically
-*   [staff0rd/polygon-map-unity](https://github.com/staff0rd/polygon-map-unity) - An implementation of Polygon Map Generator in C# for Unity
-*   [Endarren/Unity_Resources](https://github.com/Endarren/Unity_Resources) - A list of resources and tutorials for those doing programming in Unity.
-*   [yasirkula/UnitySpinningLoadingBars](https://github.com/yasirkula/UnitySpinningLoadingBars) - 3 different spinning loading bar prefabs for Unity's UI system
-*   [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
-*   [SebLague/Procedural-Landmass-Textures](https://github.com/SebLague/Procedural-Landmass-Textures) - Textures for the procedural landmass series
-*   [smkplus/ShaderBooks](https://github.com/smkplus/ShaderBooks) - ShaderBooks
-*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
-*   [mailchimp/content-style-guide](https://github.com/mailchimp/content-style-guide) - This is our company style guide. It helps us write clear and consistent content across teams and channels
-*   [toncas/educational_circuit_simulator_unity](https://github.com/toncas/educational_circuit_simulator_unity) - This contains the final year project for Antonio Castro and Josiah Martinez.
-*   [NVentimiglia/awesome-unity](https://github.com/NVentimiglia/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-*   [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-*   [oferei/sublime-unity-completions](https://github.com/oferei/sublime-unity-completions) - Unity3D Completions - Sublime Text Plugin
-*   [keijiro/LowPolyShapes](https://github.com/keijiro/LowPolyShapes) - Low poly basic shape library for Unity
-*   [jawa0/JabasCodeKatas](https://github.com/jawa0/JabasCodeKatas) - C# and Unity programming skills that should become automatic
-*   [kimsama/Unity-FlashOut-Effect](https://github.com/kimsama/Unity-FlashOut-Effect) - Unity3D shader and tween animation howto for flashing out effect on a 3D model.
-*   [keijiro/Fragments](https://github.com/keijiro/Fragments) - Fragment mesh objects for particle effects in Unity
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-
-## TypeScript
-
-*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-*   [KrofDrakula/dnd-translations](https://github.com/KrofDrakula/dnd-translations) - Translations of common vocabulary for players and GMs in their native languages
-*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-*   [antivanov/js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS
-*   [DragonGround/FortniteSample](https://github.com/DragonGround/FortniteSample) -
-*   [DragonGround/OverwatchSample](https://github.com/DragonGround/OverwatchSample) -
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
-*   [qjebbs/vscode-super-replace](https://github.com/qjebbs/vscode-super-replace) - Do translations and any text transformations with regex replace.
-*   [Souvikns/Notion-Board](https://github.com/Souvikns/Notion-Board) - Sync GitHub issue to you notion database.
-*   [tryfabric/notion-github-action](https://github.com/tryfabric/notion-github-action) - A GitHub Action that syncs new GitHub issues to a Notion database 🤖
-*   [litencatt/notion-db-auto-relator](https://github.com/litencatt/notion-db-auto-relator) -
-*   [bigeyex/python-adminui](https://github.com/bigeyex/python-adminui) - Write professional web interfaces with Python.
-*   [rhocode/Giraffe](https://github.com/rhocode/Giraffe) - SatisGraphtory 2 - Resource chain simulation tool for SatisFactory
-*   [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
-*   [tetra-fox/ml-gen](https://github.com/tetra-fox/ml-gen) - 🍉 MelonLoader's toolchain, but as a GitHub Action.
-*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-*   [MalcolmMielle/Semantic-Highlighting](https://github.com/MalcolmMielle/Semantic-Highlighting) - Brings KDevelop and Pycharm semantic highlighting to VS Code.
-*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
-*   [0xycvv/hexx](https://github.com/0xycvv/hexx) - notion like block editor in react
-*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
-*   [gqgs/upscalejs](https://github.com/gqgs/upscalejs) - JavaScript image upscaling using super resolution AI models
-*   [jasielmacedo/steam-microtransaction-api](https://github.com/jasielmacedo/steam-microtransaction-api) - An intermediate api to handle steam microtransactions using steam web services. Ready to use with Unity, Unreal, Godot and so on
-*   [gao-sun/github-vsc](https://github.com/gao-sun/github-vsc) - 🐙 Launch VSCode dev environment in your browser.
-*   [ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) - Obsidian Plugin to scan all your links in your vault and convert them to your desired format.
-*   [valentine195/obsidian-5e-statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
-*   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
-*   [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
-*   [shabegom/obsidian-reference-count](https://github.com/shabegom/obsidian-reference-count) - Show Reference Count of Block Refs
-*   [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt
-*   [juajang/notion-clone](https://github.com/juajang/notion-clone) - 📙 Edit Notes like in Notion.so
-*   [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
-*   [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-*   [jnanatekumudi/NotionClone](https://github.com/jnanatekumudi/NotionClone) - Winter Project; Notion clone with a few additional features.
-*   [tmmoond8/notion-ui](https://github.com/tmmoond8/notion-ui) -
-*   [funexpected/flash-tools](https://github.com/funexpected/flash-tools) - Export flash project to Godot
-*   [75asa/notion-database-crawler](https://github.com/75asa/notion-database-crawler) - This is a Notion Integration to crawl databases to find a new page
-*   [kparkov/diceless](https://github.com/kparkov/diceless) - 🎲 A speedy dice roller with probability breakdown.
-*   [dlom/anydice](https://github.com/dlom/anydice) - anydice roller
-*   [wellyshen/react-cool-inview](https://github.com/wellyshen/react-cool-inview) - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-*   [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
-*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-*   [DTCurrie/battlebuddy](https://github.com/DTCurrie/battlebuddy) - A companion app for Battlescribe to convert Battlescribe rosters (.ros) files into interactive data sheets.
-*   [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
-*   [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
-*   [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
-*   [CONNECT-platform/connect-models](https://github.com/CONNECT-platform/connect-models) - the best visual ORM as a service out there
-*   [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
-*   [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
-*   [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
-*   [nhaouari/searchpp](https://github.com/nhaouari/searchpp) - Allow inserting text context search results on the active note.
-*   [graydon/obsidian-dangling-links](https://github.com/graydon/obsidian-dangling-links) - obsidian plugin for displaying dangling links
-*   [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
-*   [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) -
-*   [THeK3nger/obsidian-plugin-template](https://github.com/THeK3nger/obsidian-plugin-template) - Template for Obsidian.md Plugins
-*   [avr/obsidian-reading-time](https://github.com/avr/obsidian-reading-time) -
-*   [DahaWong/obsidian-footlinks](https://github.com/DahaWong/obsidian-footlinks) - Obsidian plugin that extracts urls from the main text to footer, offering a better reading/editing experience.
-*   [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
-*   [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
-*   [mrjackphil/obsidian-copy-markdown](https://github.com/mrjackphil/obsidian-copy-markdown) - It adds "Copy Markdown: copy" in Command Palette. It replaces wiki links to markdown links and copy result into clipboard.
-*   [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
-*   [mrjackphil/obsidian-crosslink-between-notes](https://github.com/mrjackphil/obsidian-crosslink-between-notes) - This plugin adds a command which allows to add a link to the current note at the bottom of selected notes
-*   [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
-*   [avirut/obsidian-query2table](https://github.com/avirut/obsidian-query2table) - Represent files returned by a query as a table of their YAML frontmatter (for obsidian.md)
-*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -
-*   [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
-*   [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-*   [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
-*   [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
-*   [maxGraph/maxGraph](https://github.com/maxGraph/maxGraph) - maxGraph is a fully client side JavaScript diagramming library
-*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-*   [MartinDrost/nest-utilities](https://github.com/MartinDrost/nest-utilities) - A package which supplements NestJS applications with out of the box CRUD functionality and parameter actions.
-*   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-*   [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-*   [SamLeatherdale/deusex-hackgame](https://github.com/SamLeatherdale/deusex-hackgame) - An implementation of the Deus Ex hacking minigame in JS + React.
-*   [sakai-akinobu/hs-standard-sets](https://github.com/sakai-akinobu/hs-standard-sets) - Utilities for the Hearthstone standard card set.
-*   [HearthSim/Sunwell](https://github.com/HearthSim/Sunwell) - Canvas-based high quality Hearthstone card renderer - no longer maintained
-*   [kognise/among-js](https://github.com/kognise/among-js) - An Among Us client written in TypeScript
-*   [mitmadness/AssetBundleCompiler](https://github.com/mitmadness/AssetBundleCompiler) - :package: Node.js wrapper around Unity3D's BuildPipeline to create AssetBundles from any files
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [andrey-zakharov/factorio-recipes](https://github.com/andrey-zakharov/factorio-recipes) - Shows recipe flows
-*   [gw2efficiency/recipe-calculation](https://github.com/gw2efficiency/recipe-calculation) - Calculate the cheapest tree traversal, price and used items of crafting recipes.
-*   [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar \[ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]
-*   [anakreon/PapersPlease](https://github.com/anakreon/PapersPlease) - Papers, Please is an indie video game where the player takes on a the role of a border crossing immigration officer in the fictional dystopian Eastern Bloc-like country of Arstotzka in the year 1982. As the officer, the player must review each immigrant and returning citizen's passports and other supporting paperwork against a list of ever-increasing rules using a number of tools and guides, allowing in only those with the proper paperwork, rejecting those without all proper forms, and at times detaining those with falsified information.
-*   [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
-*   [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
-*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
-*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-*   [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
-*   [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-*   [hannut91/vs-code-wiki](https://github.com/hannut91/vs-code-wiki) - VS Code Wiki
-*   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
-*   [andrico1234/beautiful-skill-tree](https://github.com/andrico1234/beautiful-skill-tree) - 🌲🌲🌲Create beautiful skill trees for your web apps
-*   [nrwl/webpack-plugin-critical](https://github.com/nrwl/webpack-plugin-critical) - Webpack wrapper for @addyosmani's critical library.
-*   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-*   [TracerBench/tracerbench](https://github.com/TracerBench/tracerbench) - Automated Chrome tracing for benchmarking.
-*   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
-*   [contentful/rich-text](https://github.com/contentful/rich-text) - Libraries for handling and rendering Rich Text 📄
-*   [zernie/typescript-redux-card-game](https://github.com/zernie/typescript-redux-card-game) - Hearthstone-like card game built for educational purposes.
-*   [stho01/unity-inspired-component-system](https://github.com/stho01/unity-inspired-component-system) - A unity inspired game "engine" system that is written with TypeScript and built with WebPack.
-*   [fullcalendar/fullcalendar-scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) - FullCalendar add-on for displaying events and resources
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [jsnee/vscode-dmbinder](https://github.com/jsnee/vscode-dmbinder) - Visual Studio Code extension for managing campaign documents.
-*   [QuadDamn/battlenet-api-wrapper](https://github.com/QuadDamn/battlenet-api-wrapper) - A promised-based Node.js + Typescript wrapper for the Battle.net Community and Data APIs (supports WoW, WoW Classic, SC2, D3, and Hearthstone).
-*   [nicholas1990/hearthstone](https://github.com/nicholas1990/hearthstone) -
-*   [kyeah/undercov](https://github.com/kyeah/undercov) - Chrome Extension to overlay code coverage from arbitrary HTTPS sources.
-*   [tbosch/automated-chrome-coverage](https://github.com/tbosch/automated-chrome-coverage) - Node.js recipe for automating javascript coverage in Chrome
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-*   [exlcode/exlcode-chrome](https://github.com/exlcode/exlcode-chrome) - EXLcode - VS Code-based Online IDE Chrome Extension
-*   [mieweb/wikiGDrive](https://github.com/mieweb/wikiGDrive) - Wiki for Google Shared Drive
-*   [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-*   [tom-wolfe/tiyl](https://github.com/tom-wolfe/tiyl) - A library for generating character backstories based on the Xanathar's Guide to Everything 'This Is Your Life' tables.
-*   [noahlange/markwright-app](https://github.com/noahlange/markwright-app) - 🖋dead-simple desktop publishing with markdown and sass.
-*   [Tespa/hearthstone-parser](https://github.com/Tespa/hearthstone-parser) - An npm package which watches a Hearthstone game log, emits events, and presents the game state as an object tree.
-*   [HearthSim/hsreplaynet-embed](https://github.com/HearthSim/hsreplaynet-embed) - Embeddable library for HSReplay.net features on other sites
-*   [ioneliabuzatu/tavern](https://github.com/ioneliabuzatu/tavern) -
-*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-*   [AlexPodobed/angular-swipe-cards](https://github.com/AlexPodobed/angular-swipe-cards) -
-*   [Harubex/scryfall](https://github.com/Harubex/scryfall) - GitHub repo for the scryfall npm module.
-*   [crookedneighbor/scryfall-client](https://github.com/crookedneighbor/scryfall-client) -
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-*   [stevensona/shader-toy](https://github.com/stevensona/shader-toy) - Shadertoy-like live preview for GLSL shaders in Visual Studio Code
-*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-*   [EastolfiWebDev/MongoPortable](https://github.com/EastolfiWebDev/MongoPortable) - Solution for a MongoDB-like portable database
-*   [marko-js/htmljs-parser](https://github.com/marko-js/htmljs-parser) - An HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values
-*   [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
-*   [ryceg/Eigengrau-s-Essential-Establishment-Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator) - A town generator that is suitable for out of the box play in any fantasy TTRPG setting.
-*   [opendnd/genetica](https://github.com/opendnd/genetica) - This is a tool for using a simplified genetics system to generate inheritable traits for DnD characters.
-*   [Zero-to-Heroes/firestone](https://github.com/Zero-to-Heroes/firestone) - Hearthstone companion for Overwolf
-*   [Namek/github-star-tagger-chrome](https://github.com/Namek/github-star-tagger-chrome) - :octocat: :star: Tag your Starred projects on GitHub - Chrome extension
-*   [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
-*   [ksandin/darkestdungeon](https://github.com/ksandin/darkestdungeon) - A Darkest Dungeon clone built with web technology
-*   [HearthSim/hearthstonejson-client](https://github.com/HearthSim/hearthstonejson-client) - 📖 HearthstoneJSON client for browsers and Node.
-*   [BTMorton/dnd-5e-srd](https://github.com/BTMorton/dnd-5e-srd) - The Dungeons and Dragons 5th Edition SRD converted to markdown, json and yaml
-*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-*   [brunocroh/star-manager](https://github.com/brunocroh/star-manager) - :shipit: Simple way to you organize your starred repositories
-*   [AlphaHearth/HearthIntellect](https://github.com/AlphaHearth/HearthIntellect) - Hearthstone database website
-*   [valor-software/ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
-*   [serkanyersen/ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.
-*   [atom-community/markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
-*   [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
+*   [LishaYang5/parse-fixed-width-file](https://github.com/LishaYang5/parse-fixed-width-file) - - Generate a fixed width file using the provided spec (offset provided in the spec file represent the length of each field). - Implement a parser that can parse the fixed width file and generate a delimited file, like CSV for example. - DO NOT use python libraries like pandas for parsing. You can use the standard library to write out a csv file (If you feel like) - Language choices (Python or Scala) - Deliver source via github or bitbucket - Bonus points if you deliver a docker container (Dockerfile) that can be used to run the code (too lazy to install stuff that you might use) - Pay attention to encoding
+*   [anbuselvidemo/Fixedwidthtocsv](https://github.com/anbuselvidemo/Fixedwidthtocsv) - Generate a fixed width based on offset length from spec file and convert to csv with delimiter as comma.
+*   [cmanallen/fixed-length-manager](https://github.com/cmanallen/fixed-length-manager) - Converts a count delimited file to a python object.
+*   [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
+*   [nikhilwoodruff/lt-en-sentences](https://github.com/nikhilwoodruff/lt-en-sentences) - Repository housing Latin-English sentence pairs to aid machine translation.
+*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+*   [pyurbans/urbans](https://github.com/pyurbans/urbans) - A tool for translating text from source grammar to target grammar (context-free) with corresponding dictionary.
+*   [ssiyad/automagic-file-mover](https://github.com/ssiyad/automagic-file-mover) - Moover: Automagic File Mover
+*   [notrichardpeng/FileGO](https://github.com/notrichardpeng/FileGO) - Program that automatically moves desired files from one folder to another
+*   [abhishekpatel946/Jarvis_FileManager-python](https://github.com/abhishekpatel946/Jarvis_FileManager-python) - This is simple python automation script that move files from target folder to destination folder automatically.
+*   [ksvkabra/move-files-script-python](https://github.com/ksvkabra/move-files-script-python) -
+*   [joetjo/MarkdownHelper](https://github.com/joetjo/MarkdownHelper) - Simple python script to generate report over a markdown files hierarchy.
+*   [balechon/order_files](https://github.com/balechon/order_files) - this project can classify the files in a folder to move to another destination folder, made in python
+*   [Abhishek0057/automatic_move_files](https://github.com/Abhishek0057/automatic_move_files) - This python script monitors a specific folder and automatically move files of that folder into specific folders like 'images', 'development', 'videos' and 'software' keeping all files organized in the respective folder.   Tip: It works realtime, use this code for your downloads folder and whenever you download any file, it will keep them organized and automatically moving that file to their respective folder :)
+*   [Kreateer/automatic-file-sorter](https://github.com/Kreateer/automatic-file-sorter) - A small program that automatically moves and sorts files based on user input
+*   [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+*   [jmg/crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
+*   [wwt/network-config-scraper](https://github.com/wwt/network-config-scraper) - Automated network configuration backups using Github actions and git-scraping
+*   [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+*   [rechelon/weebly-scraper](https://github.com/rechelon/weebly-scraper) - A script to scrape blog posts from weebly sites into markdown for Hugo & Jekyl
+*   [Frecuencio/YoutubePlaylistExporter](https://github.com/Frecuencio/YoutubePlaylistExporter) - Youtube playlist exporter (HTML, CSV and TXT) written in python.
+*   [geekpradd/PyDictionary](https://github.com/geekpradd/PyDictionary) - PyDictionary is a Dictionary Module for Python 2/3 to get meanings, translations, synonyms and antonyms of words
+*   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+*   [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+*   [hussien89aa/PythonTutorial](https://github.com/hussien89aa/PythonTutorial) - Step by step to build apps with Python. Code files for YouTube tutorial
+*   [your-tools/python-cli-ui](https://github.com/your-tools/python-cli-ui) - Tools for better command line interfaces
+*   [tryexceptpass/sofi](https://github.com/tryexceptpass/sofi) - an OS agnostic UI module for Python
+*   [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+*   [WoLpH/numpy-stl](https://github.com/WoLpH/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
+*   [thomashirtz/notion-scholar](https://github.com/thomashirtz/notion-scholar) - Reference management solution using Python and Notion.
+*   [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager) - A simple command-line tool for managing Notion databases.
+*   [rezbuilt/python_csvToSQL](https://github.com/rezbuilt/python_csvToSQL) - python_csvToSQL is a light weight python application that parses a CSV file and creates insert statements for MySQL and Oracle databases. Script console options include geocoding, header/database attribute renaming, additional default value attributes and file saving.
+*   [kmoppel/dumptofile](https://github.com/kmoppel/dumptofile) - A Terminator plugin for 1-click dumping the console contents to a text file
+*   [prahladyeri/vtscan](https://github.com/prahladyeri/vtscan) - Console utility to scan for malicious files using VirusTotal API
+*   [pmbarrett314/curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
+*   [ines/wasabi](https://github.com/ines/wasabi) - 🍣 A lightweight console printing and formatting toolkit
+*   [kneufeld/consolemd](https://github.com/kneufeld/consolemd) - render markdown to the console (not just highlight it)
+*   [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+*   [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
+*   [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
+*   [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
+*   [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [deplicate/deplicate](https://github.com/deplicate/deplicate) - Advanced Duplicate File Finder for Python
+*   [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
+*   [elisemercury/Duplicate-Image-Finder](https://github.com/elisemercury/Duplicate-Image-Finder) - difPy - Python package for finding duplicate or similar images within folders
+*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
+*   [lishunyi123h/painor](https://github.com/lishunyi123h/painor) - A simple telegram bot that takes a list of files sent by the user and returns them zipped.
+*   [abhint/TelegramFilestoCloud](https://github.com/abhint/TelegramFilestoCloud) - This bot uploads telegram files to a third-party server. Usage: Send any file or bot. Then select the third-party Cloud you want to upload to.
+*   [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) -  A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
+*   [ep1cman/DnD-Card-Generator](https://github.com/ep1cman/DnD-Card-Generator) - A script to generate cards for Dungeons and Dragons in the style of the official Gale Force Nine ones
+*   [gchapa22/pygephi](https://github.com/gchapa22/pygephi) - Little python script that reads a Google Spreadsheet, creates an xml file with gexf.
+*   [NumesSanguis/FACSvatar](https://github.com/NumesSanguis/FACSvatar) - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender)
+*   [vfaspb/diagram-parser](https://github.com/vfaspb/diagram-parser) - Parse XML export from draw.io and convert arrows to cvs (Source, Description, Target)
+*   [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+*   [Cobertos/unitypackage_extractor](https://github.com/Cobertos/unitypackage_extractor) - Extract a .unitypackage, with or without Python
+*   [lohriialo/photoshop-scripting-python](https://github.com/lohriialo/photoshop-scripting-python) - Scripting in Photoshop is used to automate a wide variety of repetitive task or as complex as an entire new feature
+*   [jonathanlurie/pyFlatplan](https://github.com/jonathanlurie/pyFlatplan) - A Python command line tool to create a publisher flat plan from images. Useful if you export all the pages of your book/magazine as jpeg from InDesign.
+*   [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+*   [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
+*   [mr-kelly/unity_realtime_log](https://github.com/mr-kelly/unity_realtime_log) - Unity realtime log in command line (batchmode)
+*   [RyoniCho/NotionToGithubPage](https://github.com/RyoniCho/NotionToGithubPage) - Python Script to Modify Exported File from Notion
+*   [lhs-source/md2notion-all](https://github.com/lhs-source/md2notion-all) - This migrates all markdown files in the directory to the notion
+*   [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
+*   [karlicoss/arctee](https://github.com/karlicoss/arctee) - Atomic tee
+*   [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
+*   [slavfox/jsom](https://github.com/slavfox/jsom) - A fast, simple parser for terribly broken JSON
+*   [frangiclave/frangiclave-compendium](https://github.com/frangiclave/frangiclave-compendium) - A browser-based tool for viewing data from Cultist Simulator.
+*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+*   [avidLearnerInProgress/python-automation-scripts](https://github.com/avidLearnerInProgress/python-automation-scripts) - Simple yet powerful automation stuffs.
+*   [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+*   [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
+*   [onion-liu/aahq-dataset](https://github.com/onion-liu/aahq-dataset) - Artstation-Artistic-face-HQ Dataset (AAHQ)
+*   [findix/ArtStationDownloader](https://github.com/findix/ArtStationDownloader) - ArtStation Downloader is a lightweight tool to help you download images and videos from https://www.artstation.com/
+*   [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
+*   [taehoio/youtube2notion](https://github.com/taehoio/youtube2notion) - For whom prefers reading than watching
+*   [joshcamas/screen-lapse](https://github.com/joshcamas/screen-lapse) - A simple python application that allows for recording screens over long periods (ie speedpaints)
+*   [lowRISC/hjson_to_gantt](https://github.com/lowRISC/hjson_to_gantt) - A Python script to generate a Gantt chart from a (H)JSON input
+*   [vamsi-aribandi/PERTgen](https://github.com/vamsi-aribandi/PERTgen) - Python code to generate a PERT graph and Gantt chart given a task schedule
+*   [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
+*   [valentinmace/genetic-unity](https://github.com/valentinmace/genetic-unity) - A framework to train agents in a Unity environment using a genetic algorithm
+*   [cowboy8625/WordRPG](https://github.com/cowboy8625/WordRPG) - Text based RPG game with a story, shopping, NPC's, and fighting
+*   [FrandSX/sxtools](https://github.com/FrandSX/sxtools) - Artist toolbox for multi-layer vertex coloring in Maya
+*   [Zan-Huang/FastImage](https://github.com/Zan-Huang/FastImage) - Compressed image/texting platform with AI powered upscaling.
+*   [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
+*   [8bit-Dude/8bit-Unity](https://github.com/8bit-Dude/8bit-Unity) - A cross-platform game development kit for CC65, targetting 8bit-era computers (Apple 2, Atari 8bit, Commodore 64, Oric 1/Atmos, Atari Lynx, NES/Famicom).
+*   [novoid/filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
+*   [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
+*   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+*   [JayGoldberg/bookmarks2mongo](https://github.com/JayGoldberg/bookmarks2mongo) - Reads Chrome/Chromium Bookmarks file into MongoDB, converting folder names into labels/tags
+*   [Helpsypoo/manim](https://github.com/Helpsypoo/manim) - Animation engine for explanatory math videos
+*   [crealitycloud/OctoPrint-CrealityCloud](https://github.com/crealitycloud/OctoPrint-CrealityCloud) -
+*   [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
+*   [benmoran56/esper](https://github.com/benmoran56/esper) - An ECS (Entity Component System) for Python
+*   [kwea123/VTuber_Unity](https://github.com/kwea123/VTuber_Unity) - Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
+*   [socialpoint-labs/unity-yaml-parser](https://github.com/socialpoint-labs/unity-yaml-parser) - Python3 library to manipulate Unity serialized files from outside the Unity Editor.
+*   [victorfeitosa/quake-hexen2-mdl-export-import](https://github.com/victorfeitosa/quake-hexen2-mdl-export-import) - Blender Quake and Hexen II MDL Import/Export
+*   [Deopster/Mercenaries-Hearthstone-game-bot](https://github.com/Deopster/Mercenaries-Hearthstone-game-bot) - bot for hearthstone mercenaries mode
+*   [machalite/etg-bot](https://github.com/machalite/etg-bot) - Bot for Enter the Gungeon
+*   [aferral/gungeon_bot](https://github.com/aferral/gungeon_bot) -
+*   [natekarp/NarrativeChart](https://github.com/natekarp/NarrativeChart) - Performance of design team over a 12 week period
+*   [apockill/CreepyCrawlAI](https://github.com/apockill/CreepyCrawlAI) - A deep neural network evolutionary sim, built with Godot, godot-python, and tensorflow.
+*   [lupoglaz/GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Communicating with godot engine through shared memory
+*   [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
+*   [mrmattkennedy/Gungeon-AI](https://github.com/mrmattkennedy/Gungeon-AI) - This is an AI for Enter the Gungeon. Mostly just practice in working with screen capture and AI. Also I can't beat this game so maybe my PC can.
+*   [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+*   [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python
+*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
+*   [posita/dyce](https://github.com/posita/dyce) - Simple Python tools for exploring dice outcomes and other finite discrete probabilities
+*   [LordSembor/DnDice](https://github.com/LordSembor/DnDice) - An anydice clone in python
+*   [nbusseneau/hephaistos](https://github.com/nbusseneau/hephaistos) - Supergiant Games' Hades mod adding support for ultrawide monitors (21:9, 32:9), multi-monitor (48:9), and custom resolutions.
+*   [norbeyandresg/hades](https://github.com/norbeyandresg/hades) - This script takes a Spotify playlist, list and search each track on YouTube and download it to the specified path with the script root path as parent
+*   [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [StepNeverStop/RLs](https://github.com/StepNeverStop/RLs) - Reinforcement Learning Algorithms Based on PyTorch
+*   [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai) - A benchmark environment for fully cooperative human-AI performance.
+*   [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
+*   [alfem/telegram-downloader-bot](https://github.com/alfem/telegram-downloader-bot) - A Telegram bot for file downloading automation
+*   [maymike321/hearthstone_card_generator](https://github.com/maymike321/hearthstone_card_generator) - Generates completely random hearthstone cards (random mana cost, attack, health, name, and a description generated using markov chains from existing descriptions)
+*   [eragonruan/text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn) - text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network
+*   [oh-my-ocr/text_renderer](https://github.com/oh-my-ocr/text_renderer) -
+*   [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
+*   [charsheet/dnd-charsheet](https://github.com/charsheet/dnd-charsheet) - DND Charsheet for DND 5e and Tabletop Simulator
+*   [drageryd/IronPythonEngine](https://github.com/drageryd/IronPythonEngine) - Small library for running Python scripts in a Unity game
+*   [callixte-girard/YoutubeChannelLeecher](https://github.com/callixte-girard/YoutubeChannelLeecher) - Why "Leecher" ? Because —> Scrape + Record in Notion (videos infos) + Download (videos in mp4) = Leech.
+*   [Mohan-cloud/reddit-saved-to-notion](https://github.com/Mohan-cloud/reddit-saved-to-notion) - A way to export your saved reddit posts to a Notion table.
+*   [Riteshgoenka/AutoScheduler](https://github.com/Riteshgoenka/AutoScheduler) - Course Project: Software Systems Lab (CS 251)
+*   [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
+*   [daed/mathhammer](https://github.com/daed/mathhammer) - A python script for modelling warhammer 40k damage probability
+*   [stvnksslr/dataslate-parser](https://github.com/stvnksslr/dataslate-parser) - Parser to create unit cards for killteam/40k/horus heresy/AoS
+*   [dennalig/redditSheetManager](https://github.com/dennalig/redditSheetManager) - Keep track of all your saved posts on Reddit using a Google Spreadsheet.
+*   [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
+*   [arturtamborski/notion-py](https://github.com/arturtamborski/notion-py) - (Fork of) Unofficial Python API client for Notion.so
+*   [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py) - A tool to use Notion as a Markdown editor.
+*   [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
+*   [nooneswarup/Bookmarks-regex](https://github.com/nooneswarup/Bookmarks-regex) - A tool to remove duplicates from exported bookmarks files.
+*   [Salaah01/email-unsuber](https://github.com/Salaah01/email-unsuber) - This program will parse through your emails and collect a list of unsubscribe links and output them into a CSV, XLSX (Excel) or JSON.
+*   [perkinsben/obs_tools](https://github.com/perkinsben/obs_tools) - Various python tools/scripts to work with Obsidian data
+*   [ehne/ERDot](https://github.com/ehne/ERDot) - A python CLI script to create Entity Relationship Diagrams from JSON/YAML code.
+*   [Devsoc-BPGC/generatER-archive](https://github.com/Devsoc-BPGC/generatER-archive) - Entity Relationship Diagrams Generator tool
+*   [tarek-ullah/Location-Based-Food-Delivery-Service-Using-Python-and-Google-Maps-APIs](https://github.com/tarek-ullah/Location-Based-Food-Delivery-Service-Using-Python-and-Google-Maps-APIs) - Implementation of Location based food delivery service using Python 2.7 and Google Maps APIs.It suggests restaurants to users based on their location and choice of cuisine. Moreover it shows delivery time , distance of user from selected restaurant in km and also draws a shortest path in google Map using travelling salesman problem under the hood. in It's only the Back-End or just a console app without any database.
+*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+*   [pjpscriv/py-svg2gcode](https://github.com/pjpscriv/py-svg2gcode) - An .svg to .gcode converter
+*   [Kozea/CairoSVG](https://github.com/Kozea/CairoSVG) - Convert your vector images
+*   [lamalgopach/Hearthstone_Battlegrounds_Predictions](https://github.com/lamalgopach/Hearthstone_Battlegrounds_Predictions) -
+*   [tsh/card-game-server](https://github.com/tsh/card-game-server) - simple hearthstone clone
+*   [ricklupton/floweaver](https://github.com/ricklupton/floweaver) - View flow data as Sankey diagrams
+*   [standupmaths/xmastree2020](https://github.com/standupmaths/xmastree2020) - My 500 LED xmas tree
+*   [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
+*   [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
+*   [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - \[mirror] Backup a list of github starred repositories for the specified user.
+*   [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
+*   [YepThatsMe/Hearthtrice](https://github.com/YepThatsMe/Hearthtrice) -
+*   [jwodder/hscards](https://github.com/jwodder/hscards) - Script for generating Hearthstone card spoilers & checklists
+*   [1Hibiki1/locks-py](https://github.com/1Hibiki1/locks-py) - Python implementation of locks, which is an imperative, dynamically typed, procedure oriented scripting language based on the lox programming language.
+*   [glowingkitty/downloadplus](https://github.com/glowingkitty/downloadplus) - A download manager that takes urls, json files as well as Notion as an input and can download files from an URL as well as via torrent.
+*   [SGG-Modding/SGG-Mod-Format](https://github.com/SGG-Modding/SGG-Mod-Format) - Format for making and loading mods for SuperGiantGames' games (Bastion, Transistor, Pyre, Hades)
+*   [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
+*   [evertheylen/notion-export-ics](https://github.com/evertheylen/notion-export-ics) - Export Notion Databases to ICS files
+*   [elblogbruno/Notion-GoogleCalendar-Sync](https://github.com/elblogbruno/Notion-GoogleCalendar-Sync) - This project allows you to sync a notion database with a calendar view with the google calendar. WIP
+*   [maximgeller/notion2googlecal](https://github.com/maximgeller/notion2googlecal) -
+*   [shayan-ys/RPG-Quest-Generator](https://github.com/shayan-ys/RPG-Quest-Generator) - RPG Quest Generator using genetic algorithm - playable by a CLI RPG game interface
+*   [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) -
+*   [gralamin/EberronCalendar](https://github.com/gralamin/EberronCalendar) - This app tracks various events for the Eberron campaign setting
+*   [mewo2/oisin](https://github.com/mewo2/oisin) - Oisín: Wave Function Collapse for poetry
+*   [ndp190/notion-scripts](https://github.com/ndp190/notion-scripts) - Export notion utilities
+*   [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) -
+*   [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
+*   [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
+*   [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
+*   [eigengrau/tts-backup](https://github.com/eigengrau/tts-backup) - Backup Tabletop Simulator saves and assets into comprehensive Zip files.
+*   [dimagi/gmail-filters](https://github.com/dimagi/gmail-filters) - Tool for creating basic Gmail filters
+*   [mesozoic/gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - A quick tool for generating Gmail filters from YAML rules.
+*   [BSData/warhammer-age-of-sigmar](https://github.com/BSData/warhammer-age-of-sigmar) - Warhammer: Age of Sigmar
+*   [VikVal123/Hearthstone-Card-Value-Predictions](https://github.com/VikVal123/Hearthstone-Card-Value-Predictions) - This project will allow you to see what value a card holds in Hearthstone.
+*   [the-okn3/volafile-downloader](https://github.com/the-okn3/volafile-downloader) - Volafile.org files downloader
+*   [AlexanderRagnarsson/Ares](https://github.com/AlexanderRagnarsson/Ares) - Super strong (but dumb) hearthstone bot
+*   [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
+*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+*   [HearthSim/UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format
+*   [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+*   [exodrifter/unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D.
+*   [llSourcell/Unity_ML_Agents](https://github.com/llSourcell/Unity_ML_Agents) - This is the code for "Unity AI" by Siraj Raval on Youtube
+*   [TsimpDim/RedditBookmarks](https://github.com/TsimpDim/RedditBookmarks) - A python script that exports your reddit saved links to an HTML file for importing in browsers
+*   [dahugobez/chromeBookmarksToReadme](https://github.com/dahugobez/chromeBookmarksToReadme) - converts Chrome exported Bookmarks into a Github compatible Readme File
+*   [MrMackey/BookmarksHtmlFile2JSON](https://github.com/MrMackey/BookmarksHtmlFile2JSON) - Tool for Converting Bookmarks Html File Exported From Most Web Browser(Chrome, Firefox...) to JSON Format
+*   [digital-engineering/bookmarks-consolidator](https://github.com/digital-engineering/bookmarks-consolidator) - Consolidate two HTML bookmark files into one, sorting and filtering duplicates.
+*   [daLoach20/BookmarkOrganizer](https://github.com/daLoach20/BookmarkOrganizer) - Python script to remove duplicates from exported bookmarks html file and reformat for importing to chrome.
+*   [bborna/cleanup_export_bookmarks](https://github.com/bborna/cleanup_export_bookmarks) - Takes import of html file from browser, and outputs file after testing links if they are still valid 200 HTTP response.
+*   [jhh/netscape-bookmark-converter](https://github.com/jhh/netscape-bookmark-converter) - A Python tool to convert bookmark export files.
+*   [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
+*   [kchawla-pi/united-states-of-browsers](https://github.com/kchawla-pi/united-states-of-browsers) - A project to combine & organize history and bookmarks across multiple browsers and browser profiles.
+*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+*   [Kevhann/HearthstoneCardDB](https://github.com/Kevhann/HearthstoneCardDB) - A database for Hearthstone cards
+*   [mopioid/Borderlands-Commander](https://github.com/mopioid/Borderlands-Commander) - A mod for Borderlands 2 & The Pre-Sequel that provides a number of useful functions
+*   [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series
+*   [HearthSim/python-hsreplay](https://github.com/HearthSim/python-hsreplay) - Python library for creating and parsing HSReplay XML files
+*   [Helpsypoo/primerpython](https://github.com/Helpsypoo/primerpython) - code that makes videos for this: youtube.com/c/primerlearning
+*   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+*   [skasi7/HearthPricer](https://github.com/skasi7/HearthPricer) - Hearthstone card pricer
+*   [Tholdan/HearthstoneBotDiscord](https://github.com/Tholdan/HearthstoneBotDiscord) - Hearthstone card bot for discord.
+*   [topher200/hearthstone_reddit_card_bot](https://github.com/topher200/hearthstone_reddit_card_bot) - Listens for card names in reddit.com/r/hearthstone comments and replies with pictures and a link to the card
+*   [andrewljohnson/CardAI](https://github.com/andrewljohnson/CardAI) - Tools to make AI for playing card games similar to Magic, Eternal, and Hearthstone.
+*   [vornne/pw_module_system](https://github.com/vornne/pw_module_system) - Persistent World module system - source files of a mod for Mount\&Blade Warband.
+*   [tldmod/tldmod](https://github.com/tldmod/tldmod) - The Last Days of the Third Age — Tolkien-based mod for the Mount\&Blade series.
+*   [HearthSim/python-hearthstone](https://github.com/HearthSim/python-hearthstone) - Hearthstone Python library (CardDefs, DBF, enums, log parser)
+*   [jaanus/tumblr2markdown](https://github.com/jaanus/tumblr2markdown) - Export all your Tumblr content to Markdown files with preserved original formatting.
+*   [waymanglover/hearthstats](https://github.com/waymanglover/hearthstats) - Scrape Hearthstone decks from HearthPwn, then build a SQLite database of the results. Can also scrape card collection data from HearthPwn/Innkeeper, and integrates with omgvamp's Mashape Hearthstone API to build a table of card data that can be used to make more advanced queries.
+*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+*   [networkop/arista-network-ci](https://github.com/networkop/arista-network-ci) - A portable network CI demo with Gitlab, Ansible, cEOS, Robot Framework and Batfish
+*   [smart-mobile-software/gitstack](https://github.com/smart-mobile-software/gitstack) - GitStack makes you Git server easy to install and manage on Windows.
+*   [adamwathan/sublime-phpunit](https://github.com/adamwathan/sublime-phpunit) - Run individual unit test files directly from Sublime
+*   [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
+*   [matteraByte/5eDataParser](https://github.com/matteraByte/5eDataParser) - Parsers, Writers, and Converters for 5e monster data to and from different formats (xml, json, markdown)
+*   [taycaldwell/hearthstone-card-api](https://github.com/taycaldwell/hearthstone-card-api) - Hearthstone Card API
+*   [jminor/omgifol](https://github.com/jminor/omgifol) - Oh my God! It's full of lumps! A python DOOM WAD library. Also, wad2obj.py which converts Doom maps into standard OBJ 3D models with textures.
+*   [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
+*   [dhamaniasad/crestify](https://github.com/dhamaniasad/crestify) - Intelligent Bookmarking
+*   [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+*   [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
+*   [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
+*   [hu-po/pirateAI](https://github.com/hu-po/pirateAI) - Pirate trainer (Deep Learning, Autonomous Agents, 3D, Unity, Hyperopt, Keras)
+*   [chattahippie/Hearthstone-Card-Generator-AI-](https://github.com/chattahippie/Hearthstone-Card-Generator-AI-) - An AI using TensorFlow designed to generate, and then evaluate them
+*   [mtimkovich/hearthsounds](https://github.com/mtimkovich/hearthsounds) - get hearthstone card sounds
+*   [danielyule/hearthbreaker](https://github.com/danielyule/hearthbreaker) - A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining
+*   [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python
+*   [pwillworth/galaxyharvester](https://github.com/pwillworth/galaxyharvester) - Galaxy Harvester resource tracking web application for Star Wars Galaxies Emulator servers
+*   [victor-o-silva/game-programming-patterns-epub](https://github.com/victor-o-silva/game-programming-patterns-epub) - Python script to generate an epub file from the online book Game Programming Patterns
+*   [mewo2/deserts](https://github.com/mewo2/deserts) - The Deserts of the West - a 2015 NaNoGenMo entry
+*   [HackerEarth/hackercafe](https://github.com/HackerEarth/hackercafe) - Python Client for HackerCafe
+*   [trambelus/UserSim](https://github.com/trambelus/UserSim) - Here's what you sound like...
+*   [aigamedev/scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn.
+*   [aigamedev/resistance](https://github.com/aigamedev/resistance) - Framework for THE RESISTANCE board & card game, with various AI bots.
+*   [jungbauer/CTF_AI_Comp\_2012](https://github.com/jungbauer/CTF_AI_Comp\_2012) - This is for the AI Sandbox CTF AI 2012 competition.
+*   [monkeymyster/AISandbox](https://github.com/monkeymyster/AISandbox) - AI Sandbox project work
+*   [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
+*   [vprimachenko/Sublime-Colorcoder](https://github.com/vprimachenko/Sublime-Colorcoder) - Semantic highlight for Sublime Text
 
 ## JavaScript
 
+*   [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 *   [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 *   [brendonboshell/supercrawler](https://github.com/brendonboshell/supercrawler) - A web crawler. Supercrawler automatically crawls websites. Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits.
 *   [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the \<html> noise.
@@ -4780,6 +4722,466 @@
 *   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 *   [ryhan/fixie](https://github.com/ryhan/fixie) - Automatically add filler content to HTML documents based on semantic tags.
 *   [benhmoore/Knwl.js](https://github.com/benhmoore/Knwl.js) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
+*   [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
+
+## generic
+
+*   [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms) - :open_file_folder: :page_with_curl: A list of strictly flat-file cms systems
+*   [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions) - A curated list of awesome actions to use on GitHub. With repository stars⭐ and forks🍴
+*   [alianrock/LittleStar](https://github.com/alianrock/LittleStar) - A Github star project management tool - Manage your GitHub stars convenient and efficient
+*   [tichise/ink-decal](https://github.com/tichise/ink-decal) - ink-decal is a library for projecting Splatoon-like ink using Unity's Decal function.
+*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+*   [needle-tools/ar-simulation](https://github.com/needle-tools/ar-simulation) - AR Simulation for Unity • Right in the Editor • Minimally Invasive
+*   [proyecto26/awesome-unity](https://github.com/proyecto26/awesome-unity) - A curated list of awesome Unity games! 🎮
+*   [WC5E/Warcraft-5e-Conversion](https://github.com/WC5E/Warcraft-5e-Conversion) -
+*   [Correia-jpv/fucking-awesome-unity](https://github.com/Correia-jpv/fucking-awesome-unity) - A curated list of awesome Unity assets, resources, and more. With repository stars⭐ and forks🍴
+*   [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
+*   [sverdegd/NotepadToolUnity](https://github.com/sverdegd/NotepadToolUnity) - Take your notes without leaving Unity thanks to this plugin and increase your productivity and organization.
+*   [smoltools/smol-juice](https://github.com/smoltools/smol-juice) - Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
+*   [Envoy-VC/awesome-clones](https://github.com/Envoy-VC/awesome-clones) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tik-Tok, Spotify, WhatsApp, YouTube etc. See source code, demo links, tech stack, GitHub stars.
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [mircearoata/SatisfactoryAdvancedLogistics](https://github.com/mircearoata/SatisfactoryAdvancedLogistics) -
+*   [Avatarchik/looader](https://github.com/Avatarchik/looader) - Loading screen solution for Unity engine
+*   [RepahidiS/glassos](https://github.com/RepahidiS/glassos) - Simulated OS project for Unity engine.
+*   [thatsgerman/CRTShader_Unity3D](https://github.com/thatsgerman/CRTShader_Unity3D) -
+*   [bsimser/Railroad-Tycoon](https://github.com/bsimser/Railroad-Tycoon) - The original Railroad Tycoon game built in Unity 2D
+*   [HelloFangaming/HelloMarioAssets](https://github.com/HelloFangaming/HelloMarioAssets) - Collection of 3D models and animations for Unity that you can use to jump start your very own 3D Mario fangame!
+*   [erasmosoares/UnityDataManager](https://github.com/erasmosoares/UnityDataManager) - This project allows game developers to create and manager level atributes using xls files. Using a xls file can be a simple way to edit character attributes in addition to having a broad view of the attributes for each level of the game, besides making this edition in a separate file enable you to share the same file with other team members such as game design and level design.
+*   [askaplan/InitialUnityProject](https://github.com/askaplan/InitialUnityProject) -
+*   [marianomike/unity-prototype-photoapp](https://github.com/marianomike/unity-prototype-photoapp) - Instagram-like UI Prototype built in Unity.
+*   [Lontoone/MyUnity-tool-LevelFlowEditor](https://github.com/Lontoone/MyUnity-tool-LevelFlowEditor) -
+*   [Anthr0py/unity3d-crosshair](https://github.com/Anthr0py/unity3d-crosshair) - A simple crosshair with spread support based on Unity 4.6+ UI.
+*   [AhmedTremo/Left2Dead](https://github.com/AhmedTremo/Left2Dead) - A game that combines the best in The last of us and Left 4 dead using Unity.
+*   [videlais/learning-ink-unity](https://github.com/videlais/learning-ink-unity) - Learn to use Ink + Unity
+*   [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality) - A curated list of VR resources
+*   [QianMo/Unity-Shader-Resources-List](https://github.com/QianMo/Unity-Shader-Resources-List) - :clipboard: Unity Shader相关学习资源与链接珍藏 | A list of amazing resources for learning shader writing in Unity.
+*   [Ognian-GlimpseSoftware/SmartObjectsSystem](https://github.com/Ognian-GlimpseSoftware/SmartObjectsSystem) - Unity game object that can morph into any type of custom game object or prefab
+*   [haxflying/DestructionShader](https://github.com/haxflying/DestructionShader) - Unity Destruction made with geometry shader
+*   [floatinghotpot/socket.io-unity](https://github.com/floatinghotpot/socket.io-unity) - socket.io client for Unity, power game client with node.js back-end
+*   [unity5d/Minifort](https://github.com/unity5d/Minifort) - A unity 3d game.The topic is fort and zombie. The project is inspired by fortnite. But is going to different in many ways.
+*   [Renisys/UnityTutorials](https://github.com/Renisys/UnityTutorials) - This is a short tutorial of creating a model of volcanic eruption in unity, just using terrain, gravity, collision and particle system.
+*   [joshcamas/unity3d-runtime-debug-draw](https://github.com/joshcamas/unity3d-runtime-debug-draw) - single file debuging DrawLine/DrawText/etc that works in both Scene/Game view, also works in built PC/mobile builds.
+*   [AdrianOrcik/Unity_UseCase_Tutorial](https://github.com/AdrianOrcik/Unity_UseCase_Tutorial) - :pencil: UseCase of Tutorial system with example sub systems
+*   [moare3788/cultist_simulator_french_translation](https://github.com/moare3788/cultist_simulator_french_translation) - Mod pour cultist simulator basé sur la traduction de Burton
+*   [SamsonStarmerLee/TF2\_Shaders](https://github.com/SamsonStarmerLee/TF2\_Shaders) -
+*   [daniellochner/creature-creator](https://github.com/daniellochner/creature-creator) - Procedurally generate creatures in Unity - inspired by Spore.
+*   [moiseev7/UnityVirtualKeyboard](https://github.com/moiseev7/UnityVirtualKeyboard) -
+*   [JudgeGroovyman/roslyn-unity](https://github.com/JudgeGroovyman/roslyn-unity) - An implemantation try of .NET Roslyn Compiler in Unity allowing easy C# runtime compilation, C# Hot-Loading, security analysis
+*   [RetroGamer74/HowToBuildWithUnityPS4FakePKG](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG) - How To Build FPKG with Unity PS4
+*   [PV255/Unity-Project-Template](https://github.com/PV255/Unity-Project-Template) - Empty template for project in Unity engine. Includes: structure of folders, .gitignore file, project settings for Unity and few readme files
+*   [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck
+*   [LuggLD/SmearFrame](https://github.com/LuggLD/SmearFrame) - Unreal Engine 4 smear frame material effect
+*   [mrarashiyan/Unity-ConstantGenerator](https://github.com/mrarashiyan/Unity-ConstantGenerator) - By this package, you can create or view global constants want to use in everywhere of your project by just one click!
+*   [kichul1122/UnityConstants](https://github.com/kichul1122/UnityConstants) - Generate code to replace Unity magic strings
+*   [RandomStroke/FreeFogOfWar](https://github.com/RandomStroke/FreeFogOfWar) - Fog of war post effect made for Unity. Doesn't use any advanced URP and HDR stuff. Just the most basic implementation.
+*   [heikun288/HighPerformanceDamageText-Unity3D](https://github.com/heikun288/HighPerformanceDamageText-Unity3D) - How to use High Performance Damage Text(Unity3D)
+*   [codemaker2015/unity3d-cheat-sheet](https://github.com/codemaker2015/unity3d-cheat-sheet) - Unity 3D Cheat Sheet with examples
+*   [ozankasikci/unity-cheat-sheet](https://github.com/ozankasikci/unity-cheat-sheet) - C# Cheat sheet for Unity
+*   [MrRobinftw/UnityParsers](https://github.com/MrRobinftw/UnityParsers) - A parsing system for Unity
+*   [Chillu1/CSharpECSComparison](https://github.com/Chillu1/CSharpECSComparison) - Comparison chart for C# ECS solutions/frameworks
+*   [killop/anything_about_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
+*   [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build
+*   [uta-org/PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Headless Chrome .NET API
+*   [r2d2m/quake3-movement-unity3d](https://github.com/r2d2m/quake3-movement-unity3d) - A port of the Quake III strafe jumping mechanics to Unity3D
+*   [MitchellSmithDev/UnityAerowalk](https://github.com/MitchellSmithDev/UnityAerowalk) - Aerowalk from Quake Live.
+*   [johnpancoast/AutoRPG](https://github.com/johnpancoast/AutoRPG) - AutoBattler RPG System
+*   [blockspacer/Godot-3.2-Multiplayer-FPS](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - A multiplayer example project for Godot 3.2
+*   [hiulit/Unofficial-Godot-Engine-Raspberry-Pi](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - Unofficial Godot Engine binaries for the Raspberry Pi.
+*   [someone-s/Physics-Wrapper-for-Unity-ECS](https://github.com/someone-s/Physics-Wrapper-for-Unity-ECS) -
+*   [taylor-misch/animation-playground](https://github.com/taylor-misch/animation-playground) - A unity project playground for animating and rigging all my 2D character Sprites
+*   [swordmaster003/AssetBundle-Framework](https://github.com/swordmaster003/AssetBundle-Framework) - AssetBundle Framework ia a complete solution for network game to manage assets.
+*   [fuyutaa/recoverUnitySkillsFast](https://github.com/fuyutaa/recoverUnitySkillsFast) - In case you stopped Unity, that you lost your competences and want to get back in the game really fast
+*   [UnitySuperEditor/SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) -  Super Editor project is an enhancement plan to make Unity, the world's most popular game engine, versatile and streamlined.
+*   [yumehiko/FxFPixelFont](https://github.com/yumehiko/FxFPixelFont) - 5x5 Pixel Font For Unity
+*   [polyjitter/sgg-hades-twitch](https://github.com/polyjitter/sgg-hades-twitch) - A Twitch integration mod for the game Hades by Supergiant Games.
+*   [AlexTheOutsider/SunsetOverdriveDemo](https://github.com/AlexTheOutsider/SunsetOverdriveDemo) -
+*   [FaizanMughal/Hello_Hell](https://github.com/FaizanMughal/Hello_Hell) - Unity FPS game created at GameJam. Inspired by Doom, Quake, Unreal.
+*   [Corysia/Unity-Oculus-Example](https://github.com/Corysia/Unity-Oculus-Example) - An example of how to use Oculus Integration in VR
+*   [BSData/gallery](https://github.com/BSData/gallery) - Gallery to browse all BattleScribe data sources (repositories), track and index them automatically.
+*   [BSData/warhammer-armies-project](https://github.com/BSData/warhammer-armies-project) - Warhammer Armies Project
+*   [BSData/wh40k-killteam](https://github.com/BSData/wh40k-killteam) - Warhammer 40,000: Kill Team
+*   [BSData/wh40k-heralds-of-ruin](https://github.com/BSData/wh40k-heralds-of-ruin) - Warhammer 40,000: Heralds of Ruin 8th Edition
+*   [BSData/wh40k](https://github.com/BSData/wh40k) - Warhammer 40,000
+*   [BSData/battlefleetgothic](https://github.com/BSData/battlefleetgothic) - Battlefleet Gothic
+*   [HeauxrusHeresy/BattleScribe](https://github.com/HeauxrusHeresy/BattleScribe) - Custom BattleScribe Files for Horus Heresy
+*   [svknoe/WH40k-Point-Efficiency-Calculator](https://github.com/svknoe/WH40k-Point-Efficiency-Calculator) - Excel sheet for computing expected damage and point efficiency in Warhammer 40k 9th edition
+*   [Pogomurphisk/hearthstone-prob](https://github.com/Pogomurphisk/hearthstone-prob) -
+*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) -
+*   [mythril-forge/vanilla-spells](https://github.com/mythril-forge/vanilla-spells) - A repository of every spell from D\&D 5e. Includes official, semi-official, and almost-official content. Stored in markdown.
+*   [mythril-forge/homebrew-spells](https://github.com/mythril-forge/homebrew-spells) - :sparkles: A repository of all the spells from D\&D that could possibly be tweaked and twanged. Stored in markdown.
+*   [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
+*   [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
+*   [Nolram12345/DevTextureLib](https://github.com/Nolram12345/DevTextureLib) - A small library of various CC0 textures and surface imperfections, mainly as placeholder for graphics development.
+*   [ArturoNereu/GameDevDiagrams](https://github.com/ArturoNereu/GameDevDiagrams) - A Unity project to explain the Stack, the Heap, GC and Allocation.
+*   [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
+*   [NajiElKotob/Awesome-ProjectManagement](https://github.com/NajiElKotob/Awesome-ProjectManagement) - Project Management Resources and References
+*   [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
+*   [starikcetin/awesome-upm](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM). Feel free to add yours in!
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+*   [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
+*   [Half-Legend/DoorControllers](https://github.com/Half-Legend/DoorControllers) - This is a Human Fall Flat package meant to be used by Level Designer. This provides you with a few prefabs of simple and double  logical doors.
+*   [SlugGlove/Free-Running-Controller](https://github.com/SlugGlove/Free-Running-Controller) - A unity controller script for a free running parkour controller, similar to those found in mirrors edge or apex legends
+*   [RohitKotiveetil/UnrealEngine--TedioreReloadSystems](https://github.com/RohitKotiveetil/UnrealEngine--TedioreReloadSystems) - Recreation of the Tediore Reload Systems from Borderlands in Unreal Engine 4.
+*   [RohitKotiveetil/UnrealEngine--SecondWind](https://github.com/RohitKotiveetil/UnrealEngine--SecondWind) - Recreation of the Second Wind system from Borderlands 2
+*   [Jesse-ww/UnityActiveRagdolls](https://github.com/Jesse-ww/UnityActiveRagdolls) - This is an Active Ragdoll asset made in Unity version 2017.3
+*   [m-grainger/Factory_Game](https://github.com/m-grainger/Factory_Game) - My first project in Unity- a Box moving game where you grab boxes from a conveyor belt, and try to make them the correct type before hitting the end of the production line!
+*   [kameronbrooks/ccl-spec](https://github.com/kameronbrooks/ccl-spec) - The CCL (Contextual C-like Language) Specification
+*   [StefanoCecere/awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) - a list of curated opensource Unity packages for future proof Game Developers
+*   [chromealex/Morpeh](https://github.com/chromealex/Morpeh) - Fast and Simple ECS Framework for Unity3d
+*   [raywenderlich/c-sharp-style-guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials
+*   [pjc0247/UnityHack](https://github.com/pjc0247/UnityHack) - A secret recipe to extend Unity Editor.
+*   [mistertaftcreates/Unity-Zelda-Like](https://github.com/mistertaftcreates/Unity-Zelda-Like) - The repository for my zelda tutorial
+*   [Avatarchik/left4dots](https://github.com/Avatarchik/left4dots) - A lo-fi interpretation of Left 4 Dead and its AI systems using Unity and the DOTS (Data Oriented Tech Stack) architecture \[ECS]
+*   [mems/calepin](https://github.com/mems/calepin) - My handnotes, snippets and a curated awsome lists of a french frontend webdeveloper
+*   [nenuadrian/qr-code-unity-3d-read-generate](https://github.com/nenuadrian/qr-code-unity-3d-read-generate) - Generating a QR code / Scanning a QR code in Unity 3D. Pre-build DLL and sample code from old Unity
+*   [D3fau4/Helltaker-switch](https://github.com/D3fau4/Helltaker-switch) - Helltaker is a short game about sharply dressed demon girls for Nintendo Switch.
+*   [chromealex/ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
+*   [Flygonial/The-Gryphon-Foam-Dart-Blaster](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster) -
+*   [Orabig/cainsarchive](https://github.com/Orabig/cainsarchive) - Diablo 3 Model Viewer
+*   [javidshaikhf/30Days30Shaders](https://github.com/javidshaikhf/30Days30Shaders) -
+*   [mythril-forge/homebrew-classes](https://github.com/mythril-forge/homebrew-classes) - ✨ A repository of all the classes from D\&D. Proportions modified to taste. Stored in markdown.
+*   [cross-js/cross-js](https://github.com/cross-js/cross-js) - Javascript guidelines for writing code in any context
+*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+*   [ndreckshage/CSSVacuum](https://github.com/ndreckshage/CSSVacuum) - optimize your critical rendering path
+*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
+*   [AlarmClockCrusher/HearthstoneSim_Abandoned](https://github.com/AlarmClockCrusher/HearthstoneSim_Abandoned) - Simulation of Hearthstone game using python (Up to date Apr 1st 2020)
+*   [keijiro/ProcCharVfx](https://github.com/keijiro/ProcCharVfx) - Procedural character generation with Unity Shader Graph and VFX Graph
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+*   [Luzifix/ulaunch-hearthstone](https://github.com/Luzifix/ulaunch-hearthstone) - A hearthstone theme for switch ulaunch launcher
+*   [RichConGames/CCGFramework](https://github.com/RichConGames/CCGFramework) - A collectible card game development framework, targeting the .NET standard and Unity in C#.
+*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
+*   [HearthSim/hs-bugs](https://github.com/HearthSim/hs-bugs) - Unofficial Hearthstone issue tracker
+*   [sketchfab/unity-plugin](https://github.com/sketchfab/unity-plugin) -
+*   [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity) - A curated list of awesome Unity assets, resources, and more.
+*   [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
+*   [unicodeveloper/awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) - :book: :articulated_lorry:  Curated list of awesome resources: books, videos, articles about using TDD(Test Driven Development)
+*   [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
+*   [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
+*   [ligurio/software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [Voblet/bookmarking-for-github](https://github.com/Voblet/bookmarking-for-github) - Save and Organize your favorite github repositories.
+*   [sentobi/ARPGE-Unity](https://github.com/sentobi/ARPGE-Unity) - A framework-in-progress for making Action-RPG (ARPG), or "Diablo clones", on Unity.
+*   [bryangalani/Unity_TetrisInventory](https://github.com/bryangalani/Unity_TetrisInventory) - Unity Inventory Tetris System in C# as Resident Evil 4 and Diablo 2
+*   [Dartteon/UnityHealthBar](https://github.com/Dartteon/UnityHealthBar) - This is a starter kit for a health bar system in Unity.
+*   [Follett12/IndependentLegMovementUnity](https://github.com/Follett12/IndependentLegMovementUnity) - A test to do independent leg movement to player movement. Uses camera position and player locomotion to determine upper and lower body angles of movement. Primarily in Player.cs. Other game elements are in the project.
+*   [Mr-Eee/UnityThirdPersonCameraMovement](https://github.com/Mr-Eee/UnityThirdPersonCameraMovement) - Third Person Movement Mecanim Animations
+*   [OmarBest7/unity-demo-fps](https://github.com/OmarBest7/unity-demo-fps) - A simple FPS sample including enemies, creation and recycle of bullets, ammo and health components and scene switch.
+*   [PortreeMathsTutor/Useful-Easy-Weapon-Scripts](https://github.com/PortreeMathsTutor/Useful-Easy-Weapon-Scripts) - Some timers and scoring scripts to go with the Easy Weapons asset on Unity 3D.
+*   [AkhilMenon007/Fractals-With-ECS](https://github.com/AkhilMenon007/Fractals-With-ECS) - Creating a fractal in unity to show difference between ECS and gameobjects
+*   [MoMe36/BotWGuardian](https://github.com/MoMe36/BotWGuardian) - A repo holding my Unity package for the BotW inspired Guardian
+*   [kgazcurra/EventManagerWiki](https://github.com/kgazcurra/EventManagerWiki) -
+*   [kgazcurra/ProLibraryWiki](https://github.com/kgazcurra/ProLibraryWiki) - A wiki for the Unity Asset "ProLibrary"
+*   [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
+*   [Unity3D-Projects/Spotify4Unity](https://github.com/Unity3D-Projects/Spotify4Unity) - 🎵 Set of UI tools and scripts for integrating Spotify into your Unity game/app!
+*   [mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps](https://github.com/mapninja/CartoDB_Odyssey_Tutorial_for_Story_Maps) - A quick tutorial for using CartoDB and Odyssey.js for creating story maps for free!
+*   [BayatGames/SaveGamePro](https://github.com/BayatGames/SaveGamePro) - A Complete and Powerful Save Game Solution for Unity (Game Engine)
+*   [netpyoung/awesome-unity-free](https://github.com/netpyoung/awesome-unity-free) - A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
+*   [OwlManAtt/eberron-intro-scenario](https://github.com/OwlManAtt/eberron-intro-scenario) -
+*   [calben/UE4MainMenu3D](https://github.com/calben/UE4MainMenu3D) - A template for a main menu featuring a character, as seen in games like PAYDAY 2 and Borderlands 2.
+*   [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn't Read
+*   [InfiniteAmmoInc/Yarn](https://github.com/InfiniteAmmoInc/Yarn) -
+*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+*   [keijiro/Smrvfx](https://github.com/keijiro/Smrvfx) - Skinned mesh sampling with VFX Graph
+*   [BrisJS/meetups](https://github.com/BrisJS/meetups) -
+*   [victorwestmann/Heraldry](https://github.com/victorwestmann/Heraldry) - This project aims to use Inkscape (open source software) to recreate a lot of blazons in SVG format -- Scalable Vector Graphics -- to allow anyone to create their own blazon.
+*   [xuyanwen2012/XP-MBBS-7.0](https://github.com/xuyanwen2012/XP-MBBS-7.0) - A Mount & Blade Style Battle System for RPG Maker XP with Demo
+*   [alexismorin/Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
+*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+*   [tempage/dorynode](https://github.com/tempage/dorynode) - Q/A || Issues || feedbacks || doc PRs are welcome!!
+*   [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
+*   [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
+*   [ShivonQ/naturalCritMarkdown](https://github.com/ShivonQ/naturalCritMarkdown) - Collections of markdown files from https://homebrewery.naturalcrit.com/ .  Purpose is so others can modify my rulesets whoever they see fit.
+*   [trespa/SwTor-1.3](https://github.com/trespa/SwTor-1.3) - Swtor
+*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+*   [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop) - An Introduction to Raymarching
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
+*   [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
+*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
+*   [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+*   [przemyslawzaworski/Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming) - Various shaders.
+*   [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
+*   [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
+*   [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
+*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
+*   [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources
+*   [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
+*   [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+*   [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
+*   [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
+*   [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
+*   [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine
+*   [Taylib/sunset](https://github.com/Taylib/sunset) - Guide for Sunset Overdrive any% Speedrun
+*   [josephdviviano/dis-ult-diff-mod](https://github.com/josephdviviano/dis-ult-diff-mod) - dishonored ultimate difficulty mod
+*   [RohitKotiveetil/UnrealEngine--BlinkAbility](https://github.com/RohitKotiveetil/UnrealEngine--BlinkAbility) - Recreation of Dishonored's Blink ability in Unreal Engine.
+*   [fontiago/itb-algebraic-notation](https://github.com/fontiago/itb-algebraic-notation) - Textual and visual notation for Into the Breach.
+*   [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
+*   [fishtopher/UnityDrawers](https://github.com/fishtopher/UnityDrawers) - A collection of property and decorator drawers for Unity
+*   [scottjohnson3/Deus-Ex-Email](https://github.com/scottjohnson3/Deus-Ex-Email) - A web interface that mimics the look of the email screens found in the video game Deus Ex: Human Revolution
+*   [gundermanc/unity3d-hacking-game](https://github.com/gundermanc/unity3d-hacking-game) - A video game, primarily for cell phones, designed to get kids interested in programming by representing code as puzzle pieces.
+*   [nicholaswilde/KLWP-SmartThings](https://github.com/nicholaswilde/KLWP-SmartThings) - A Kustom Live Wallpaper for SmartThings
+*   [waihovong/KLWP](https://github.com/waihovong/KLWP) - Android Kustom Live Wallpaper
+*   [JPen3/projectChibiSouls](https://github.com/JPen3/projectChibiSouls) - Prototype game for GDD 450 using Unity.
+*   [junior-devleague/unity-3D-racing](https://github.com/junior-devleague/unity-3D-racing) - \[Beginner] Unity, C3, 3D Game - Beginner tutorial for 3D racing game with Unity
+*   [laurenth-personal/Cinelights](https://github.com/laurenth-personal/Cinelights) - Example project using Lighting tools package and Cine lights package for Unity.
+*   [RelentlessAF/third-person-camera](https://github.com/RelentlessAF/third-person-camera) - Tomb Raider/ The Witcher-esque Camera movement for Unity 3D
+*   [Brackeys/New-Prefab-Workflows](https://github.com/Brackeys/New-Prefab-Workflows) - Project files for our tutorial on the new Prefab Workflows in Unity.
+*   [bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity](https://github.com/bjporter/Retro-and-Pixelated-Graphics-Experiments-In-Unity) - Gettin retro
+*   [dsbrady/AhoyMatey](https://github.com/dsbrady/AhoyMatey) - Pirate Game for Udemy Unity Course
+*   [katopz/ImageAsBackground](https://github.com/katopz/ImageAsBackground) -
+*   [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
+*   [DuckBoss/ShaderGraphs_Unity2018](https://github.com/DuckBoss/ShaderGraphs_Unity2018) - A collection of Unity Engine Shaders I've made using Shader Graph.
+*   [hayderimran7/free-tech-ebooks-from-packtpub](https://github.com/hayderimran7/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing \[Regularly Updated]
+*   [deepmind/card2code](https://github.com/deepmind/card2code) - A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
+*   [hgehlhausen/palladium-polished](https://github.com/hgehlhausen/palladium-polished) - MD code for HomeBrewery of Palladium Polished - Dogfights and Dragons
+*   [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets) -
+*   [thanasiskehagias/Unity-Dance-Curves](https://github.com/thanasiskehagias/Unity-Dance-Curves) - Unity3d project with dancers and mathematical curves. The user can choose favorite curve and script the dancers at runtime to follow it .
+*   [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
+*   [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+*   [BrokenVector/BetterUnityScriptTemplates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - A replacement for the default script templates in the Unity Engine
+*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+*   [laurenth-personal/LightProbesPlacement](https://github.com/laurenth-personal/LightProbesPlacement) - Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically
+*   [staff0rd/polygon-map-unity](https://github.com/staff0rd/polygon-map-unity) - An implementation of Polygon Map Generator in C# for Unity
+*   [Endarren/Unity_Resources](https://github.com/Endarren/Unity_Resources) - A list of resources and tutorials for those doing programming in Unity.
+*   [yasirkula/UnitySpinningLoadingBars](https://github.com/yasirkula/UnitySpinningLoadingBars) - 3 different spinning loading bar prefabs for Unity's UI system
+*   [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
+*   [SebLague/Procedural-Landmass-Textures](https://github.com/SebLague/Procedural-Landmass-Textures) - Textures for the procedural landmass series
+*   [smkplus/ShaderBooks](https://github.com/smkplus/ShaderBooks) - ShaderBooks
+*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
+*   [mailchimp/content-style-guide](https://github.com/mailchimp/content-style-guide) - This is our company style guide. It helps us write clear and consistent content across teams and channels
+*   [toncas/educational_circuit_simulator_unity](https://github.com/toncas/educational_circuit_simulator_unity) - This contains the final year project for Antonio Castro and Josiah Martinez.
+*   [NVentimiglia/awesome-unity](https://github.com/NVentimiglia/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
+*   [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
+*   [oferei/sublime-unity-completions](https://github.com/oferei/sublime-unity-completions) - Unity3D Completions - Sublime Text Plugin
+*   [keijiro/LowPolyShapes](https://github.com/keijiro/LowPolyShapes) - Low poly basic shape library for Unity
+*   [jawa0/JabasCodeKatas](https://github.com/jawa0/JabasCodeKatas) - C# and Unity programming skills that should become automatic
+*   [kimsama/Unity-FlashOut-Effect](https://github.com/kimsama/Unity-FlashOut-Effect) - Unity3D shader and tween animation howto for flashing out effect on a 3D model.
+*   [keijiro/Fragments](https://github.com/keijiro/Fragments) - Fragment mesh objects for particle effects in Unity
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+## GDScript
+
+*   [Ghaiyur/Untitled-fps](https://github.com/Ghaiyur/Untitled-fps) - A godot based Boomer Shooter
+*   [hohfchns/GodotCRTTerminal](https://github.com/hohfchns/GodotCRTTerminal) - A simple CRT terminal in Godot with basic input/output functionality
+*   [lihop/godot-xterm](https://github.com/lihop/godot-xterm) - Terminal emulator for the Godot game engine.
+*   [Grinshpon/Terminal-Godot](https://github.com/Grinshpon/Terminal-Godot) - Trying to design a retro-style computer that runs in-game
+*   [kagenash1/godot-behavior-tree](https://github.com/kagenash1/godot-behavior-tree) - A GDScript implementation of a behavior tree for AI, built through Godot nodes.
+*   [jegor377/ProceduralWalk](https://github.com/jegor377/ProceduralWalk) - Procedural walk animation system for humanoid in Godot Engine.
+*   [ollelogdahl/DungeonGenerator](https://github.com/ollelogdahl/DungeonGenerator) - A procedural dungeon generator implemented in Godot Engine
+*   [Hoimar/Planet-Generator](https://github.com/Hoimar/Planet-Generator) - A procedural planet generator addon for Godot with terrain LOD.
+*   [wojtekpil/Godot-Biomes](https://github.com/wojtekpil/Godot-Biomes) - Procedural biomes generator for Godot Engine.
+*   [Reneator/godot-skill-tree](https://github.com/Reneator/godot-skill-tree) - This is just quickly made skill-tree in godot using tool-scripts. It refreshes the connections as you make changes to the nodes in the skill-tree
+*   [willnationsdev/godot-skills](https://github.com/willnationsdev/godot-skills) - A generic, compositional skill system for Godot Engine that uses scenes to design abilities and their effects.
+*   [trolog/GodotStateMachineRoamAI](https://github.com/trolog/GodotStateMachineRoamAI) - Introduction how to do a simple statemachine with working example roaming AI
+*   [spkingr/Godot-Pluggable-AI](https://github.com/spkingr/Godot-Pluggable-AI) - Try Pluggable AI With Scriptable Objects in Godot
+*   [trolog/GodotAiPredictsPlayerPosition](https://github.com/trolog/GodotAiPredictsPlayerPosition) - youtube tutorial files for Ai that predicts player position and shoots there
+*   [SnoringCatGames/surfacer](https://github.com/SnoringCatGames/surfacer) - AI and pathfinding for 2D-platformers in Godot.
+*   [RiseRobotRise/JoyeuseCodeBase](https://github.com/RiseRobotRise/JoyeuseCodeBase) - FPS Framework for Godot. Provides nodes for AI, Navigation and interactions with areas and Workstations. (Code Base)
+*   [chrisphyffer/godot-kinematic-ai-mechanics](https://github.com/chrisphyffer/godot-kinematic-ai-mechanics) - Character Driven Gameplay with Godot | Includes AI, Root Motion, Navmesh study and more
+*   [SradnickDev/FullMetalAI](https://github.com/SradnickDev/FullMetalAI) - 3D Twin Stick Shooter made with Godot
+*   [godot-addons/godot-behavior-tree-plugin](https://github.com/godot-addons/godot-behavior-tree-plugin) - Behavior Tree implementation for the Godot Engine as an addon in pure GDScript
+*   [fenix-hub/godot-engine.easy-charts](https://github.com/fenix-hub/godot-engine.easy-charts) - A Godot Engine addon for plotting general purpose charts. A collection of Control, 2D and 3D Nodes to plot every chart possible.
+*   [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
+*   [kyzfrintin/Godot-Mixing-Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - A complete audio solution for Godot 3.3.x, making procedural sound and adaptive/procedural music possible with a few nodes and a couple lines of code.
+*   [awkwardpolygons/cartographer](https://github.com/awkwardpolygons/cartographer) - A GPU powered Terrain editor and renderer for Godot Engine
+*   [GDQuest/godot-visual-effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
+*   [loudsmilestudios/TetraForce](https://github.com/loudsmilestudios/TetraForce) - GBC Zelda-inspired game with online multiplayer. Built with Godot Engine
+*   [Arnklit/Waterways](https://github.com/Arnklit/Waterways) - A tool to generate river meshes with flow and foam maps based on bezier curves.
+*   [samuelbigos/cards_n_castles](https://github.com/samuelbigos/cards_n_castles) - Medieval strategy autobattling deckbuilder. My First Game Jam: Summer 2020.
+*   [iatenine/GodotCardManager](https://github.com/iatenine/GodotCardManager) - Script designed to ease the creation and implementation of traditional card games in Godot Game Engine
+*   [nodeg0/godot_card_tools](https://github.com/nodeg0/godot_card_tools) - Framework for making card-games in Godot
+*   [alfredbaudisch/Godello](https://github.com/alfredbaudisch/Godello) - Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)
+*   [quentincaffeino/godot-console](https://github.com/quentincaffeino/godot-console) - In-game console for Godot 3.
+*   [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
+*   [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - Quake .map support for Godot
+*   [vnen/godot-tiled-importer](https://github.com/vnen/godot-tiled-importer) - Plugin for Godot Engine to import Tiled Map Editor tilemaps and tilesets
+*   [GDQuest/godot-open-rpg](https://github.com/GDQuest/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
+*   [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine
+*   [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+*   [impmja/godot-easing](https://github.com/impmja/godot-easing) - This is a Godot Script (GDScript) (http://www.godotengine.org/) port of the Robert Penner's equations for easing. You can find much more information about it on http://robertpenner.com/easing/.
+*   [imjp94/UIDesignTool](https://github.com/imjp94/UIDesignTool) - Intuitive UI design workflow in Godot
+*   [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot 3.2
+*   [HungryProton/scatter](https://github.com/HungryProton/scatter) - Godot engine addon to randomly fill an area with props or other scenes
+*   [DrMoriarty/nativelib](https://github.com/DrMoriarty/nativelib) - NativeLib is a plugin management system for Godot engine.
+*   [jegor377/godot-gdgifexporter](https://github.com/jegor377/godot-gdgifexporter) - Gif exporter for Godot made entirely in GDScript
+*   [hiulit/Delaunator-GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript port of Delaunator: A fast library for Delaunay triangulation of 2D points.
+*   [HeavenMercy/TileSet-Builder-Godot-Plugin](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - A Godot plugin that builds a \*.tscn or \*.tres tileset.
+*   [jotson/ridiculous_coding](https://github.com/jotson/ridiculous_coding) - Ridiculous addon for Godot Engine that adds screenshake and explosions to your coding experience
+*   [TeddyDD/gterm](https://github.com/TeddyDD/gterm) - Terminal emulator control for Godot engine
+*   [henriquelalves/GodotTIE](https://github.com/henriquelalves/GodotTIE) - A simple Text Interface Engine to control text output (like in a RPG dialogue) for Godot.
+*   [alfredbaudisch/GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - GDScript and Godot client for real-time Phoenix Framework Channels
+*   [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework
+*   [godot-escoria/escoria-demo-game](https://github.com/godot-escoria/escoria-demo-game) - Game example for the point'n'click adventure framework Escoria
+*   [ceceppa/anima](https://github.com/ceceppa/anima) - Godot: run sequential and parallel animations with less code
+*   [Whimfoome/godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter) - FPS (First Person Shooter) controller template for Godot 3.5 to give starter content for a new or already existing project!
+*   [notapixelstudio/superstarfighter](https://github.com/notapixelstudio/superstarfighter) - A fast-paced local party game with starships that battle in a 2d top-down arena
+*   [JulianWels/portal2d](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine
+*   [deflinhec/GodotGoogleSheet](https://github.com/deflinhec/GodotGoogleSheet) - Godot plugin written in GDScript which downloads Google spreadsheet.
+*   [db0/godot-card-game-framework](https://github.com/db0/godot-card-game-framework) - A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.
+*   [GDQuest/godot-demos](https://github.com/GDQuest/godot-demos) - Dozens of free and open source demos for the Godot game engine
+*   [guy-does-things/binding-of-isaac-bullets](https://github.com/guy-does-things/binding-of-isaac-bullets) - a system to create bullets and add special effects to them, similar to games such as The Binding of isaac and Enter the gungeon
+*   [erlend-sh/good-south](https://github.com/erlend-sh/good-south) - Good South is a spiritual successor/remix of Bad North, a minimalist Real-Time Strategy game.
+*   [BraindeadBZH/godot_card_engine](https://github.com/BraindeadBZH/godot_card_engine) - A plugin for Godot to create card based games
+*   [lonegamedev/godot_botw_grass](https://github.com/lonegamedev/godot_botw_grass) - Project files for video tutorial.
+*   [kakoeimon/GodotMation](https://github.com/kakoeimon/GodotMation) - An implementation of machinations framework in Godot Engine
+
+## TypeScript
+
+*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+*   [KrofDrakula/dnd-translations](https://github.com/KrofDrakula/dnd-translations) - Translations of common vocabulary for players and GMs in their native languages
+*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+*   [antivanov/js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS
+*   [DragonGround/FortniteSample](https://github.com/DragonGround/FortniteSample) -
+*   [DragonGround/OverwatchSample](https://github.com/DragonGround/OverwatchSample) -
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [qjebbs/vscode-super-replace](https://github.com/qjebbs/vscode-super-replace) - Do translations and any text transformations with regex replace.
+*   [Souvikns/Notion-Board](https://github.com/Souvikns/Notion-Board) - Sync GitHub issue to you notion database.
+*   [tryfabric/notion-github-action](https://github.com/tryfabric/notion-github-action) - A GitHub Action that syncs new GitHub issues to a Notion database 🤖
+*   [litencatt/notion-db-auto-relator](https://github.com/litencatt/notion-db-auto-relator) -
+*   [bigeyex/python-adminui](https://github.com/bigeyex/python-adminui) - Write professional web interfaces with Python.
+*   [rhocode/Giraffe](https://github.com/rhocode/Giraffe) - SatisGraphtory 2 - Resource chain simulation tool for SatisFactory
+*   [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
+*   [tetra-fox/ml-gen](https://github.com/tetra-fox/ml-gen) - 🍉 MelonLoader's toolchain, but as a GitHub Action.
+*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+*   [MalcolmMielle/Semantic-Highlighting](https://github.com/MalcolmMielle/Semantic-Highlighting) - Brings KDevelop and Pycharm semantic highlighting to VS Code.
+*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+*   [0xycvv/hexx](https://github.com/0xycvv/hexx) - notion like block editor in react
+*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+*   [gqgs/upscalejs](https://github.com/gqgs/upscalejs) - JavaScript image upscaling using super resolution AI models
+*   [jasielmacedo/steam-microtransaction-api](https://github.com/jasielmacedo/steam-microtransaction-api) - An intermediate api to handle steam microtransactions using steam web services. Ready to use with Unity, Unreal, Godot and so on
+*   [gao-sun/github-vsc](https://github.com/gao-sun/github-vsc) - 🐙 Launch VSCode dev environment in your browser.
+*   [ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) - Obsidian Plugin to scan all your links in your vault and convert them to your desired format.
+*   [valentine195/obsidian-5e-statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+*   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
+*   [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
+*   [shabegom/obsidian-reference-count](https://github.com/shabegom/obsidian-reference-count) - Show Reference Count of Block Refs
+*   [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt
+*   [juajang/notion-clone](https://github.com/juajang/notion-clone) - 📙 Edit Notes like in Notion.so
+*   [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
+*   [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+*   [jnanatekumudi/NotionClone](https://github.com/jnanatekumudi/NotionClone) - Winter Project; Notion clone with a few additional features.
+*   [tmmoond8/notion-ui](https://github.com/tmmoond8/notion-ui) -
+*   [funexpected/flash-tools](https://github.com/funexpected/flash-tools) - Export flash project to Godot
+*   [75asa/notion-database-crawler](https://github.com/75asa/notion-database-crawler) - This is a Notion Integration to crawl databases to find a new page
+*   [kparkov/diceless](https://github.com/kparkov/diceless) - 🎲 A speedy dice roller with probability breakdown.
+*   [dlom/anydice](https://github.com/dlom/anydice) - anydice roller
+*   [wellyshen/react-cool-inview](https://github.com/wellyshen/react-cool-inview) - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+*   [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
+*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+*   [DTCurrie/battlebuddy](https://github.com/DTCurrie/battlebuddy) - A companion app for Battlescribe to convert Battlescribe rosters (.ros) files into interactive data sheets.
+*   [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
+*   [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
+*   [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
+*   [CONNECT-platform/connect-models](https://github.com/CONNECT-platform/connect-models) - the best visual ORM as a service out there
+*   [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+*   [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
+*   [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
+*   [nhaouari/searchpp](https://github.com/nhaouari/searchpp) - Allow inserting text context search results on the active note.
+*   [graydon/obsidian-dangling-links](https://github.com/graydon/obsidian-dangling-links) - obsidian plugin for displaying dangling links
+*   [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
+*   [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) -
+*   [THeK3nger/obsidian-plugin-template](https://github.com/THeK3nger/obsidian-plugin-template) - Template for Obsidian.md Plugins
+*   [avr/obsidian-reading-time](https://github.com/avr/obsidian-reading-time) -
+*   [DahaWong/obsidian-footlinks](https://github.com/DahaWong/obsidian-footlinks) - Obsidian plugin that extracts urls from the main text to footer, offering a better reading/editing experience.
+*   [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
+*   [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
+*   [mrjackphil/obsidian-copy-markdown](https://github.com/mrjackphil/obsidian-copy-markdown) - It adds "Copy Markdown: copy" in Command Palette. It replaces wiki links to markdown links and copy result into clipboard.
+*   [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
+*   [mrjackphil/obsidian-crosslink-between-notes](https://github.com/mrjackphil/obsidian-crosslink-between-notes) - This plugin adds a command which allows to add a link to the current note at the bottom of selected notes
+*   [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
+*   [avirut/obsidian-query2table](https://github.com/avirut/obsidian-query2table) - Represent files returned by a query as a table of their YAML frontmatter (for obsidian.md)
+*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -
+*   [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
+*   [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+*   [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
+*   [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+*   [maxGraph/maxGraph](https://github.com/maxGraph/maxGraph) - maxGraph is a fully client side JavaScript diagramming library
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+*   [MartinDrost/nest-utilities](https://github.com/MartinDrost/nest-utilities) - A package which supplements NestJS applications with out of the box CRUD functionality and parameter actions.
+*   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+*   [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
+*   [SamLeatherdale/deusex-hackgame](https://github.com/SamLeatherdale/deusex-hackgame) - An implementation of the Deus Ex hacking minigame in JS + React.
+*   [sakai-akinobu/hs-standard-sets](https://github.com/sakai-akinobu/hs-standard-sets) - Utilities for the Hearthstone standard card set.
+*   [HearthSim/Sunwell](https://github.com/HearthSim/Sunwell) - Canvas-based high quality Hearthstone card renderer - no longer maintained
+*   [kognise/among-js](https://github.com/kognise/among-js) - An Among Us client written in TypeScript
+*   [mitmadness/AssetBundleCompiler](https://github.com/mitmadness/AssetBundleCompiler) - :package: Node.js wrapper around Unity3D's BuildPipeline to create AssetBundles from any files
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [andrey-zakharov/factorio-recipes](https://github.com/andrey-zakharov/factorio-recipes) - Shows recipe flows
+*   [gw2efficiency/recipe-calculation](https://github.com/gw2efficiency/recipe-calculation) - Calculate the cheapest tree traversal, price and used items of crafting recipes.
+*   [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar \[ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]
+*   [anakreon/PapersPlease](https://github.com/anakreon/PapersPlease) - Papers, Please is an indie video game where the player takes on a the role of a border crossing immigration officer in the fictional dystopian Eastern Bloc-like country of Arstotzka in the year 1982. As the officer, the player must review each immigrant and returning citizen's passports and other supporting paperwork against a list of ever-increasing rules using a number of tools and guides, allowing in only those with the proper paperwork, rejecting those without all proper forms, and at times detaining those with falsified information.
+*   [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
+*   [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+*   [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+*   [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+*   [hannut91/vs-code-wiki](https://github.com/hannut91/vs-code-wiki) - VS Code Wiki
+*   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
+*   [andrico1234/beautiful-skill-tree](https://github.com/andrico1234/beautiful-skill-tree) - 🌲🌲🌲Create beautiful skill trees for your web apps
+*   [nrwl/webpack-plugin-critical](https://github.com/nrwl/webpack-plugin-critical) - Webpack wrapper for @addyosmani's critical library.
+*   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+*   [TracerBench/tracerbench](https://github.com/TracerBench/tracerbench) - Automated Chrome tracing for benchmarking.
+*   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
+*   [contentful/rich-text](https://github.com/contentful/rich-text) - Libraries for handling and rendering Rich Text 📄
+*   [zernie/typescript-redux-card-game](https://github.com/zernie/typescript-redux-card-game) - Hearthstone-like card game built for educational purposes.
+*   [stho01/unity-inspired-component-system](https://github.com/stho01/unity-inspired-component-system) - A unity inspired game "engine" system that is written with TypeScript and built with WebPack.
+*   [fullcalendar/fullcalendar-scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) - FullCalendar add-on for displaying events and resources
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [jsnee/vscode-dmbinder](https://github.com/jsnee/vscode-dmbinder) - Visual Studio Code extension for managing campaign documents.
+*   [QuadDamn/battlenet-api-wrapper](https://github.com/QuadDamn/battlenet-api-wrapper) - A promised-based Node.js + Typescript wrapper for the Battle.net Community and Data APIs (supports WoW, WoW Classic, SC2, D3, and Hearthstone).
+*   [nicholas1990/hearthstone](https://github.com/nicholas1990/hearthstone) -
+*   [kyeah/undercov](https://github.com/kyeah/undercov) - Chrome Extension to overlay code coverage from arbitrary HTTPS sources.
+*   [tbosch/automated-chrome-coverage](https://github.com/tbosch/automated-chrome-coverage) - Node.js recipe for automating javascript coverage in Chrome
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+*   [exlcode/exlcode-chrome](https://github.com/exlcode/exlcode-chrome) - EXLcode - VS Code-based Online IDE Chrome Extension
+*   [mieweb/wikiGDrive](https://github.com/mieweb/wikiGDrive) - Wiki for Google Shared Drive
+*   [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
+*   [tom-wolfe/tiyl](https://github.com/tom-wolfe/tiyl) - A library for generating character backstories based on the Xanathar's Guide to Everything 'This Is Your Life' tables.
+*   [noahlange/markwright-app](https://github.com/noahlange/markwright-app) - 🖋dead-simple desktop publishing with markdown and sass.
+*   [Tespa/hearthstone-parser](https://github.com/Tespa/hearthstone-parser) - An npm package which watches a Hearthstone game log, emits events, and presents the game state as an object tree.
+*   [HearthSim/hsreplaynet-embed](https://github.com/HearthSim/hsreplaynet-embed) - Embeddable library for HSReplay.net features on other sites
+*   [ioneliabuzatu/tavern](https://github.com/ioneliabuzatu/tavern) -
+*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+*   [AlexPodobed/angular-swipe-cards](https://github.com/AlexPodobed/angular-swipe-cards) -
+*   [Harubex/scryfall](https://github.com/Harubex/scryfall) - GitHub repo for the scryfall npm module.
+*   [crookedneighbor/scryfall-client](https://github.com/crookedneighbor/scryfall-client) -
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+*   [stevensona/shader-toy](https://github.com/stevensona/shader-toy) - Shadertoy-like live preview for GLSL shaders in Visual Studio Code
+*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+*   [EastolfiWebDev/MongoPortable](https://github.com/EastolfiWebDev/MongoPortable) - Solution for a MongoDB-like portable database
+*   [marko-js/htmljs-parser](https://github.com/marko-js/htmljs-parser) - An HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values
+*   [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
+*   [ryceg/Eigengrau-s-Essential-Establishment-Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator) - A town generator that is suitable for out of the box play in any fantasy TTRPG setting.
+*   [opendnd/genetica](https://github.com/opendnd/genetica) - This is a tool for using a simplified genetics system to generate inheritable traits for DnD characters.
+*   [Zero-to-Heroes/firestone](https://github.com/Zero-to-Heroes/firestone) - Hearthstone companion for Overwolf
+*   [Namek/github-star-tagger-chrome](https://github.com/Namek/github-star-tagger-chrome) - :octocat: :star: Tag your Starred projects on GitHub - Chrome extension
+*   [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
+*   [ksandin/darkestdungeon](https://github.com/ksandin/darkestdungeon) - A Darkest Dungeon clone built with web technology
+*   [HearthSim/hearthstonejson-client](https://github.com/HearthSim/hearthstonejson-client) - 📖 HearthstoneJSON client for browsers and Node.
+*   [BTMorton/dnd-5e-srd](https://github.com/BTMorton/dnd-5e-srd) - The Dungeons and Dragons 5th Edition SRD converted to markdown, json and yaml
+*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+*   [brunocroh/star-manager](https://github.com/brunocroh/star-manager) - :shipit: Simple way to you organize your starred repositories
+*   [AlphaHearth/HearthIntellect](https://github.com/AlphaHearth/HearthIntellect) - Hearthstone database website
+*   [valor-software/ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
+*   [serkanyersen/ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.
+*   [atom-community/markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
+*   [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 
 ## Vue
 
@@ -5045,240 +5447,7 @@
 *   [keijiro/AotsMovieTexture](https://github.com/keijiro/AotsMovieTexture) - Alpha-On-The-Side movie texture shader for Unity.
 *   [keijiro/UnityRefractionShader](https://github.com/keijiro/UnityRefractionShader) - Pseudo refraction shader for Unity.
 *   [keijiro/SpriteShadow](https://github.com/keijiro/SpriteShadow) - Drop shadow shader for sprite objects.
-
-## Python
-
-*   [nikhilwoodruff/lt-en-sentences](https://github.com/nikhilwoodruff/lt-en-sentences) - Repository housing Latin-English sentence pairs to aid machine translation.
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-*   [pyurbans/urbans](https://github.com/pyurbans/urbans) - A tool for translating text from source grammar to target grammar (context-free) with corresponding dictionary.
-*   [ssiyad/automagic-file-mover](https://github.com/ssiyad/automagic-file-mover) - Moover: Automagic File Mover
-*   [notrichardpeng/FileGO](https://github.com/notrichardpeng/FileGO) - Program that automatically moves desired files from one folder to another
-*   [abhishekpatel946/Jarvis_FileManager-python](https://github.com/abhishekpatel946/Jarvis_FileManager-python) - This is simple python automation script that move files from target folder to destination folder automatically.
-*   [ksvkabra/move-files-script-python](https://github.com/ksvkabra/move-files-script-python) -
-*   [joetjo/MarkdownHelper](https://github.com/joetjo/MarkdownHelper) - Simple python script to generate report over a markdown files hierarchy.
-*   [balechon/order_files](https://github.com/balechon/order_files) - this project can classify the files in a folder to move to another destination folder, made in python
-*   [Abhishek0057/automatic_move_files](https://github.com/Abhishek0057/automatic_move_files) - This python script monitors a specific folder and automatically move files of that folder into specific folders like 'images', 'development', 'videos' and 'software' keeping all files organized in the respective folder.   Tip: It works realtime, use this code for your downloads folder and whenever you download any file, it will keep them organized and automatically moving that file to their respective folder :)
-*   [Kreateer/automatic-file-sorter](https://github.com/Kreateer/automatic-file-sorter) - A small program that automatically moves and sorts files based on user input
-*   [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
-*   [jmg/crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
-*   [wwt/network-config-scraper](https://github.com/wwt/network-config-scraper) - Automated network configuration backups using Github actions and git-scraping
-*   [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
-*   [rechelon/weebly-scraper](https://github.com/rechelon/weebly-scraper) - A script to scrape blog posts from weebly sites into markdown for Hugo & Jekyl
-*   [Frecuencio/YoutubePlaylistExporter](https://github.com/Frecuencio/YoutubePlaylistExporter) - Youtube playlist exporter (HTML, CSV and TXT) written in python.
-*   [geekpradd/PyDictionary](https://github.com/geekpradd/PyDictionary) - PyDictionary is a Dictionary Module for Python 2/3 to get meanings, translations, synonyms and antonyms of words
-*   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-*   [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
-*   [hussien89aa/PythonTutorial](https://github.com/hussien89aa/PythonTutorial) - Step by step to build apps with Python. Code files for YouTube tutorial
-*   [your-tools/python-cli-ui](https://github.com/your-tools/python-cli-ui) - Tools for better command line interfaces
-*   [tryexceptpass/sofi](https://github.com/tryexceptpass/sofi) - an OS agnostic UI module for Python
-*   [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-*   [WoLpH/numpy-stl](https://github.com/WoLpH/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
-*   [thomashirtz/notion-scholar](https://github.com/thomashirtz/notion-scholar) - Reference management solution using Python and Notion.
-*   [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager) - A simple command-line tool for managing Notion databases.
-*   [rezbuilt/python_csvToSQL](https://github.com/rezbuilt/python_csvToSQL) - python_csvToSQL is a light weight python application that parses a CSV file and creates insert statements for MySQL and Oracle databases. Script console options include geocoding, header/database attribute renaming, additional default value attributes and file saving.
-*   [kmoppel/dumptofile](https://github.com/kmoppel/dumptofile) - A Terminator plugin for 1-click dumping the console contents to a text file
-*   [prahladyeri/vtscan](https://github.com/prahladyeri/vtscan) - Console utility to scan for malicious files using VirusTotal API
-*   [pmbarrett314/curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
-*   [ines/wasabi](https://github.com/ines/wasabi) - 🍣 A lightweight console printing and formatting toolkit
-*   [kneufeld/consolemd](https://github.com/kneufeld/consolemd) - render markdown to the console (not just highlight it)
-*   [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
-*   [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
-*   [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
-*   [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
-*   [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [deplicate/deplicate](https://github.com/deplicate/deplicate) - Advanced Duplicate File Finder for Python
-*   [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
-*   [elisemercury/Duplicate-Image-Finder](https://github.com/elisemercury/Duplicate-Image-Finder) - difPy - Python package for finding duplicate or similar images within folders
-*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-*   [lishunyi123h/painor](https://github.com/lishunyi123h/painor) - A simple telegram bot that takes a list of files sent by the user and returns them zipped.
-*   [abhint/TelegramFilestoCloud](https://github.com/abhint/TelegramFilestoCloud) - This bot uploads telegram files to a third-party server. Usage: Send any file or bot. Then select the third-party Cloud you want to upload to.
-*   [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) -  A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
-*   [ep1cman/DnD-Card-Generator](https://github.com/ep1cman/DnD-Card-Generator) - A script to generate cards for Dungeons and Dragons in the style of the official Gale Force Nine ones
-*   [gchapa22/pygephi](https://github.com/gchapa22/pygephi) - Little python script that reads a Google Spreadsheet, creates an xml file with gexf.
-*   [NumesSanguis/FACSvatar](https://github.com/NumesSanguis/FACSvatar) - An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender)
-*   [vfaspb/diagram-parser](https://github.com/vfaspb/diagram-parser) - Parse XML export from draw.io and convert arrows to cvs (Source, Description, Target)
-*   [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
-*   [Cobertos/unitypackage_extractor](https://github.com/Cobertos/unitypackage_extractor) - Extract a .unitypackage, with or without Python
-*   [lohriialo/photoshop-scripting-python](https://github.com/lohriialo/photoshop-scripting-python) - Scripting in Photoshop is used to automate a wide variety of repetitive task or as complex as an entire new feature
-*   [jonathanlurie/pyFlatplan](https://github.com/jonathanlurie/pyFlatplan) - A Python command line tool to create a publisher flat plan from images. Useful if you export all the pages of your book/magazine as jpeg from InDesign.
-*   [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-*   [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
-*   [mr-kelly/unity_realtime_log](https://github.com/mr-kelly/unity_realtime_log) - Unity realtime log in command line (batchmode)
-*   [RyoniCho/NotionToGithubPage](https://github.com/RyoniCho/NotionToGithubPage) - Python Script to Modify Exported File from Notion
-*   [lhs-source/md2notion-all](https://github.com/lhs-source/md2notion-all) - This migrates all markdown files in the directory to the notion
-*   [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
-*   [karlicoss/arctee](https://github.com/karlicoss/arctee) - Atomic tee
-*   [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
-*   [slavfox/jsom](https://github.com/slavfox/jsom) - A fast, simple parser for terribly broken JSON
-*   [frangiclave/frangiclave-compendium](https://github.com/frangiclave/frangiclave-compendium) - A browser-based tool for viewing data from Cultist Simulator.
-*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
-*   [avidLearnerInProgress/python-automation-scripts](https://github.com/avidLearnerInProgress/python-automation-scripts) - Simple yet powerful automation stuffs.
-*   [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-*   [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
-*   [onion-liu/aahq-dataset](https://github.com/onion-liu/aahq-dataset) - Artstation-Artistic-face-HQ Dataset (AAHQ)
-*   [findix/ArtStationDownloader](https://github.com/findix/ArtStationDownloader) - ArtStation Downloader is a lightweight tool to help you download images and videos from https://www.artstation.com/
-*   [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
-*   [taehoio/youtube2notion](https://github.com/taehoio/youtube2notion) - For whom prefers reading than watching
-*   [joshcamas/screen-lapse](https://github.com/joshcamas/screen-lapse) - A simple python application that allows for recording screens over long periods (ie speedpaints)
-*   [lowRISC/hjson_to_gantt](https://github.com/lowRISC/hjson_to_gantt) - A Python script to generate a Gantt chart from a (H)JSON input
-*   [vamsi-aribandi/PERTgen](https://github.com/vamsi-aribandi/PERTgen) - Python code to generate a PERT graph and Gantt chart given a task schedule
-*   [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
-*   [valentinmace/genetic-unity](https://github.com/valentinmace/genetic-unity) - A framework to train agents in a Unity environment using a genetic algorithm
-*   [cowboy8625/WordRPG](https://github.com/cowboy8625/WordRPG) - Text based RPG game with a story, shopping, NPC's, and fighting
-*   [FrandSX/sxtools](https://github.com/FrandSX/sxtools) - Artist toolbox for multi-layer vertex coloring in Maya
-*   [Zan-Huang/FastImage](https://github.com/Zan-Huang/FastImage) - Compressed image/texting platform with AI powered upscaling.
-*   [IBM/MAX-Image-Resolution-Enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
-*   [8bit-Dude/8bit-Unity](https://github.com/8bit-Dude/8bit-Unity) - A cross-platform game development kit for CC65, targetting 8bit-era computers (Apple 2, Atari 8bit, Commodore 64, Oric 1/Atmos, Atari Lynx, NES/Famicom).
-*   [novoid/filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
-*   [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
-*   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-*   [JayGoldberg/bookmarks2mongo](https://github.com/JayGoldberg/bookmarks2mongo) - Reads Chrome/Chromium Bookmarks file into MongoDB, converting folder names into labels/tags
-*   [Helpsypoo/manim](https://github.com/Helpsypoo/manim) - Animation engine for explanatory math videos
-*   [crealitycloud/OctoPrint-CrealityCloud](https://github.com/crealitycloud/OctoPrint-CrealityCloud) -
-*   [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
-*   [benmoran56/esper](https://github.com/benmoran56/esper) - An ECS (Entity Component System) for Python
-*   [kwea123/VTuber_Unity](https://github.com/kwea123/VTuber_Unity) - Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
-*   [socialpoint-labs/unity-yaml-parser](https://github.com/socialpoint-labs/unity-yaml-parser) - Python3 library to manipulate Unity serialized files from outside the Unity Editor.
-*   [victorfeitosa/quake-hexen2-mdl-export-import](https://github.com/victorfeitosa/quake-hexen2-mdl-export-import) - Blender Quake and Hexen II MDL Import/Export
-*   [Deopster/Mercenaries-Hearthstone-game-bot](https://github.com/Deopster/Mercenaries-Hearthstone-game-bot) - bot for hearthstone mercenaries mode
-*   [machalite/etg-bot](https://github.com/machalite/etg-bot) - Bot for Enter the Gungeon
-*   [aferral/gungeon_bot](https://github.com/aferral/gungeon_bot) -
-*   [natekarp/NarrativeChart](https://github.com/natekarp/NarrativeChart) - Performance of design team over a 12 week period
-*   [apockill/CreepyCrawlAI](https://github.com/apockill/CreepyCrawlAI) - A deep neural network evolutionary sim, built with Godot, godot-python, and tensorflow.
-*   [lupoglaz/GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Communicating with godot engine through shared memory
-*   [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
-*   [mrmattkennedy/Gungeon-AI](https://github.com/mrmattkennedy/Gungeon-AI) - This is an AI for Enter the Gungeon. Mostly just practice in working with screen capture and AI. Also I can't beat this game so maybe my PC can.
-*   [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-*   [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python
-*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
-*   [posita/dyce](https://github.com/posita/dyce) - Simple Python tools for exploring dice outcomes and other finite discrete probabilities
-*   [LordSembor/DnDice](https://github.com/LordSembor/DnDice) - An anydice clone in python
-*   [nbusseneau/hephaistos](https://github.com/nbusseneau/hephaistos) - Supergiant Games' Hades mod adding support for ultrawide monitors (21:9, 32:9), multi-monitor (48:9), and custom resolutions.
-*   [norbeyandresg/hades](https://github.com/norbeyandresg/hades) - This script takes a Spotify playlist, list and search each track on YouTube and download it to the specified path with the script root path as parent
-*   [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
-*   [StepNeverStop/RLs](https://github.com/StepNeverStop/RLs) - Reinforcement Learning Algorithms Based on PyTorch
-*   [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai) - A benchmark environment for fully cooperative human-AI performance.
-*   [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
-*   [alfem/telegram-downloader-bot](https://github.com/alfem/telegram-downloader-bot) - A Telegram bot for file downloading automation
-*   [maymike321/hearthstone_card_generator](https://github.com/maymike321/hearthstone_card_generator) - Generates completely random hearthstone cards (random mana cost, attack, health, name, and a description generated using markov chains from existing descriptions)
-*   [eragonruan/text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn) - text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network
-*   [oh-my-ocr/text_renderer](https://github.com/oh-my-ocr/text_renderer) -
-*   [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
-*   [charsheet/dnd-charsheet](https://github.com/charsheet/dnd-charsheet) - DND Charsheet for DND 5e and Tabletop Simulator
-*   [drageryd/IronPythonEngine](https://github.com/drageryd/IronPythonEngine) - Small library for running Python scripts in a Unity game
-*   [callixte-girard/YoutubeChannelLeecher](https://github.com/callixte-girard/YoutubeChannelLeecher) - Why "Leecher" ? Because —> Scrape + Record in Notion (videos infos) + Download (videos in mp4) = Leech.
-*   [Mohan-cloud/reddit-saved-to-notion](https://github.com/Mohan-cloud/reddit-saved-to-notion) - A way to export your saved reddit posts to a Notion table.
-*   [Riteshgoenka/AutoScheduler](https://github.com/Riteshgoenka/AutoScheduler) - Course Project: Software Systems Lab (CS 251)
-*   [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
-*   [daed/mathhammer](https://github.com/daed/mathhammer) - A python script for modelling warhammer 40k damage probability
-*   [stvnksslr/dataslate-parser](https://github.com/stvnksslr/dataslate-parser) - Parser to create unit cards for killteam/40k/horus heresy/AoS
-*   [dennalig/redditSheetManager](https://github.com/dennalig/redditSheetManager) - Keep track of all your saved posts on Reddit using a Google Spreadsheet.
-*   [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
-*   [arturtamborski/notion-py](https://github.com/arturtamborski/notion-py) - (Fork of) Unofficial Python API client for Notion.so
-*   [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py) - A tool to use Notion as a Markdown editor.
-*   [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
-*   [nooneswarup/Bookmarks-regex](https://github.com/nooneswarup/Bookmarks-regex) - A tool to remove duplicates from exported bookmarks files.
-*   [Salaah01/email-unsuber](https://github.com/Salaah01/email-unsuber) - This program will parse through your emails and collect a list of unsubscribe links and output them into a CSV, XLSX (Excel) or JSON.
-*   [perkinsben/obs_tools](https://github.com/perkinsben/obs_tools) - Various python tools/scripts to work with Obsidian data
-*   [ehne/ERDot](https://github.com/ehne/ERDot) - A python CLI script to create Entity Relationship Diagrams from JSON/YAML code.
-*   [Devsoc-BPGC/generatER-archive](https://github.com/Devsoc-BPGC/generatER-archive) - Entity Relationship Diagrams Generator tool
-*   [tarek-ullah/Location-Based-Food-Delivery-Service-Using-Python-and-Google-Maps-APIs](https://github.com/tarek-ullah/Location-Based-Food-Delivery-Service-Using-Python-and-Google-Maps-APIs) - Implementation of Location based food delivery service using Python 2.7 and Google Maps APIs.It suggests restaurants to users based on their location and choice of cuisine. Moreover it shows delivery time , distance of user from selected restaurant in km and also draws a shortest path in google Map using travelling salesman problem under the hood. in It's only the Back-End or just a console app without any database.
-*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-*   [pjpscriv/py-svg2gcode](https://github.com/pjpscriv/py-svg2gcode) - An .svg to .gcode converter
-*   [Kozea/CairoSVG](https://github.com/Kozea/CairoSVG) - Convert your vector images
-*   [lamalgopach/Hearthstone_Battlegrounds_Predictions](https://github.com/lamalgopach/Hearthstone_Battlegrounds_Predictions) -
-*   [tsh/card-game-server](https://github.com/tsh/card-game-server) - simple hearthstone clone
-*   [ricklupton/floweaver](https://github.com/ricklupton/floweaver) - View flow data as Sankey diagrams
-*   [standupmaths/xmastree2020](https://github.com/standupmaths/xmastree2020) - My 500 LED xmas tree
-*   [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
-*   [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
-*   [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - \[mirror] Backup a list of github starred repositories for the specified user.
-*   [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
-*   [YepThatsMe/Hearthtrice](https://github.com/YepThatsMe/Hearthtrice) -
-*   [jwodder/hscards](https://github.com/jwodder/hscards) - Script for generating Hearthstone card spoilers & checklists
-*   [1Hibiki1/locks-py](https://github.com/1Hibiki1/locks-py) - Python implementation of locks, which is an imperative, dynamically typed, procedure oriented scripting language based on the lox programming language.
-*   [glowingkitty/downloadplus](https://github.com/glowingkitty/downloadplus) - A download manager that takes urls, json files as well as Notion as an input and can download files from an URL as well as via torrent.
-*   [SGG-Modding/SGG-Mod-Format](https://github.com/SGG-Modding/SGG-Mod-Format) - Format for making and loading mods for SuperGiantGames' games (Bastion, Transistor, Pyre, Hades)
-*   [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
-*   [evertheylen/notion-export-ics](https://github.com/evertheylen/notion-export-ics) - Export Notion Databases to ICS files
-*   [elblogbruno/Notion-GoogleCalendar-Sync](https://github.com/elblogbruno/Notion-GoogleCalendar-Sync) - This project allows you to sync a notion database with a calendar view with the google calendar. WIP
-*   [maximgeller/notion2googlecal](https://github.com/maximgeller/notion2googlecal) -
-*   [shayan-ys/RPG-Quest-Generator](https://github.com/shayan-ys/RPG-Quest-Generator) - RPG Quest Generator using genetic algorithm - playable by a CLI RPG game interface
-*   [Phoenix124/scribd-downloader](https://github.com/Phoenix124/scribd-downloader) -
-*   [gralamin/EberronCalendar](https://github.com/gralamin/EberronCalendar) - This app tracks various events for the Eberron campaign setting
-*   [mewo2/oisin](https://github.com/mewo2/oisin) - Oisín: Wave Function Collapse for poetry
-*   [ndp190/notion-scripts](https://github.com/ndp190/notion-scripts) - Export notion utilities
-*   [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) -
-*   [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
-*   [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
-*   [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
-*   [eigengrau/tts-backup](https://github.com/eigengrau/tts-backup) - Backup Tabletop Simulator saves and assets into comprehensive Zip files.
-*   [dimagi/gmail-filters](https://github.com/dimagi/gmail-filters) - Tool for creating basic Gmail filters
-*   [mesozoic/gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - A quick tool for generating Gmail filters from YAML rules.
-*   [BSData/warhammer-age-of-sigmar](https://github.com/BSData/warhammer-age-of-sigmar) - Warhammer: Age of Sigmar
-*   [VikVal123/Hearthstone-Card-Value-Predictions](https://github.com/VikVal123/Hearthstone-Card-Value-Predictions) - This project will allow you to see what value a card holds in Hearthstone.
-*   [the-okn3/volafile-downloader](https://github.com/the-okn3/volafile-downloader) - Volafile.org files downloader
-*   [AlexanderRagnarsson/Ares](https://github.com/AlexanderRagnarsson/Ares) - Super strong (but dumb) hearthstone bot
-*   [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
-*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-*   [HearthSim/UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format
-*   [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-*   [exodrifter/unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D.
-*   [llSourcell/Unity_ML_Agents](https://github.com/llSourcell/Unity_ML_Agents) - This is the code for "Unity AI" by Siraj Raval on Youtube
-*   [TsimpDim/RedditBookmarks](https://github.com/TsimpDim/RedditBookmarks) - A python script that exports your reddit saved links to an HTML file for importing in browsers
-*   [dahugobez/chromeBookmarksToReadme](https://github.com/dahugobez/chromeBookmarksToReadme) - converts Chrome exported Bookmarks into a Github compatible Readme File
-*   [MrMackey/BookmarksHtmlFile2JSON](https://github.com/MrMackey/BookmarksHtmlFile2JSON) - Tool for Converting Bookmarks Html File Exported From Most Web Browser(Chrome, Firefox...) to JSON Format
-*   [digital-engineering/bookmarks-consolidator](https://github.com/digital-engineering/bookmarks-consolidator) - Consolidate two HTML bookmark files into one, sorting and filtering duplicates.
-*   [daLoach20/BookmarkOrganizer](https://github.com/daLoach20/BookmarkOrganizer) - Python script to remove duplicates from exported bookmarks html file and reformat for importing to chrome.
-*   [bborna/cleanup_export_bookmarks](https://github.com/bborna/cleanup_export_bookmarks) - Takes import of html file from browser, and outputs file after testing links if they are still valid 200 HTTP response.
-*   [jhh/netscape-bookmark-converter](https://github.com/jhh/netscape-bookmark-converter) - A Python tool to convert bookmark export files.
-*   [bdesham/chrome-export](https://github.com/bdesham/chrome-export) - Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.
-*   [kchawla-pi/united-states-of-browsers](https://github.com/kchawla-pi/united-states-of-browsers) - A project to combine & organize history and bookmarks across multiple browsers and browser profiles.
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-*   [Kevhann/HearthstoneCardDB](https://github.com/Kevhann/HearthstoneCardDB) - A database for Hearthstone cards
-*   [mopioid/Borderlands-Commander](https://github.com/mopioid/Borderlands-Commander) - A mod for Borderlands 2 & The Pre-Sequel that provides a number of useful functions
-*   [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series
-*   [HearthSim/python-hsreplay](https://github.com/HearthSim/python-hsreplay) - Python library for creating and parsing HSReplay XML files
-*   [Helpsypoo/primerpython](https://github.com/Helpsypoo/primerpython) - code that makes videos for this: youtube.com/c/primerlearning
-*   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-*   [skasi7/HearthPricer](https://github.com/skasi7/HearthPricer) - Hearthstone card pricer
-*   [Tholdan/HearthstoneBotDiscord](https://github.com/Tholdan/HearthstoneBotDiscord) - Hearthstone card bot for discord.
-*   [topher200/hearthstone_reddit_card_bot](https://github.com/topher200/hearthstone_reddit_card_bot) - Listens for card names in reddit.com/r/hearthstone comments and replies with pictures and a link to the card
-*   [andrewljohnson/CardAI](https://github.com/andrewljohnson/CardAI) - Tools to make AI for playing card games similar to Magic, Eternal, and Hearthstone.
-*   [vornne/pw_module_system](https://github.com/vornne/pw_module_system) - Persistent World module system - source files of a mod for Mount\&Blade Warband.
-*   [tldmod/tldmod](https://github.com/tldmod/tldmod) - The Last Days of the Third Age — Tolkien-based mod for the Mount\&Blade series.
-*   [HearthSim/python-hearthstone](https://github.com/HearthSim/python-hearthstone) - Hearthstone Python library (CardDefs, DBF, enums, log parser)
-*   [jaanus/tumblr2markdown](https://github.com/jaanus/tumblr2markdown) - Export all your Tumblr content to Markdown files with preserved original formatting.
-*   [waymanglover/hearthstats](https://github.com/waymanglover/hearthstats) - Scrape Hearthstone decks from HearthPwn, then build a SQLite database of the results. Can also scrape card collection data from HearthPwn/Innkeeper, and integrates with omgvamp's Mashape Hearthstone API to build a table of card data that can be used to make more advanced queries.
-*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-*   [networkop/arista-network-ci](https://github.com/networkop/arista-network-ci) - A portable network CI demo with Gitlab, Ansible, cEOS, Robot Framework and Batfish
-*   [smart-mobile-software/gitstack](https://github.com/smart-mobile-software/gitstack) - GitStack makes you Git server easy to install and manage on Windows.
-*   [adamwathan/sublime-phpunit](https://github.com/adamwathan/sublime-phpunit) - Run individual unit test files directly from Sublime
-*   [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
-*   [matteraByte/5eDataParser](https://github.com/matteraByte/5eDataParser) - Parsers, Writers, and Converters for 5e monster data to and from different formats (xml, json, markdown)
-*   [taycaldwell/hearthstone-card-api](https://github.com/taycaldwell/hearthstone-card-api) - Hearthstone Card API
-*   [jminor/omgifol](https://github.com/jminor/omgifol) - Oh my God! It's full of lumps! A python DOOM WAD library. Also, wad2obj.py which converts Doom maps into standard OBJ 3D models with textures.
-*   [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
-*   [dhamaniasad/crestify](https://github.com/dhamaniasad/crestify) - Intelligent Bookmarking
-*   [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-*   [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
-*   [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
-*   [hu-po/pirateAI](https://github.com/hu-po/pirateAI) - Pirate trainer (Deep Learning, Autonomous Agents, 3D, Unity, Hyperopt, Keras)
-*   [chattahippie/Hearthstone-Card-Generator-AI-](https://github.com/chattahippie/Hearthstone-Card-Generator-AI-) - An AI using TensorFlow designed to generate, and then evaluate them
-*   [mtimkovich/hearthsounds](https://github.com/mtimkovich/hearthsounds) - get hearthstone card sounds
-*   [danielyule/hearthbreaker](https://github.com/danielyule/hearthbreaker) - A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining
-*   [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python
-*   [pwillworth/galaxyharvester](https://github.com/pwillworth/galaxyharvester) - Galaxy Harvester resource tracking web application for Star Wars Galaxies Emulator servers
-*   [victor-o-silva/game-programming-patterns-epub](https://github.com/victor-o-silva/game-programming-patterns-epub) - Python script to generate an epub file from the online book Game Programming Patterns
-*   [mewo2/deserts](https://github.com/mewo2/deserts) - The Deserts of the West - a 2015 NaNoGenMo entry
-*   [HackerEarth/hackercafe](https://github.com/HackerEarth/hackercafe) - Python Client for HackerCafe
-*   [trambelus/UserSim](https://github.com/trambelus/UserSim) - Here's what you sound like...
-*   [aigamedev/scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn.
-*   [aigamedev/resistance](https://github.com/aigamedev/resistance) - Framework for THE RESISTANCE board & card game, with various AI bots.
-*   [jungbauer/CTF_AI_Comp\_2012](https://github.com/jungbauer/CTF_AI_Comp\_2012) - This is for the AI Sandbox CTF AI 2012 competition.
-*   [monkeymyster/AISandbox](https://github.com/monkeymyster/AISandbox) - AI Sandbox project work
-*   [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
+*   [rlk/scm](https://github.com/rlk/scm) - Spherical Cube Map rendering library
 
 ## Ruby
 
@@ -5303,127 +5472,6 @@
 *   [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
 *   [valyard/topTED](https://github.com/valyard/topTED) - Script to download most engaging TED talks
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-
-## PHP
-
-*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
-*   [xmlsquad/gsheet-to-xml](https://github.com/xmlsquad/gsheet-to-xml) - Given the url of a Google Sheet, this Symfony Console command fetches the Google Sheet and outputs it in the form of Xml.
-*   [unity-framework/Config](https://github.com/unity-framework/Config) - Extensible configuration manager for PHP projects that uses dot notation and supports json, ini, array based and many more common formats
-*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-*   [willgittens/googleSheetsToXML](https://github.com/willgittens/googleSheetsToXML) - The easiest way to transform the tabs of your Google spreadsheet into an XML file.
-*   [g0tie/SoftwareLicenceManager](https://github.com/g0tie/SoftwareLicenceManager) - An API to give and verify license for softwares
-*   [wmcarlosv/licence-manager](https://github.com/wmcarlosv/licence-manager) - licence-manager
-*   [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
-*   [alrik11es/muninn](https://github.com/alrik11es/muninn) - Create agents in PHP that monitor and act on your behalf. A Laravel based Huginn port.
-*   [paragonie/seedspring](https://github.com/paragonie/seedspring) - Seeded, Deterministic PRNG (based on AES-CTR instead of LCG)
-*   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
-*   [rezzza/RulerBundle](https://github.com/rezzza/RulerBundle) - A simple stateless production rules engine for Symfony 2
-*   [nicoSWD/php-rule-parser](https://github.com/nicoSWD/php-rule-parser) - PHP Rule Engine - Parses & Evaluates JavaScript-like expressions
-*   [uuf6429/rune](https://github.com/uuf6429/rune) - PHP Rule Engine
-*   [bobthecow/Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine for modern PHP
-*   [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
-*   [AnthonyPorthouse/DiceBag](https://github.com/AnthonyPorthouse/DiceBag) - Create Dice roll results from standard dice notation
-*   [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
-*   [lsgs/redcap-autoschedule](https://github.com/lsgs/redcap-autoschedule) - REDCap External Module for automated generation of record event schedules.
-*   [finanalyst/grav-plugin-persistent-data](https://github.com/finanalyst/grav-plugin-persistent-data) - Store responses from a GRAV form by a registered user that can be used across the whole of the site.
-*   [Perlkonig/grav-plugin-backlinks](https://github.com/Perlkonig/grav-plugin-backlinks) - Keeps a list of internal links (pages that link to other pages)
-*   [asvae/laravel-api-tester](https://github.com/asvae/laravel-api-tester) - Test your routes without hassle
-*   [mnapoli/FrontYAML](https://github.com/mnapoli/FrontYAML) - YAML Front matter parser
-*   [naucon/grav-auto-author](https://github.com/naucon/grav-auto-author) - The Auto Author Plugin is for Grav CMS. Automatically adds an author to frontmatter when creating a new page via Grav Admin plugin.
-*   [th0liveira/GanttChartPHP](https://github.com/th0liveira/GanttChartPHP) - Library to generate Gantt Chart with PHP.
-*   [bastianallgeier/gantti](https://github.com/bastianallgeier/gantti) - A simple PHP Gantt Class
-*   [cdaguerre/php-trello-api](https://github.com/cdaguerre/php-trello-api) - A simple Object Oriented wrapper for the Trello API, written in PHP5.
-*   [neervfx/server](https://github.com/neervfx/server) - PHP server for saving and loading unity game data on your server
-*   [starcon2/unity-php-server-sync](https://github.com/starcon2/unity-php-server-sync) - Using php and mysql combo as a unity server(Positions, usernames, etc)
-*   [getgrav/grav-plugin-shortcode-assets](https://github.com/getgrav/grav-plugin-shortcode-assets) -
-*   [sal0max/grav-plugin-shortcode-chart-js-plusplus](https://github.com/sal0max/grav-plugin-shortcode-chart-js-plusplus) - A shortcodes extension to add Chart.js charts to your Grav website
-*   [OleVik/grav-plugin-timeline](https://github.com/OleVik/grav-plugin-timeline) - Create and manage timelines in an ordered, hierarchical manner.
-*   [zanderwar/silverstripe-wowhead](https://github.com/zanderwar/silverstripe-wowhead) - Wowhead Item, Quest, Spell & Achievement Tooltips
-*   [JonasSchlatter/auto-tooltip](https://github.com/JonasSchlatter/auto-tooltip) - Text within "\<strong>\[" "]\</strong>" is automatically extended with a tooltip from a PHP-dictionary.
-*   [apmuthu/frontaccounting](https://github.com/apmuthu/frontaccounting) - Front Accounting - a web based ERP
-*   [wp-erp/wp-erp](https://github.com/wp-erp/wp-erp) - An open-source ERP (Enterprise Resource Planning) solution for WordPress
-*   [fakharkhan/laravel-school-erp](https://github.com/fakharkhan/laravel-school-erp) - The all-in-one software to manage schools and colleges. Lets start a clone of world's best ERP system fedena using laravel
-*   [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap 4. Easy and powerful.
-*   [Edujugon/laradoo](https://github.com/Edujugon/laradoo) - Odoo ERP API for Laravel
-*   [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
-*   [ecombee28/Card-Dealing-API](https://github.com/ecombee28/Card-Dealing-API) - A Rest API that will deal, shuffle, discard, and reorder a deck of cards
-*   [rvbz/laravel-google-calendar](https://github.com/rvbz/laravel-google-calendar) - Laravel wrapper for Google Calendar API that utilizes the Google Client API. Works seamlessly with FullCalendar.
-*   [luckyshot/miki](https://github.com/luckyshot/miki) - Wiki system in PHP+NoDB in just one file. 10s setup + auto-installed. Full Markdown support. Super fast and lightweight (-0.01MB gzip). Multi-User support. Minimal and beautiful.
-*   [luckyshot/picowiki](https://github.com/luckyshot/picowiki) - PicoWiki is a super tiny and simple file-based Wiki system where you can take notes, documentation, use as a blog, knowledge center or more
-*   [dsentker/phpinsights](https://github.com/dsentker/phpinsights) - A versatile PHP Library for Google PageSpeed Insights
-*   [patrikf/glip](https://github.com/patrikf/glip) - git library in PHP
-*   [remko/wigit](https://github.com/remko/wigit) - Simple & light Git-based wiki
-*   [laurentj/gitiwiki](https://github.com/laurentj/gitiwiki) - a wiki using git as backend
-*   [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
-*   [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-*   [gitiki/Gitiki](https://github.com/gitiki/Gitiki) - Gitiki is a PHP wiki engine from markdown files and a Git repository (or not)
-*   [canvasowl/ribbbon](https://github.com/canvasowl/ribbbon) - A project management system for artisans.
-*   [AmousQiu/UnityAssetsAPI](https://github.com/AmousQiu/UnityAssetsAPI) - A Restful API in PHP to facilitate uploading, downloading and browsing of various game related assets.
-*   [andrewgioia/Canopy](https://github.com/andrewgioia/Canopy) - Home electricity usage analysis
-*   [sebcode/b](https://github.com/sebcode/b) - Minimalistic bookmark manager for your own server written in PHP. Bookmarks are stored in a sqlite database.
-*   [nrollr/Bookmarklet](https://github.com/nrollr/Bookmarklet) - Bookmark URL's to a MySQL database instead of your browser
-*   [eras0r/bl2items-backend-php](https://github.com/eras0r/bl2items-backend-php) - borderlands 2 items database backend
-*   [MrJuliuss/lecter](https://github.com/MrJuliuss/lecter) - A flat file wiki package for Laravel 5
-*   [ryanwinchester/kwiki](https://github.com/ryanwinchester/kwiki) - markdown wiki/blog
-*   [Shadez/wowarmory](https://github.com/Shadez/wowarmory) - The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pulls its data from the actual game servers, it is the most comprehensive and up-to-date database on the characters, arena teams, guilds, and items of World of Warcraft in existence.
-*   [ychongsaytc/deepwiki](https://github.com/ychongsaytc/deepwiki) - A lightweight Markdown wiki system in PHP
-*   [eimg/design-patterns-php](https://github.com/eimg/design-patterns-php) - Most simplest design pattern implementation in PHP, including all 23 GoF patterns plus some other patterns
-*   [ehsangazar/design-patterns-php](https://github.com/ehsangazar/design-patterns-php) - All Design Patterns Samples in PHP
-*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
-*   [Escobaj/HearthstoneResolver](https://github.com/Escobaj/HearthstoneResolver) -
-*   [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-*   [jeremykenedy/laravel-logger](https://github.com/jeremykenedy/laravel-logger) - An out the box activity logger for your Laravel or Lumen application. Laravel logger is an activity event logger for your laravel application. It comes out the box with ready to use with dashboard to view your activity. Laravel logger can be added as a middleware or called through a trait. This package is easily configurable and customizable. Supports Laravel 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, and 7+
-*   [kossa/laradminator](https://github.com/kossa/laradminator) - Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support
-*   [beyondcode/dusk-dashboard](https://github.com/beyondcode/dusk-dashboard) - A beautiful dashboard for your Laravel Dusk tests
-*   [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
-*   [edvinaskrucas/notification](https://github.com/edvinaskrucas/notification) - Notification package for Laravel
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-*   [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
-*   [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
-*   [grapefrukt/altpresskit](https://github.com/grapefrukt/altpresskit) - Open Source presskit() alternative
-*   [panicsteve/w2wiki](https://github.com/panicsteve/w2wiki) - A web-based, wiki-like notepad that you host yourself
-*   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
-*   [ZContent/icalendar](https://github.com/ZContent/icalendar) - Library for reading and writing iCalendar files in PHP
-*   [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-*   [gordielachance/pinterest-importer](https://github.com/gordielachance/pinterest-importer) - Backup all your pins from Pinterest into Wordpress !  Own your data !
-*   [Tustin/fortnite-php](https://github.com/Tustin/fortnite-php) - A PHP wrapper for the official Fortnite API
-*   [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra
-*   [gburtini/Probability-Distributions-for-PHP](https://github.com/gburtini/Probability-Distributions-for-PHP) - PHP implementation of statistical probability distributions: normal distribution, beta distribution, gamma distribution and more.
-*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
-*   [ringmaster/dicecalc](https://github.com/ringmaster/dicecalc) - A D\&D-style dice rolling library for PHP
-*   [conceptsandtraining/lib-ente](https://github.com/conceptsandtraining/lib-ente) - An entity component framework for PHP.
-*   [controlz/webParser](https://github.com/controlz/webParser) - Parse/Scrap webpages and convert HTML elements into JSON.
-*   [dweidner/laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel Facade for Goutte, a simple PHP Web Scraper
-*   [morshedalam/url-scraper-php](https://github.com/morshedalam/url-scraper-php) - A parser class to grab website contents and extract urls
-*   [stewang/hearthstone-deck-utility](https://github.com/stewang/hearthstone-deck-utility) - A simple web application to let you manage your Hearthstone decks and track statistics.
-*   [mlntn/hearthstone-deckcodes](https://github.com/mlntn/hearthstone-deckcodes) - Deck code encoder/decoder for Hearthstone
-*   [charlesmjenkins/hearthstone-deckbuilder](https://github.com/charlesmjenkins/hearthstone-deckbuilder) - An online card game deck builder web application
-*   [Fiskell/HearthClone](https://github.com/Fiskell/HearthClone) - PHP Laravel Server that mimics the server functionality of Hearthstone.
-*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
-*   [rtransat/hearthstone-api](https://github.com/rtransat/hearthstone-api) - hearthstoneapi.com wrapper for Laravel 5
-*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-*   [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
-*   [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
-*   [Ad5001/Gitable](https://github.com/Ad5001/Gitable) - Pocketmine Git client !
-*   [BitbucketPHP/Client](https://github.com/BitbucketPHP/Client) - Bitbucket API 2.0 client for PHP
-*   [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)
-*   [mmousawy/HumbleGraph](https://github.com/mmousawy/HumbleGraph) - HumbleGraph is a statistical tool for keeping track of Humble Bundle prices
-*   [misteriosojo/price-monitor](https://github.com/misteriosojo/price-monitor) - \[PHP] Track a price online.
-*   [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
-*   [flowdee/hearthstone-cards](https://github.com/flowdee/hearthstone-cards) - Hearthstone Cards for WordPress automatically adds an overlay to written card names and displays the associated image while hovering them.
-*   [Chovanec/elo-rating](https://github.com/Chovanec/elo-rating) - A PHP class which implements the Elo rating system
-*   [Schenn/Peas](https://github.com/Schenn/Peas) - An attempt at building a PHP based Entity Component System which ties into a mysql database
-*   [patlamontagne/hearthstone-card-generator](https://github.com/patlamontagne/hearthstone-card-generator) - Backup of an old canvas school project
-*   [PatrickRose/boardgamegeek-laravel](https://github.com/PatrickRose/boardgamegeek-laravel) - A wrapper for accessing the BGG api for laravel
-*   [rsahlstrom/shelf](https://github.com/rsahlstrom/shelf) - A PHP project that simplifies working with the BoardGameGeek API
-*   [peoii/SimpliGames](https://github.com/peoii/SimpliGames) - A self-hosted games library for tracking your collection.  Data pulled from BoardGameGeek
-*   [tijsverkoyen/CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.
-*   [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) - Converts CSS styles into inline style attributes in your HTML code.
-*   [codergogoi/Unity3DCustomLeaderBoard](https://github.com/codergogoi/Unity3DCustomLeaderBoard) - Custom Leaderboard in Unity3d Using PHP Mysql and C#
-*   [ramiismail/dopresskit](https://github.com/ramiismail/dopresskit) - presskit() - spend time making games, not press.
-*   [Codiad/Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
-*   [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 
 ## HTML
 
@@ -5503,27 +5551,6 @@
 *   [sassembla/WebConsole](https://github.com/sassembla/WebConsole) - show unity logs in browser.
 *   [vhf/resrc](https://github.com/vhf/resrc) -
 *   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-
-## Shell
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-*   [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
-*   [0xf4b1/hearthstone-linux](https://github.com/0xf4b1/hearthstone-linux) - Craft your own linux native Hearthstone client
-*   [martinbjeldbak/self-hosted](https://github.com/martinbjeldbak/self-hosted) - My docker-compose based self-hosted setup including media centre, dns, home automation, and more
-*   [crealitycloud/Creality-Cloud-RaspberryPi3](https://github.com/crealitycloud/Creality-Cloud-RaspberryPi3) - Creality Cloud is a platform for 3D printing creation and an ever-growing community for everyone.
-*   [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-*   [gidoBOSSftw5731/notion-auto-pull](https://github.com/gidoBOSSftw5731/notion-auto-pull) - Bash script to automatically download a notion workspace
-*   [jgreenlee24/campaign-workspace](https://github.com/jgreenlee24/campaign-workspace) - Eberron Campaign Workspace
-*   [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
-*   [stackpl/portable](https://github.com/stackpl/portable) - Portable improvements for Git + Node + VS Code
-*   [neogeek/unity-ci-tools](https://github.com/neogeek/unity-ci-tools) - 🔧 Bash scripts for running Unity tests on continuous integration services
-*   [daemondevin/GitHubDesktopPortable](https://github.com/daemondevin/GitHubDesktopPortable) - A portable build of GitHub Desktop packaged in compliance with the PortableApps.com format specifications.
-*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-*   [robertluwang/portabledevops](https://github.com/robertluwang/portabledevops) - A portable devops tool set on windows, easy customization of cmder/console+msys2/cygwin/wsl
-*   [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
-*   [eamonwoortman/docker-unity3d](https://github.com/eamonwoortman/docker-unity3d) - An Unity3D editor image which can be used for continuous integration purposes
-*   [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
-*   [Zonama/ZonamaDev](https://github.com/Zonama/ZonamaDev) - Development Environment for SWGEMU
 
 ## C++
 
@@ -5611,6 +5638,7 @@
 *   [reinterpretcat/utymap](https://github.com/reinterpretcat/utymap) - Highly customizable library for procedural world generation based on real map data
 *   [recastnavigation/recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 *   [DFHack/stonesense](https://github.com/DFHack/stonesense) - A retro isometric visualizer for Dwarf Fortress
+*   [FlorianLance/City-procedural-modeling](https://github.com/FlorianLance/City-procedural-modeling) - A random procedural modeling of a city. (student project)
 
 ## CMake
 
@@ -5979,6 +6007,7 @@
 *   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 *   [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 *   [jariz/vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
+*   [paradoxxxzero/butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 
 ## Blade
 
@@ -6037,6 +6066,7 @@
 *   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 *   [Cellule/dndGenerator](https://github.com/Cellule/dndGenerator) - Npc Generator for Dungeon and Dragon
 *   [metamagic-games/handbooker](https://github.com/metamagic-games/handbooker) - Turn markdown into a player's handbook
+*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## R
 
