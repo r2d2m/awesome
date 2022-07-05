@@ -1424,7 +1424,7 @@
 *   [Unity-Technologies/DOTS-training-samples](https://github.com/Unity-Technologies/DOTS-training-samples) - Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS.
 *   [alelievr/Mixture](https://github.com/alelievr/Mixture) - Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime
 *   [cloudymax/Unity-References](https://github.com/cloudymax/Unity-References) - ideas worrth keeping around
-*   [shlifedev/GoogleSheet-Database](https://github.com/shlifedev/GoogleSheet-Database) - unity google sheet core module
+*   [shlifedev/ugs-core-old](https://github.com/shlifedev/ugs-core-old) - unity google sheet core module
 *   [Frolanta/hotlineParis](https://github.com/Frolanta/hotlineParis) - Unity3D Hotline Miami remake
 *   [alxcancado/HotlineMiami_like](https://github.com/alxcancado/HotlineMiami_like) - Unity3D + C# + Hotline Miami + Top Down + Game + 2D
 *   [JonGift/Unity-Text-Based-Rpg-Framework](https://github.com/JonGift/Unity-Text-Based-Rpg-Framework) -
@@ -4042,7 +4042,6 @@
 *   [staff0rd/polygon-map-unity](https://github.com/staff0rd/polygon-map-unity) - An implementation of Polygon Map Generator in C# for Unity
 *   [Endarren/Unity_Resources](https://github.com/Endarren/Unity_Resources) - A list of resources and tutorials for those doing programming in Unity.
 *   [yasirkula/UnitySpinningLoadingBars](https://github.com/yasirkula/UnitySpinningLoadingBars) - 3 different spinning loading bar prefabs for Unity's UI system
-*   [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 *   [SebLague/Procedural-Landmass-Textures](https://github.com/SebLague/Procedural-Landmass-Textures) - Textures for the procedural landmass series
 *   [smkplus/ShaderBooks](https://github.com/smkplus/ShaderBooks) - ShaderBooks
 *   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
@@ -4059,7 +4058,7 @@
 
 ## C++
 
-*   [focus-creative-games/huatuo](https://github.com/focus-creative-games/huatuo) - huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix
+*   [tuyoogame/huatuo](https://github.com/tuyoogame/huatuo) - huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix
 *   [SergeyMakeev/TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) - Cross-platform, fiber-based, multi-threaded task scheduler designed for video games.
 *   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -5783,6 +5782,7 @@
 *   [ksafin/DynamicEconomy](https://github.com/ksafin/DynamicEconomy) - A Virtual Economy for your Minecraft Server
 *   [SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
 *   [Todd-Davies/AI_Sandbox_Command](https://github.com/Todd-Davies/AI_Sandbox_Command) - My AI Sandbox Commanders
+*   [gamesbyangelina/EvoMaze](https://github.com/gamesbyangelina/EvoMaze) - A tiny example of computational evolution, based on an Advanced Java lecture I gave at Imperial.
 
 ## Go
 
