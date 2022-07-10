@@ -82,7 +82,7 @@
 *   [Handlebars-Net/Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 *   [RoyTheunissen/Asset-Palette](https://github.com/RoyTheunissen/Asset-Palette) - Allows you to quickly organize assets for certain workflows, such as organizing prefabs for level design.
 *   [KuroiRoy/UnityAnimationPreviewAutoplay](https://github.com/KuroiRoy/UnityAnimationPreviewAutoplay) -
-*   [grahamboree/tilde](https://github.com/grahamboree/tilde) - tilde
+*   [grahamboree/tilde](https://github.com/grahamboree/tilde) - A remote developer console for Unity
 *   [edualvarado/unity-footprints](https://github.com/edualvarado/unity-footprints) - Real-Time Locomotion on Soft Grounds with Dynamic Footprints - 2022 - Frontiers in Virtual Reality
 *   [bugsnag/bugsnag-unity](https://github.com/bugsnag/bugsnag-unity) - Automatic error reporting for Unity games
 *   [Unity-Technologies/PeopleSansPeople](https://github.com/Unity-Technologies/PeopleSansPeople) - Unity's privacy-preserving human-centric synthetic data generator
@@ -4106,7 +4106,6 @@
 *   [moderne/moderne](https://github.com/moderne/moderne) - The Side-To-IDE Developer Tool To Manage Contents Of Packages Expressed As Maps Of Code, Docs and Tests On Function Level; Elimintate Plumbing By Facsilitating Maintanance Of Abstract Package Structure; Build Packages With Closure For Publishing; Synchronise With Remote Source Control; Support Templates For Modern Node.js Apps; Deploy API As Serverless Functions.
 *   [mb21/api-explorer](https://github.com/mb21/api-explorer) - GUI tool to map any JSON-based Web API, plus node server to access it as if it were a HAL Hypermedia API
 *   [esnet/react-network-diagrams](https://github.com/esnet/react-network-diagrams) - Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
-*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 *   [Unity-Technologies/com.unity.multiplayer.docs](https://github.com/Unity-Technologies/com.unity.multiplayer.docs) - Open Source documentation for Unity Multiplayer, which includes Netcode for GameObjects, the Unity Transport Package and Educational references and Sample Games such as Boss Room.
 *   [obsidian-canzi/Enhanced-editing](https://github.com/obsidian-canzi/Enhanced-editing) - 旨在增强Obsidian编辑功能的插件
 *   [pjeby/note-folder-autorename](https://github.com/pjeby/note-folder-autorename) - Obsidian plugin to support folder-overview notes by keeping their folder in sync
@@ -5614,6 +5613,7 @@
 *   [myfix16/AutoSchedule](https://github.com/myfix16/AutoSchedule) - Automatically generate class schedules for CUHZ(SZ) students.
 *   [ctcodie/MathHammer](https://github.com/ctcodie/MathHammer) - Static site for calculating probabilities involved in a tabletop dice based war-game (40k)
 *   [jackmil3s/battleScribeDecks](https://github.com/jackmil3s/battleScribeDecks) - App that takes BattleScribe Rosters and formats them in a deck-of-cards type unit list
+*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 *   [hrbrmstr/streamgraph](https://github.com/hrbrmstr/streamgraph) - :wavy_dash: htmlwidget for creating streamgraph visualizations in R
 *   [OldManUmby/DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) - Dungeons and Dragons 5th Edition SRD converted to Markdown and other formats. Now Obsidian.md friendly!
 *   [kookma/TW-Timelines](https://github.com/kookma/TW-Timelines) - create timeline and sequence in Tiddlywiki
