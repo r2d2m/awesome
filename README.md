@@ -2943,7 +2943,7 @@
 *   [depuits/DefaultScriptsEditor](https://github.com/depuits/DefaultScriptsEditor) - Unity editor for default scripts
 *   [sschmid/NLog](https://github.com/sschmid/NLog) - Flexible logging for C# and Unity
 *   [DuoPlanet-com/Interaction_System-Unity](https://github.com/DuoPlanet-com/Interaction_System-Unity) - The interaction system is useful for implementing functionality or props for the player to interact with. This could be done by looking at an object, touching it or by pressing a button, while looking at it. This is a useful tool to use when making first person games.
-*   [barrettotte/Master-Telegrapher-Demo](https://github.com/barrettotte/Master-Telegrapher-Demo) - One Button Game Jam Entry Summer 2016. Its pretty much a telegraph simulator. It's pretty boring to play, but it was a lot of fun to make. One of the only things that I have actually finished.
+*   [barrettotte/Master-Telegrapher-Demo](https://github.com/barrettotte/Master-Telegrapher-Demo) - One Button Game Jam Entry Summer 2016
 *   [kbegiedza/PortableConsole](https://github.com/kbegiedza/PortableConsole) - Easy to use and modify in-game console, based on Unity's native UI system only.
 *   [woncomp/Viscera](https://github.com/woncomp/Viscera) - Unity Editor extension to see object member values.
 *   [yasirkula/UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo) - Interactable runtime scene gizmo for uGUI
