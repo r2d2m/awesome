@@ -4128,7 +4128,7 @@
 *   [theodo/ticket-dependency-graph](https://github.com/theodo/ticket-dependency-graph) - Visualize the dependencies between your Trello tickets
 *   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 *   [brucemcpherson/sankeysnipforoffice](https://github.com/brucemcpherson/sankeysnipforoffice) - Sankey snip for Office is an Excel Add-in  ported from the Apps Script add-on of the same name
-*   [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+*   [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 *   [352Media/skilltree](https://github.com/352Media/skilltree) -
 *   [rotorz/unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer) - A command line utility that synchronizes asset files from npm packages into an appropriate directory of a game project that is made using the Unity game engine. Please read through the readme before using.
 *   [js-data/js-data](https://github.com/js-data/js-data) - Give your data the treatment it deserves with a framework-agnostic, datastore-agnostic JavaScript ORM built for ease of use and peace of mind. Works in Node.js and in the Browser. Main Site: http://js-data.io, API Reference Docs: http://api.js-data.io/js-data
