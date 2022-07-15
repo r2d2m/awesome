@@ -72,6 +72,7 @@
 
 ## C#
 
+*   [JusticeShultz/Unity-Dynamic-Water](https://github.com/JusticeShultz/Unity-Dynamic-Water) - A very simple and performant take on "fake" 3D dynamic water in Unity. This project takes into account a 3D scenario where water fills up a region in the form of chunks. There are 2 scenes implemented named "Desktop" and "Mobile" and they show different sized chunks and the performance costs of each.
 *   [SunnyValleyStudio/make-civilization-in-unity](https://github.com/SunnyValleyStudio/make-civilization-in-unity) - Tutorial about making a turn-based strategy game in unity
 *   [Szyximus/Earth](https://github.com/Szyximus/Earth) - Simple Earth Generator / Civ Simulator in Unity
 *   [biggkanz/u.third-person-melee](https://github.com/biggkanz/u.third-person-melee) - Prototype project attempting to add features to a free third person controller from the unity assets store.
@@ -2819,7 +2820,7 @@
 *   [you-ri/LiliumToonGraph](https://github.com/you-ri/LiliumToonGraph) - UniversalRP Toon Shader with ShaderGraph
 *   [MaxSigma/UnityFluidExperiments](https://github.com/MaxSigma/UnityFluidExperiments) - Collection of Fluid Simulation Experiments in Unity
 *   [anaseinea/Parallax-Mapping-Node-Unity](https://github.com/anaseinea/Parallax-Mapping-Node-Unity) - This is a custom node for unity shader graph to create the parallax mapping effect
-*   [Smidgens/unity-asset-events](https://github.com/Smidgens/unity-asset-events) - Event plugin for Unity3D.
+*   [Smidgens/unity-scriptable-events](https://github.com/Smidgens/unity-scriptable-events) - Event plugin for Unity3D.
 *   [AnojanS/RocketThrust](https://github.com/AnojanS/RocketThrust) - A Unity 3D rocket piloting game with three unique levels
 *   [XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization library for Unity.   Unity数据可视化图表插件。
 *   [m-garin/CityBuilder3D](https://github.com/m-garin/CityBuilder3D) - Simple 3D city builder \[Unity]
@@ -3867,7 +3868,6 @@
 *   [obviousjim/Programming3dWorlds](https://github.com/obviousjim/Programming3dWorlds) - Course Material for Programming 3D Worlds, Unity3d for Creative Coding ITP Spring 2012
 *   [paynechu/jsonfx-for-unity3d](https://github.com/paynechu/jsonfx-for-unity3d) - fork from bitbucket's jsonfx-for-unity3d
 *   [GameResearchAtMcGill/unitytool](https://github.com/GameResearchAtMcGill/unitytool) - Unity Stealth Tool
-*   [ChrisCalef/FreeWorldKit](https://github.com/ChrisCalef/FreeWorldKit) - An open source first person online game starter kit utilizing Unity3D, SmartFox, RAIN AI, UnitySteer, and our own FlightGear World Server terrain project.
 
 ## generic
 
