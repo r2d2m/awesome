@@ -141,7 +141,7 @@
 *   [Hirashi3630/UrGUI](https://github.com/Hirashi3630/UrGUI) - UrGUI: easy to create GUI for Unity mods and debug
 *   [MangoButtermilch/Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer) - Unity C# script and shader for GPU instanced grass
 *   [Dafiely-nyan/Unity-Eventer](https://github.com/Dafiely-nyan/Unity-Eventer) - An easier way to manage events in Unity
-*   [SoulShardStudos/SoulShardUtilities](https://github.com/SoulShardStudos/SoulShardUtilities) - A general Unity Utilities Package, just clone the repository into a unity project
+*   [SoulShardStudios/SoulShardUtilities](https://github.com/SoulShardStudios/SoulShardUtilities) - A general Unity Utilities Package, just clone the repository into a unity project
 *   [sinbad/UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
 *   [forcewake/FlatFile](https://github.com/forcewake/FlatFile) - FlatFile is a library to work with flat files
 *   [jehugaleahsa/FlatFiles](https://github.com/jehugaleahsa/FlatFiles) - Reads and writes CSV, fixed-length and other flat file formats with a focus on schema definition, configuration and speed.
