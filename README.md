@@ -1827,7 +1827,7 @@
 *   [brunomikoski/TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
 *   [Mervill/Unity3D-NLua](https://github.com/Mervill/Unity3D-NLua) - Everything you need to get started using Lua in Unity3D. Indie & Pro compatible.
 *   [MoMe36/Unity](https://github.com/MoMe36/Unity) -
-*   [Smidgens/unity-context-grapher](https://github.com/Smidgens/unity-context-grapher) - Context menu plugin for Unity3D
+*   [Smidgens/unity-context-graph](https://github.com/Smidgens/unity-context-graph) - Context menu plugin for Unity3D
 *   [kirevdokimov/UnityWatchToolExtension](https://github.com/kirevdokimov/UnityWatchToolExtension) - This tool allows you to watch any variable from any MonoBehaviour via one simple attribute
 *   [playemgames/Boner2D](https://github.com/playemgames/Boner2D) - Free Open Source 2D Animation Tools for Unity
 *   [Elringus/SpriteDicing](https://github.com/Elringus/SpriteDicing) - Unity extension for lossless sprite texture compression
@@ -2399,7 +2399,7 @@
 *   [MerlinDS/UIDataBind](https://github.com/MerlinDS/UIDataBind) - The simple and lightweight UI data binding for Unity
 *   [FBast/ReflexityAI](https://github.com/FBast/ReflexityAI) - Provide a basic framework to build an Utility IA in Unity using the xNode editor of Siccity
 *   [joshcamas/UnityCodeEditor](https://github.com/joshcamas/UnityCodeEditor) - A generic syntax highlighter / code editor built into Unity
-*   [ehsan-mohammadi/Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - A Unity-3D library, to procedural orientate character head (and chest) in a direction without using any animation data.
+*   [ehsan-mohammadi/Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - A Unity package, to procedurally orientate the character's head (and chest) in a direction without using any animation data.
 *   [marcellus00/visc](https://github.com/marcellus00/visc) - Extendable visual scenario editor for Unity
 *   [peeweek/net.peeweek.console](https://github.com/peeweek/net.peeweek.console) - An interactive runtime console for unity available as package
 *   [TwoTenPvP/UnityPackager](https://github.com/TwoTenPvP/UnityPackager) - A console application to pack and unpack .unitypackage files
@@ -4970,7 +4970,7 @@
 *   [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 *   [kumavis/node-blockly-js-editor](https://github.com/kumavis/node-blockly-js-editor) - :twisted_rightwards_arrows: Blocks to Javascript and Back Again
 *   [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-*   [QuintenDegraeve/notion-export-action](https://github.com/QuintenDegraeve/notion-export-action) - Github Action for retrieving Notion export URLs
+*   [quintende/notion-export-action](https://github.com/quintende/notion-export-action) - Github Action for retrieving Notion export URLs
 *   [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 *   [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
