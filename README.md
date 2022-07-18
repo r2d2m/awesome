@@ -72,6 +72,7 @@
 
 ## C#
 
+*   [Angus-Fan/TurnBasedStrategyGame](https://github.com/Angus-Fan/TurnBasedStrategyGame) - My Unity project for a turn-based strategy game. This is an 'open-source' version which has the basic code for the game's core functions.
 *   [JusticeShultz/Unity-Dynamic-Water](https://github.com/JusticeShultz/Unity-Dynamic-Water) - A very simple and performant take on "fake" 3D dynamic water in Unity. This project takes into account a 3D scenario where water fills up a region in the form of chunks. There are 2 scenes implemented named "Desktop" and "Mobile" and they show different sized chunks and the performance costs of each.
 *   [SunnyValleyStudio/make-civilization-in-unity](https://github.com/SunnyValleyStudio/make-civilization-in-unity) - Tutorial about making a turn-based strategy game in unity
 *   [Szyximus/Earth](https://github.com/Szyximus/Earth) - Simple Earth Generator / Civ Simulator in Unity
@@ -5404,7 +5405,6 @@
 *   [reinterpretcat/utymap](https://github.com/reinterpretcat/utymap) - Highly customizable library for procedural world generation based on real map data
 *   [recastnavigation/recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
 *   [DFHack/stonesense](https://github.com/DFHack/stonesense) - A retro isometric visualizer for Dwarf Fortress
-*   [FlorianLance/City-procedural-modeling](https://github.com/FlorianLance/City-procedural-modeling) - A random procedural modeling of a city. (student project)
 
 ## Shell
 
