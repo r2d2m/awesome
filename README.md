@@ -83,7 +83,7 @@
 *   [SunnyValleyStudio/SimpleCityBuilder](https://github.com/SunnyValleyStudio/SimpleCityBuilder) - How to create a simple 3d city builder in Unity 2020
 *   [SunnyValleyStudio/Simple-Traffic-System-Unity-2020](https://github.com/SunnyValleyStudio/Simple-Traffic-System-Unity-2020) - How to create a simple traffic system for a city builder type of game
 *   [SunnyValleyStudio/Simple_Save_System_In_Unity](https://github.com/SunnyValleyStudio/Simple_Save_System_In_Unity) - Project FIles for a Unity tutorial on saving game data to a file
-*   [SunnyValleyStudio/Unity\_2D_Proecdural_Dungoen_Tutorial](https://github.com/SunnyValleyStudio/Unity\_2D_Proecdural_Dungoen_Tutorial) - Using RAndom Wlak and Binary Space partitioning to create a 2D procedural dungeon in Unity 2020
+*   [SunnyValleyStudio/Unity\_2D_Procedural_Dungoen_Tutorial](https://github.com/SunnyValleyStudio/Unity\_2D_Procedural_Dungoen_Tutorial) - Using RAndom Wlak and Binary Space partitioning to create a 2D procedural dungeon in Unity 2020
 *   [SunnyValleyStudio/SImpleCityPedestrianAI](https://github.com/SunnyValleyStudio/SImpleCityPedestrianAI) -
 *   [SunnyValleyStudio/More-modular-code-using-scriptable-objects-unity-2021](https://github.com/SunnyValleyStudio/More-modular-code-using-scriptable-objects-unity-2021) - Learn how to use Scriptable Objects to make your game more data driven and your code less rigid
 *   [SunnyValleyStudio/Unity-Inventory-system-using-SO-and-MVC](https://github.com/SunnyValleyStudio/Unity-Inventory-system-using-SO-and-MVC) - Scripts for a tutorial about creating an Inventory System in Unity using Scriptable Objects and Model View Controller pattern
