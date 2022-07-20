@@ -131,7 +131,7 @@
 *   [ThatRobVK/Tabletop-Theatre](https://github.com/ThatRobVK/Tabletop-Theatre) - Immersive 3D Virtual Tabletop compatible with many TT-RPG systems. Includes map editor and play mode.
 *   [Prybh/PackageToSource](https://github.com/Prybh/PackageToSource) - Unity extension to improve working with and modifying packages
 *   [alexjhetherington/FootnoteUtilities](https://github.com/alexjhetherington/FootnoteUtilities) - A collection of common and useful Unity C# scripts to help you create projects quicker
-*   [VoidXH/Cavern](https://github.com/VoidXH/Cavern) - Fully adaptive object-based audio engine with upmixer, room correction, and spatializer, with one-click complete Unity audio engine replacement.
+*   [VoidXH/Cavern](https://github.com/VoidXH/Cavern) - Fully adaptive object-based audio engine with upmixer, decoders, room correction, and spatializer, with one-click complete Unity audio engine replacement.
 *   [ianhorswill/Step](https://github.com/ianhorswill/Step) - A simple text planner for use in Unity games
 *   [tom-weiland/RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
 *   [nawodyaishan/GameDev-TileVania](https://github.com/nawodyaishan/GameDev-TileVania) - TileVania - 2D Tile-map Platformer using Unity Engine and C# programming language.
@@ -1828,7 +1828,7 @@
 *   [brunomikoski/TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
 *   [Mervill/Unity3D-NLua](https://github.com/Mervill/Unity3D-NLua) - Everything you need to get started using Lua in Unity3D. Indie & Pro compatible.
 *   [MoMe36/Unity](https://github.com/MoMe36/Unity) -
-*   [Smidgens/unity-context-graph](https://github.com/Smidgens/unity-context-graph) - Context menu plugin for Unity3D
+*   [Smidgens/unity-context-grapher](https://github.com/Smidgens/unity-context-grapher) - Context menu plugin for Unity3D
 *   [kirevdokimov/UnityWatchToolExtension](https://github.com/kirevdokimov/UnityWatchToolExtension) - This tool allows you to watch any variable from any MonoBehaviour via one simple attribute
 *   [playemgames/Boner2D](https://github.com/playemgames/Boner2D) - Free Open Source 2D Animation Tools for Unity
 *   [Elringus/SpriteDicing](https://github.com/Elringus/SpriteDicing) - Unity extension for lossless sprite texture compression
@@ -4254,7 +4254,6 @@
 *   [victorfeitosa/quake-hexen2-mdl-export-import](https://github.com/victorfeitosa/quake-hexen2-mdl-export-import) - Blender Quake and Hexen II MDL Import/Export
 *   [Deopster/Mercenaries-Hearthstone-game-bot](https://github.com/Deopster/Mercenaries-Hearthstone-game-bot) - bot for hearthstone mercenaries mode
 *   [machalite/etg-bot](https://github.com/machalite/etg-bot) - Bot for Enter the Gungeon
-*   [aferral/gungeon_bot](https://github.com/aferral/gungeon_bot) -
 *   [natekarp/NarrativeChart](https://github.com/natekarp/NarrativeChart) - Performance of design team over a 12 week period
 *   [apockill/CreepyCrawlAI](https://github.com/apockill/CreepyCrawlAI) - A deep neural network evolutionary sim, built with Godot, godot-python, and tensorflow.
 *   [lupoglaz/GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Communicating with godot engine through shared memory
@@ -5705,6 +5704,7 @@
 *   [RodrigoTomeES/html-bookmark-to-csv](https://github.com/RodrigoTomeES/html-bookmark-to-csv) - Convert your HTML Firefox Bookmark to CSV and import it into Notion!
 *   [YehoshuaBinElRoi/UnityWallClimbing](https://github.com/YehoshuaBinElRoi/UnityWallClimbing) - Wall/Ledge Climbing using RayCasts in Unity
 *   [LeagueSandbox/leaguesandbox.github.io](https://github.com/LeagueSandbox/leaguesandbox.github.io) - LeagueSandbox's Project Page
+*   [aferral/gungeon_bot](https://github.com/aferral/gungeon_bot) -
 *   [luvshah11/EnterTheNotGungeon](https://github.com/luvshah11/EnterTheNotGungeon) - prefab build
 *   [UFrameIT/UFrameIT](https://github.com/UFrameIT/UFrameIT) - The current Unity-based implementation of the FrameIT approach
 *   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
