@@ -174,7 +174,7 @@
 *   [needle-tools/timeline-mixer](https://github.com/needle-tools/timeline-mixer) - allows for overriding timeline animations per animator
 *   [needle-tools/CopyPaster](https://github.com/needle-tools/CopyPaster) - Copy paste gameobjects across Unity projects
 *   [needle-tools/unity-deeplink](https://github.com/needle-tools/unity-deeplink) -
-*   [needle-tools/shader-variant-explorer](https://github.com/needle-tools/shader-variant-explorer) -
+*   [needle-tools/shader-variant-explorer](https://github.com/needle-tools/shader-variant-explorer) - Shader Variant Explorer lets you peek into Unity's shader compilation process to better understand the composition of shader files.
 *   [needle-tools/procedural-stochastic-texturing](https://github.com/needle-tools/procedural-stochastic-texturing) -
 *   [needle-tools/transform-changed-helper](https://github.com/needle-tools/transform-changed-helper) - Handles transform.hasChanged for you
 *   [needle-tools/hybrid-packages](https://github.com/needle-tools/hybrid-packages) - Export UPM packages as .unitypackage files
@@ -3345,7 +3345,7 @@
 *   [Retalyx/Hearthstone-Unity-Clone](https://github.com/Retalyx/Hearthstone-Unity-Clone) -
 *   [soraphis/h4xor](https://github.com/soraphis/h4xor) - Unity3D turn based game in a cyberworld setting. https://fsi.hochschule-trier.de/dev/null/1337\_H4x0r
 *   [sziraqui/pmp-go](https://github.com/sziraqui/pmp-go) - Poor Man's Pokemon Go!
-*   [PokemonUnity/PokemonUnity](https://github.com/PokemonUnity/PokemonUnity) - A framework to build Pokémon RPG games.
+*   [PokemonUnity/PokemonUnity](https://github.com/PokemonUnity/PokemonUnity) - A LEGACY Unity project to help build Pokémon-esque RPG games.
 *   [Robin-Assmann/turnbased-rpg](https://github.com/Robin-Assmann/turnbased-rpg) - Turnbased RolePlay Game
 *   [marijnz/unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity.
 *   [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
