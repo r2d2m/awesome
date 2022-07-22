@@ -2492,7 +2492,7 @@
 *   [vanish87/UnityTools](https://github.com/vanish87/UnityTools) -
 *   [CaptainHillman/UnityTools](https://github.com/CaptainHillman/UnityTools) - Custom made gizmos for use in Unity final builds.
 *   [abdullaAshraf/Tanks-Multiplayer](https://github.com/abdullaAshraf/Tanks-Multiplayer) - Android 2D top down tanks arena multiplayer game using Unity
-*   [Mun1z/KingNetwork](https://github.com/Mun1z/KingNetwork) -  KingNetwork is an open source library to facilitate the creation and communication of clients and servers through TCP, UDP and Web sockets.
+*   [Mun1z/KingNetwork](https://github.com/Mun1z/KingNetwork) - KingNetwork is an open source library to facilitate the creation and communication of clients and servers via TCP, UDP, WebSocket and RUDP sockets.
 *   [humbertodias/unity-real-time-strategy-game](https://github.com/humbertodias/unity-real-time-strategy-game) - Unity Real Time Strategy Game
 *   [MyIsaak/egyptian-god](https://github.com/MyIsaak/egyptian-god) - A #LDJAM36 game submission made with Unity
 *   [Tearth/Real-Ship-Physics](https://github.com/Tearth/Real-Ship-Physics) - The prototype of the real ship physics in Unity based on the voxel system.
