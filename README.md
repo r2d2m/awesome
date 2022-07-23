@@ -5524,7 +5524,7 @@
 *   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
 *   [ringmaster/dicecalc](https://github.com/ringmaster/dicecalc) - A D\&D-style dice rolling library for PHP
 *   [conceptsandtraining/lib-ente](https://github.com/conceptsandtraining/lib-ente) - An entity component framework for PHP.
-*   [controlz/webParser](https://github.com/controlz/webParser) - Parse/Scrap webpages and convert HTML elements into JSON.
+*   [mmottola24/webParser](https://github.com/mmottola24/webParser) - Parse/Scrap webpages and convert HTML elements into JSON.
 *   [dweidner/laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel Facade for Goutte, a simple PHP Web Scraper
 *   [morshedalam/url-scraper-php](https://github.com/morshedalam/url-scraper-php) - A parser class to grab website contents and extract urls
 *   [stewang/hearthstone-deck-utility](https://github.com/stewang/hearthstone-deck-utility) - A simple web application to let you manage your Hearthstone decks and track statistics.
