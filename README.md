@@ -425,7 +425,7 @@
 *   [BrandonMCoffey/Factorio-Systems-Demo](https://github.com/BrandonMCoffey/Factorio-Systems-Demo) - Unity - A recreation of the belt system in factorio
 *   [atahan-git/UnityFactorySimulator](https://github.com/atahan-git/UnityFactorySimulator) - This is the core of the factory simulation I'm using for my game Made in Mars, released for free for using as a starting point in your projects!
 *   [MatthewStrouss/PocketFactory](https://github.com/MatthewStrouss/PocketFactory) - A rewrite of the Assembly Line Game made in Unity
-*   [active-logic/prolog](https://github.com/active-logic/prolog) - Automated Logger and Interactive Console for Unity 3D
+*   [active-logic/debug-chan](https://github.com/active-logic/debug-chan) - Automated Logger and Interactive Console for Unity 3D
 *   [theor/Automation](https://github.com/theor/Automation) - Factorio's belt system implemented in unity/DOTS
 *   [tangzhongyue/Unity-Chemical-Engine](https://github.com/tangzhongyue/Unity-Chemical-Engine) -
 *   [gucheng0712/CombatDesigner](https://github.com/gucheng0712/CombatDesigner) - A Frame Based Visual Combat System in Unity Game Engine
