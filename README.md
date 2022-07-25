@@ -5981,7 +5981,7 @@
 *   [erumi321/HadesRawTextParser](https://github.com/erumi321/HadesRawTextParser) - A raw text parser that will parse SJSON text the same as the game normally would, but allow for more customization. Not Used directly for Hades but as a library for other mods
 *   [rlangewi/ludo-lodge-tts-scripting-tutorials](https://github.com/rlangewi/ludo-lodge-tts-scripting-tutorials) - Code examples from Tabletop Simulator scripting tutorials posted to the Ludo Lodge YouTube channel.
 *   [buntine/love2d-top-down-shooter](https://github.com/buntine/love2d-top-down-shooter) - A prototype top-down shooter game
-*   [tjakubo2/Decker](https://github.com/tjakubo2/Decker) - Create decks and cards from scripts in Tabletop Simulator
+*   [tjakubo/Decker](https://github.com/tjakubo/Decker) - Create decks and cards from scripts in Tabletop Simulator
 *   [prime31/ecs-lua](https://github.com/prime31/ecs-lua) - A simple, hybrid ECS
 *   [liuhaopen/ecs](https://github.com/liuhaopen/ecs) - unity ecs framework implemented by Lua
 *   [liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO) - an unity mmo demo, base on ecs(game play), xlua(ui)
