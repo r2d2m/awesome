@@ -1392,7 +1392,6 @@
 *   [BrandonCay/DOOMeternalUnity](https://github.com/BrandonCay/DOOMeternalUnity) - A unity remake of Doom Eternal. I'm focusing on remaking the logic of the game for practice. I added a health bar for players to see the damage being done and UI practice.
 *   [BennyKok/unity-damage-display](https://github.com/BennyKok/unity-damage-display) -
 *   [fuyutaa/damageBlinkingInUnity](https://github.com/fuyutaa/damageBlinkingInUnity) - blinking system for after taking damage. Code for a Unity game.
-*   [AndreaDev3D/ThumbCreator](https://github.com/AndreaDev3D/ThumbCreator) - Free unity icon generator
 *   [Shubtonic/Advanced-3rd-Person-control-In-Unity](https://github.com/Shubtonic/Advanced-3rd-Person-control-In-Unity) - The aim of this project was to create a 3rd person controller like the one in Dark Souls that could work with PC and Xbox inputs. In addition to this ray casting was used to determine the location of character.    (Note: only code files are shown)
 *   [RubenWihler/Simple-enemy-AI-for-movement-in-Unity](https://github.com/RubenWihler/Simple-enemy-AI-for-movement-in-Unity) - A very simple AI from my game "Last Souls". -Patrol -Player Chase -Jump -Fully Customizable
 *   [el4248/JadedSoulsCC](https://github.com/el4248/JadedSoulsCC) - Character Controller for Unity Engine
@@ -4690,6 +4689,7 @@
 *   [mvi/UnitySystemInfoTable](https://github.com/mvi/UnitySystemInfoTable) - Crowdsourced table of SystemInfo values from different devices
 *   [OmiyaGames/omiya-games-embed-webgl-template](https://github.com/OmiyaGames/omiya-games-embed-webgl-template) - A Unity WebGL template that can be imported to your own project and be used to create WebGL games that automatically resizes itself to fit within the bounds of the web portal embedding, including fullscreen resize support.
 *   [RodrigoTomeES/html-bookmark-to-csv](https://github.com/RodrigoTomeES/html-bookmark-to-csv) - Convert your HTML Firefox Bookmark to CSV and import it into Notion!
+*   [AndreaDev3D/ThumbCreator](https://github.com/AndreaDev3D/ThumbCreator) - Free unity icon generator
 *   [YehoshuaBinElRoi/UnityWallClimbing](https://github.com/YehoshuaBinElRoi/UnityWallClimbing) - Wall/Ledge Climbing using RayCasts in Unity
 *   [LeagueSandbox/leaguesandbox.github.io](https://github.com/LeagueSandbox/leaguesandbox.github.io) - LeagueSandbox's Project Page
 *   [aferral/gungeon_bot](https://github.com/aferral/gungeon_bot) -
