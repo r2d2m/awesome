@@ -5491,7 +5491,7 @@
 *   [csu/singularity-cms](https://github.com/csu/singularity-cms) - A simple, flat file, markdown CMS in a single PHP file.
 *   [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 *   [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
-*   [robiso/wondercms](https://github.com/robiso/wondercms) - WonderCMS - fast and small flat file CMS (5 files)
+*   [robiso/wondercms](https://github.com/robiso/wondercms) - WonderCMS - fast and small flat file CMS (5 files). Built with PHP, JSON structure.
 *   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
 *   [xmlsquad/gsheet-to-xml](https://github.com/xmlsquad/gsheet-to-xml) - Given the url of a Google Sheet, this Symfony Console command fetches the Google Sheet and outputs it in the form of Xml.
 *   [unity-framework/Config](https://github.com/unity-framework/Config) - Extensible configuration manager for PHP projects that uses dot notation and supports json, ini, array based and many more common formats
