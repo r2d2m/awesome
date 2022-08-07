@@ -1568,7 +1568,7 @@
 *   [blackbone/reference](https://github.com/blackbone/reference) - the way unity assets should be used
 *   [miniclip/ShapeShifter](https://github.com/miniclip/ShapeShifter) - An utility for skinning and switching between different games within the same Unity project.
 *   [tatmanblue/econ-sim](https://github.com/tatmanblue/econ-sim) - Simulator exploring demand vs supply behaviors in AI
-*   [AnzyGit/Unity-sand-shader](https://github.com/AnzyGit/Unity-sand-shader) - A stylized sand shader (with materials example) made with shader graph
+*   [AnzyGit/Anzy-sand-shader](https://github.com/AnzyGit/Anzy-sand-shader) - A stylized sand shader (with materials example) made with shader graph
 *   [Habrador/Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) - Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine, you will learn how to make your own. This is useful if you want to simulate ropes, cloth, tires, etc
 *   [jpgordon00/UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) - Download multiple files at a time in Unity.
 *   [yusufdmn/Animator-test-kit](https://github.com/yusufdmn/Animator-test-kit) - It creates an Unity Editor Window to test animators easily.
