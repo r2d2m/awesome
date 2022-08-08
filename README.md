@@ -2520,7 +2520,7 @@
 *   [Haruma-K/EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
 *   [locus84/Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) - Simple Unity Addressables Alternative That Supports Synchronized API
 *   [Milfeulle/AddressablesManager](https://github.com/Milfeulle/AddressablesManager) - An easy intermediary for Unity's addressables system
-*   [BrunoS3D/True-RaycastAll](https://github.com/BrunoS3D/True-RaycastAll) - ✴️ UNITY - A RaycastAll implementation for Unity to get hits on the same mesh, Point of Entry and Exit.
+*   [brunos3d/True-RaycastAll](https://github.com/brunos3d/True-RaycastAll) - ✴️ UNITY - A RaycastAll implementation for Unity to get hits on the same mesh, Point of Entry and Exit.
 *   [CookieDev-Studio/artemis-projectile](https://github.com/CookieDev-Studio/artemis-projectile) - Projectile physics component for Unity featuring bullet penetration and ricochet
 *   [bentoBAUX/Echo-Leer\_unity](https://github.com/bentoBAUX/Echo-Leer_unity) - This project is where reproduced  the Leer and Paranoia effect from Valorant's agents (Reyna and Omen) in Unity 2020.
 *   [erum-hassan/Unity-3D-Cover-System](https://github.com/erum-hassan/Unity-3D-Cover-System) -
